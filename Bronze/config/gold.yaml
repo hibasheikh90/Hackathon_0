@@ -1,0 +1,25 @@
+# =============================================================================
+# Gold Tier — Master Configuration
+# =============================================================================
+
+scheduler:
+  vault_scan_interval_min: 5
+  social_check_interval_min: 5
+  odoo_sync_interval_min: 5
+  daily_report_time: "18:00"
+  weekly_briefing_day: "monday"
+  weekly_briefing_time: "08:00"
+  log_rotation_interval_hours: 1
+
+error_logging:
+  max_file_size_mb: 50
+  rotation: "weekly"
+  alert_threshold: 3
+  alert_window_seconds: 3600
+  alert_email: "ceo@company.com"
+
+briefing:
+  include_financials: true
+  include_social_metrics: true
+  include_email_digest: true
+  include_task_stats: true

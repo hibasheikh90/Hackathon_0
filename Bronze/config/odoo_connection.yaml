@@ -1,0 +1,9 @@
+# =============================================================================
+# Gold Tier — Odoo ERP Connection
+# =============================================================================
+# Credentials loaded from .env: ODOO_URL, ODOO_DB, ODOO_API_KEY, ODOO_USERNAME
+
+host: "https://your-company.odoo.com"
+database: "your-company-db"
+timeout_seconds: 10
+max_retries: 2

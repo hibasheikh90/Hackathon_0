@@ -1,0 +1,34 @@
+{
+  "mcpServers": {
+    "vault": {
+      "command": "python",
+      "args": ["mcp_servers/vault_server.py"],
+      "cwd": "G:/Desktop/Hackathon_0/Bronze"
+    },
+    "email": {
+      "command": "python",
+      "args": ["mcp_servers/email_server.py"],
+      "cwd": "G:/Desktop/Hackathon_0/Bronze"
+    },
+    "accounting": {
+      "command": "python",
+      "args": ["mcp_servers/accounting_server.py"],
+      "cwd": "G:/Desktop/Hackathon_0/Bronze"
+    },
+    "social": {
+      "command": "python",
+      "args": ["mcp_servers/social_server.py"],
+      "cwd": "G:/Desktop/Hackathon_0/Bronze"
+    },
+    "briefing": {
+      "command": "python",
+      "args": ["mcp_servers/briefing_server.py"],
+      "cwd": "G:/Desktop/Hackathon_0/Bronze"
+    },
+    "odoo_jsonrpc": {
+      "command": "python",
+      "args": ["mcp_servers/odoo_jsonrpc_server.py"],
+      "cwd": "G:/Desktop/Hackathon_0/Bronze"
+    }
+  }
+}

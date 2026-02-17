@@ -1,0 +1,16 @@
+[
+  {
+    "id": "20260217_155949_8f5247",
+    "source": "test.source",
+    "context": {
+      "key": "value"
+    },
+    "error": "test error",
+    "status": "resolved",
+    "retry_count": 0,
+    "max_retries": 3,
+    "created_at": "2026-02-17T15:59:49.810968",
+    "last_attempt": null,
+    "resolved_at": "2026-02-17T15:59:49.836345"
+  }
+]

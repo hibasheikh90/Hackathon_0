@@ -1,0 +1,88 @@
+# Weekly CEO Briefing — Week {{ week_number }}, {{ year }}
+
+**Generated:** {{ generated_at }}
+**Period:** {{ period_start }} to {{ period_end }}
+
+---
+
+## Executive Summary
+
+{{ executive_summary }}
+
+---
+
+## Financial Snapshot
+
+{% if financials.available -%}
+| Metric | This Week | Last Week | Change |
+|---|---|---|---|
+| Revenue | {{ "$%.2f"|format(financials.revenue_this_week) if financials.revenue_this_week is not none else "N/A" }} | {{ "$%.2f"|format(financials.revenue_last_week) if financials.revenue_last_week is not none else "N/A" }} | {{ "%+.1f%%"|format(financials.revenue_change_pct) if financials.revenue_change_pct is not none else "N/A" }} |
+| Expenses | {{ "$%.2f"|format(financials.expenses_this_week) if financials.expenses_this_week is not none else "N/A" }} | {{ "$%.2f"|format(financials.expenses_last_week) if financials.expenses_last_week is not none else "N/A" }} | {{ "%+.1f%%"|format(financials.expenses_change_pct) if financials.expenses_change_pct is not none else "N/A" }} |
+| Outstanding AR | {{ "$%.2f"|format(financials.ar_total) if financials.ar_total is not none else "N/A" }} | | |
+| Cash Position | {{ "$%.2f"|format(financials.cash_position) if financials.cash_position is not none else "N/A" }} | | |
+{% if financials.ar_aging %}
+**AR Aging:**
+| Bucket | Amount |
+|---|---|
+{% for bucket, amount in financials.ar_aging.items() -%}
+| {{ bucket | replace("_", " ") | title }} | ${{ "%.2f"|format(amount) }} |
+{% endfor -%}
+{% endif -%}
+{% else -%}
+*Odoo not connected — financial data unavailable.*
+{% endif %}
+---
+
+## Task Pipeline
+
+| Metric | Value |
+|---|---|
+| New tasks received | {{ vault.new_this_week }} |
+| Tasks completed | {{ vault.done_this_week }} |
+| Current backlog (Needs Action) | {{ vault.backlog }} |
+| Items in Inbox | {{ vault.inbox_count }} |
+| Avg time to completion | {{ "%.1f days"|format(vault.avg_completion_days) if vault.avg_completion_days is not none else "N/A" }} |
+
+---
+
+## Social Media Performance
+
+{% if social.platforms -%}
+| Platform | Posts | Impressions | Engagement |
+|---|---|---|---|
+{% for p in social.platforms -%}
+| {{ p.display_name }} | {{ p.posts }} | {{ p.impressions if p.impressions else "—" }} | {{ "%.1f%%"|format(p.engagement_rate) if p.engagement_rate else "—" }} |
+{% endfor %}
+**Total posts this week:** {{ social.total_posts }}
+{% else -%}
+*No social media activity this week.*
+{% endif %}
+---
+
+## Email Activity
+
+| Metric | Value |
+|---|---|
+| Emails received | {{ email.emails_received }} |
+| Emails sent | {{ email.emails_sent }} |
+| Avg response time | {{ "%.1f hrs"|format(email.avg_response_hours) if email.avg_response_hours is not none else "N/A" }} |
+{% if email.key_threads %}
+**Key Threads:**
+{% for thread in email.key_threads -%}
+- **{{ thread.subject }}** — from {{ thread.from if thread.from else "unknown" }} — *{{ thread.status }}*
+{% endfor -%}
+{% endif %}
+---
+
+## Action Items Requiring Your Decision
+
+{% if action_items -%}
+{% for item in action_items -%}
+{{ loop.index }}. [{{ item.priority | default("MEDIUM") | upper }}] **{{ item.title }}** ({{ item.file }})
+{% endfor -%}
+{% else -%}
+No items require your decision this week.
+{% endif %}
+---
+
+*Generated {{ generated_at }} by AI Employee (Gold Tier)*

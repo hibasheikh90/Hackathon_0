@@ -1,0 +1,23 @@
+# =============================================================================
+# Gold Tier — Social Media Platform Configuration
+# =============================================================================
+
+facebook:
+  method: "playwright"
+  rate_limit_per_day: 3
+  optimal_hours: "9,12,18"
+
+linkedin:
+  method: "playwright"
+  rate_limit_per_day: 1
+  optimal_hours: "9,12,17"
+
+twitter:
+  method: "api_v2"
+  rate_limit_per_day: 5
+  optimal_hours: "8,12,15,18,21"
+
+instagram:
+  method: "playwright"
+  rate_limit_per_day: 2
+  optimal_hours: "11,19"

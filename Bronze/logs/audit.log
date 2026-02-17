@@ -1,0 +1,84 @@
+{"ts": "2026-02-16T19:43:02.843601", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-16T19:43:10.465429", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-16T19:43:10.480005", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-16T19:43:15.047850", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-16T19:43:22.662021", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-16T19:43:22.686509", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-16T19:43:22.714366", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-16T19:43:30.100583", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-16T19:43:30.131768", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:07:17.711866", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:07:26.745231", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:07:26.843460", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:07:30.499629", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:12:23.311744", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:12:25.792775", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:12:25.808242", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:12:25.832815", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:12:28.324514", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:12:28.352570", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:12:28.382305", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:12:30.661952", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:12:30.692523", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:19:28.281056", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:19:30.843564", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:19:30.862214", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:19:30.887666", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:19:33.203721", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:19:33.224712", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:19:33.250397", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:19:35.549871", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:19:35.577990", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:20:02.166795", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:20:04.707378", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:20:04.730511", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:20:04.848153", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:20:07.421610", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:20:07.438480", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:20:07.458858", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:20:09.749659", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:20:09.765923", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:36:21.858181", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:36:24.286180", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:36:24.300374", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:36:24.327867", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:36:26.618804", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:36:26.637020", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:36:26.659488", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T12:36:29.012322", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:36:29.033170", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T12:36:32.098154", "action": "social.automation.summary", "status": "generated", "details": {"file": "engagement_2026-02-16_to_2026-02-17.md", "total_posts": 0, "success_rate": 0.0}}
+{"ts": "2026-02-17T12:38:14.110194", "action": "social.automation.summary", "status": "generated", "details": {"file": "engagement_2026-02-16_to_2026-02-17.md", "total_posts": 0, "success_rate": 0.0}}
+{"ts": "2026-02-17T12:39:54.592801", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T12:39:56.635860", "action": "social.automation.summary", "status": "generated", "details": {"file": "engagement_2026-02-16_to_2026-02-17.md", "total_posts": 0, "success_rate": 0.0}}
+{"ts": "2026-02-17T15:32:00.644106", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 6}}
+{"ts": "2026-02-17T15:32:05.504447", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T15:32:05.651859", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T15:32:06.682064", "action": "briefing.weekly", "status": "generated", "details": {"file": "WeeklyBrief_2026W07_2.md", "tasks_completed": 6, "action_items": 4}}
+{"ts": "2026-02-17T15:36:08.570608", "action": "briefing.collector.vault_stats", "status": "success", "details": {"inbox": 2, "backlog": 13, "done": 7}}
+{"ts": "2026-02-17T15:36:11.295817", "action": "briefing.collector.social_metrics", "status": "success", "details": {"total_posts": 0, "platform_count": 3}}
+{"ts": "2026-02-17T15:36:11.356284", "action": "briefing.collector.email_digest", "status": "success", "details": {"received": 1, "sent": 0, "threads": 1}}
+{"ts": "2026-02-17T15:36:12.313814", "action": "briefing.weekly", "status": "generated", "details": {"file": "WeeklyBrief_2026W07_3.md", "tasks_completed": 7, "action_items": 4}}
+{"ts": "2026-02-17T16:00:14.497737", "action": "error_summary.daily", "status": "generated", "details": {"file": "DailyErrorSummary_20260217.md", "total_errors": 122, "health": "DEGRADED", "pending_retries": 0}}
+{"ts": "2026-02-17T16:16:31.098582", "action": "ralph.task_completed", "status": "success", "details": {"file": "gmail_Invoice_4821_Payment_Overdue.md", "title": "Invoice #4821 \u2014 Payment Overdue", "type": "email", "checked": 0, "total": 0}}
+{"ts": "2026-02-17T16:16:31.151308", "action": "ralph.task_completed", "status": "success", "details": {"file": "tasks.md", "title": "tasks", "type": "general", "checked": 0, "total": 0}}
+{"ts": "2026-02-17T16:16:31.156052", "action": "ralph.task_completed", "status": "success", "details": {"file": "tasks_2.md", "title": "tasks 2", "type": "general", "checked": 0, "total": 0}}
+{"ts": "2026-02-17T16:16:31.222279", "action": "ralph.task_completed", "status": "success", "details": {"file": "wa_Sarah_Finance_invoice.md", "title": "WhatsApp \u2014 Sarah (Finance)", "type": "whatsapp", "checked": 0, "total": 0}}
+{"ts": "2026-02-17T16:16:31.236084", "action": "ralph.cycle", "status": "complete", "details": {"scanned": 13, "processed": 10, "completed": 4, "blocked": 3, "retried": 5, "errors": 0, "remaining": 9}}
+{"ts": "2026-02-17T16:16:41.421033", "action": "ralph.started", "status": "running", "details": {"max_cycles": 5, "vault": "G:\\Desktop\\Hackathon_0\\Bronze\\AI_Employee_Vault\\vault"}}
+{"ts": "2026-02-17T16:16:41.539803", "action": "ralph.cycle", "status": "complete", "details": {"scanned": 9, "processed": 6, "completed": 0, "blocked": 3, "retried": 6, "errors": 0, "remaining": 9}}
+{"ts": "2026-02-17T16:16:42.563472", "action": "ralph.cycle", "status": "complete", "details": {"scanned": 9, "processed": 6, "completed": 0, "blocked": 3, "retried": 6, "errors": 0, "remaining": 9}}
+{"ts": "2026-02-17T16:16:43.589027", "action": "ralph.cycle", "status": "complete", "details": {"scanned": 9, "processed": 1, "completed": 0, "blocked": 8, "retried": 1, "errors": 0, "remaining": 9}}
+{"ts": "2026-02-17T16:16:44.619522", "action": "ralph.cycle", "status": "complete", "details": {"scanned": 9, "processed": 0, "completed": 0, "blocked": 9, "retried": 0, "errors": 0, "remaining": 9}}
+{"ts": "2026-02-17T16:16:44.620036", "action": "ralph.finished", "status": "complete", "details": {"cycles": 4, "total_completed": 0, "total_processed": 13, "total_errors": 0, "total_blocked": 23, "stopped_reason": "no_progress"}}
+{"ts": "2026-02-17T16:20:44.919583", "action": "ralph.cycle", "status": "complete", "details": {"scanned": 9, "processed": 0, "completed": 0, "blocked": 9, "retried": 0, "errors": 0, "remaining": 9}}
+{"ts": "2026-02-17T16:21:24.443794", "action": "ralph.cycle", "status": "complete", "details": {"scanned": 9, "processed": 0, "completed": 0, "blocked": 9, "retried": 0, "errors": 0, "remaining": 9}}
+{"ts": "2026-02-17T16:36:37.851696", "action": "watcher.started", "status": "running", "details": {"watching": "G:\\Desktop\\Hackathon_0\\Bronze\\vault\\Inbox"}}
+{"ts": "2026-02-17T16:36:43.662160", "action": "watcher.stopped", "status": "shutdown", "details": {}}
+{"ts": "2026-02-17T16:37:05.484092", "action": "planner.plan_created", "status": "success", "details": {"source_file": "tasks.md", "plan_file": "Plan_20260217_163705.md", "priority": "Medium", "needs_approval": "Yes"}}
+{"ts": "2026-02-17T16:37:05.506654", "action": "planner.plan_created", "status": "success", "details": {"source_file": "test_task.md", "plan_file": "Plan_20260217_163705_2.md", "priority": "Medium", "needs_approval": "Yes"}}
+{"ts": "2026-02-17T16:37:05.520443", "action": "planner.started", "status": "running", "details": {"watching": "G:\\Desktop\\Hackathon_0\\Bronze\\vault\\Inbox"}}
+{"ts": "2026-02-17T16:37:19.634720", "action": "planner.stopped", "status": "shutdown", "details": {}}
+{"ts": "2026-02-17T16:37:47.618952", "action": "ralph.started", "status": "running", "details": {"max_cycles": 10, "vault": "G:\\Desktop\\Hackathon_0\\Bronze\\AI_Employee_Vault\\vault"}}
+{"ts": "2026-02-17T16:37:47.765216", "action": "ralph.cycle", "status": "complete", "details": {"scanned": 9, "processed": 0, "completed": 0, "blocked": 9, "retried": 0, "errors": 0, "remaining": 9}}
+{"ts": "2026-02-17T16:37:47.772890", "action": "ralph.finished", "status": "complete", "details": {"cycles": 1, "total_completed": 0, "total_processed": 0, "total_errors": 0, "total_blocked": 9, "stopped_reason": "no_progress"}}
