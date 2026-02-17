@@ -586,12 +586,4 @@ The next weekly briefing includes:
 
 ---
 
-## License
 
-This project was built for a hackathon. See `LICENSE` for details.
-
----
-
-<p align="center">
-  <b>Built with Claude</b> — Turning AI into your most reliable employee.
-</p>
