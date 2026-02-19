@@ -129,58 +129,34 @@ class FacebookPlatform(SocialPlatform):
 
     def _do_post(self, page, content: str, media: list[Path] | None) -> PostResult:
         """Internal: execute the posting flow on the mobile FB page."""
-        from playwright.sync_api import TimeoutError as PlaywrightTimeout
 
-        # Navigate to mobile Facebook
+        # Navigate to mobile Facebook feed
         page.goto(FACEBOOK_MOBILE_URL, wait_until="domcontentloaded")
-        page.wait_for_timeout(3000)
+        page.wait_for_timeout(4000)
 
         # Login if needed
         if self._needs_login(page):
             self._login(page)
-
-        # Navigate to the composer page
-        page.goto(f"{FACEBOOK_MOBILE_URL}?sk=h_chr", wait_until="domcontentloaded")
-        page.wait_for_timeout(3000)
-
-        # Find and click the "What's on your mind?" composer area
-        composer_opened = False
-        for selector in [
-            "div[data-sigil='MComposerInput']",
-            "[name='xc_message']",
-            "textarea[name='xc_message']",
-            "[aria-label*='on your mind']",
-            "[placeholder*='on your mind']",
-        ]:
-            loc = page.locator(selector).first
-            if loc.count() > 0:
-                loc.click()
-                page.wait_for_timeout(2000)
-                composer_opened = True
-                break
-
-        if not composer_opened:
-            # Try the feed composer link on mobile
-            composer_link = page.locator("a[href*='composer'], a[href*='sharer']").first
-            if composer_link.count() > 0:
-                composer_link.click()
+            # Handle save-device redirect after login
+            if "save-device" in page.url or "save_device" in page.url:
+                page.goto(FACEBOOK_MOBILE_URL, wait_until="domcontentloaded")
                 page.wait_for_timeout(3000)
-                composer_opened = True
 
-        if not composer_opened:
+        # Open composer via JS click (bypasses pointer-event interception)
+        clicked = page.evaluate(
+            "var el = document.querySelector('[aria-label*=\"What\\'s on your mind\"]');"
+            "if (el) { el.click(); return true; } return false;"
+        )
+        if not clicked:
             return PostResult(
                 success=False, platform=self.platform_name,
                 error="Could not open Facebook post composer",
             )
+        page.wait_for_timeout(3000)
 
-        # Find the text input area
+        # Find the text input (contenteditable div in composer)
         textarea = None
-        for selector in [
-            "textarea[name='xc_message']",
-            "textarea",
-            "[contenteditable='true']",
-            "[role='textbox']",
-        ]:
+        for selector in ["[contenteditable='true']", "textarea", "[role='textbox']"]:
             loc = page.locator(selector).first
             if loc.count() > 0 and loc.is_visible():
                 textarea = loc
@@ -194,50 +170,36 @@ class FacebookPlatform(SocialPlatform):
 
         # Type the content
         textarea.click()
-        textarea.fill(content)
+        textarea.type(content)
         page.wait_for_timeout(1000)
 
         # Upload media if provided
         if media:
-            file_input = page.locator("input[type='file'][accept*='image']").first
-            if file_input.count() == 0:
-                # Try clicking the photo button first
-                for sel in [
-                    "[data-sigil*='photo']",
-                    "a[href*='photo']",
-                    "[aria-label*='Photo']",
-                ]:
-                    btn = page.locator(sel).first
-                    if btn.count() > 0:
-                        btn.click()
-                        page.wait_for_timeout(2000)
-                        break
-                file_input = page.locator("input[type='file']").first
+            # Click "Photos" option to reveal file input
+            photos_btn = page.get_by_text("Photos", exact=True).first
+            if photos_btn.count() > 0 and photos_btn.is_visible():
+                photos_btn.click()
+                page.wait_for_timeout(2000)
 
+            file_input = page.locator("input[type='file']").first
             if file_input.count() > 0:
                 file_input.set_input_files(str(media[0]))
-                page.wait_for_timeout(3000)
+                page.wait_for_timeout(4000)
 
-        # Click Post / Submit
+        # Click POST button (by visible text)
         posted = False
-        for selector in [
-            "button[name='view_post']",
-            "button[data-sigil*='submit']",
-            "button[type='submit']",
-            "[data-sigil='touchable submit_composer']",
-        ]:
-            btn = page.locator(selector).first
-            if btn.count() > 0:
-                btn.click()
-                posted = True
-                break
+        post_btn = page.get_by_text("POST", exact=True).first
+        if post_btn.count() > 0 and post_btn.is_visible():
+            post_btn.evaluate("el => el.click()")
+            posted = True
 
         if not posted:
-            # Fallback: look for any "Post" button
-            post_btn = page.get_by_role("button", name="Post").first
-            if post_btn.count() > 0:
-                post_btn.click()
-                posted = True
+            for lbl in ["Post", "Share", "Publish"]:
+                btn = page.locator(f"[aria-label='{lbl}']").first
+                if btn.count() > 0 and btn.is_visible():
+                    btn.evaluate("el => el.click()")
+                    posted = True
+                    break
 
         if not posted:
             return PostResult(
@@ -294,12 +256,28 @@ class FacebookPlatform(SocialPlatform):
                 field.fill(self.password)
                 break
 
-        # Submit
-        for sel in ["button[name='login']", "input[name='login']", "button[type='submit']"]:
+        # Submit — try standard buttons, then JS-click the div login button
+        submitted = False
+        for sel in ["button[name='login']", "input[name='login']",
+                    "button[type='submit']:not(.cancelButton):not([data-sigil*='cancel'])"]:
             btn = page.locator(sel).first
-            if btn.count() > 0:
+            if btn.count() > 0 and btn.is_visible():
                 btn.click()
+                submitted = True
                 break
+
+        if not submitted:
+            # Facebook mobile uses a <div aria-label="لاگ ان کریں"> as the login button.
+            # Find it by position: it is the first visible div[aria-label] that is NOT
+            # an input field (email/password inputs also carry aria-label).
+            page.evaluate(
+                "var divs = Array.from(document.querySelectorAll('div[aria-label]'));"
+                "var btn = divs.find(function(d) {"
+                "  return d.offsetParent !== null && d.tagName === 'DIV';"
+                "});"
+                "if (btn) btn.click();"
+                "else { var f = document.querySelector('form'); if (f) f.submit(); }"
+            )
 
         page.wait_for_timeout(5000)
 

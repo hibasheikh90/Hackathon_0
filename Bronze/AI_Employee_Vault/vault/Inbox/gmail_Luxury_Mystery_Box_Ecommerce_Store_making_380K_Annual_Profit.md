@@ -1,0 +1,58 @@
+# Luxury Mystery Box Ecommerce Store making $380K Annual Profit
+
+## Metadata
+- **From:** "Tory @ Flippa" <marketing@flippa.com>
+- **Date:** 2025-02-03 15:00:39
+- **Source:** Gmail IMAP
+- **UID:** 501
+
+## Body
+This business drives 490K monthly page views at a 3X return on ad spend and includes an email list of 30K subscribers.
+
+View in browser (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVtygL8d1t7WW6M3Gg963fMzWW1PHNH55rCrDYN4dVQbz5m_5PW69t95C6lZ3llLy9YYm-qbvW6NtBxY7_dQWrW9d4bgV4_3Vs3W2y55yN4nbQbsW9lQwZ-2Mk0pgW2hdSl38qzbyBW24t6SJ5Xd13zN9jv5SsmyZl1W8kN0g91w6HVLW6zPzNW2WNMG8W1RyM9M8LZy57W64mlyh5M2kPMW5Q8pfD8QBPX7V-GLJP1RfJ38W518Ckl4qYRQ7W57_PZ54Kmh4MN3wDZBhh0WRdW6Kq_ZV2ylQz1W5bN9Wf6_HnMDW2Nhb4619X_11MCPXKRF7QQgW3Mv0Lc1Q1ppnW42tDyx7kL_8CW7cfjyd6vH0sdW4P714w2BBTDcN1jKYdNcGvKbN1S9khzpYFZ9N7Z8v5dZYb4wW4v_PXm3TH8bxW5hvMWV5ys-dhW6R4yHJ2p4-5LW5166w_7MC4sXW8zrRLc6D91rJW7PS4mb4WbxJTW6fVv_h6-_bXkW2VrqTp5wnLvff4-bhM404 )
+
+Own an online business? Find out what it's worth with a free valuation > (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVtygL8d1t7WW6M3Gg963fMzWW1PHNH55rCrDYN4dVQbT3prCCW6N1vHY6lZ3p1V8vwhJ7qCJrmW3X2g_g1h3KhMW2tHzvc2sT4nPW739sfX66MNVrVD4zBt5xDn7fN7xqX40MwJG6VtcthR4vYB_jW4rZVKk8JnYbXW3SwtV24N30W1W8vWvTz8zWtYtW988njk4VFQQwN33HTwkTtFjBW1_clLD58YjHNW2T5yLH2KmD7ZW69_G_K3d7jv9W21QmbJ8f0fJTW83rGlk7tTD8MW6MFVyT40dRNlW15-CTH4l6r2YW23mVzL6cl2j8W8K2TFy199NvzN84Kmv5SZc2xf3vDQRn04 )
+
+
+
+
+
+Invest - Daily Announcement Banner - 540px - announcement-v2 (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVtygL8d1t7WW6M3Gg963fMzWW1PHNH55rCrDYN4dVQcs3prCCW7Y8-PT6lZ3m_W3_tSWp5KBnY9W6pS9hF3KFp8lW9jLLQr4ms_d9VyykJq71K5H3W2tMyW461k7bkW3zFfy74YmHhPW4QJpLf7jVq6TW4pfXM938g-cfW4rhfWh45ykYZW5H2G016gR1QKW41Z7_y7zH8YzMtPYgdSYmjCW38nhrv5GJZ_HW4lLqsZ2_qPlwW16LFJ74tcB_bN8SLM6cFKQ0YW58DkKv7MlcSZW6xYY3981V227VSy3Rm97WXyWW2kSQ1k4MS_d_W3sqS9g8ySwNDW8G0rGT93zsSCW7Dhws26mz4PwW8lRLNH6v2G3WW5VZrRJ8r3FnHW8RC-tC368-prf50qh_604 )
+
+January, 2025
+
+TODAY’S TOP PICK
+
+Luxury Mystery Box Ecommerce Store (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVtygL8d1t7WW6M3Gg963fMzWW1PHNH55rCrDYN4dVQbT5m_5PW6N1X8z6lZ3nZW1-fG-m5MsCtSW5g0-9D4NmmbTW3JzbK75l6qYhW5vTm9h73Sx_XV71Q2m3-FRSsW7BB0rs98XCT8W6d49zD4qzjSsW2mF23W1F7HhQW6PVyNX58sc4LVZC0Rn2XwVjpN6XxcHSRNCn2W5Mpslt7St_XXN3Gx5LJKt2CnW6YJsW33l-BzBW2lzHV48NJzhhW4RHNrK3Wcb67W8kgPMm1Mr0lWW4bW4-G52N2xgN3WvRhFXRv0JMQj-7cDw1D3W486TJK5LTRB5W4v4q5x6xVJ5hW5nRBF11fKByGN14CnGBDpgCwW92K_RQ3syGfXW5pw8z385Qs47W6xn9Cd10ZSj0W624WGq37F99kN7f1zKhbPDGmW79nDNV4L_q7SVHxy7257bW0kW63RtHq4p0K3WW17SNQN2wvMfmW4xM55t86mYvlW6RTNd-3wTPZnW4RMftp7b5tW7W3hv0Bc51RkjPW72nZpv4bmndZf6WD-X204 )
+
+What does the business do?
+
+This ecommerce business featuring a vast selection of mystery boxes filled with luxury, tech, and cosmetics products sells its products globally to customers in the US, Europe, and South America.
+
+How does the business perform?
+
+- Annual profit: $380,000
+- Profit margin: 57%
+- Business age: 6 years
+
+What do we like?
+
+This business drives 490K monthly page views at a 3X return on ad spend and includes an email list of 30K subscribers.
+
+View Listing
+(https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVtygL8d1t7WW6M3Gg963fMzWW1PHNH55rCrDYN4dVQbT5m_5PW6N1X8z6lZ3nZW1-fG-m5MsCtSW5g0-9D4NmmbTW3JzbK75l6qYhW5vTm9h73Sx_XV71Q2m3-FRSsW7BB0rs98XCT8W6d49zD4qzjSsW2mF23W1F7HhQW6PVyNX58sc4LVZC0Rn2XwVjpN6XxcHSRNCn2W5Mpslt7St_XXN3Gx5LJKt2CnW6YJsW33l-BzBW2lzHV48NJzhhW4RHNrK3Wcb67W8kgPMm1Mr0lWW4bW4-G52N2xgN3WvRhFXRv0JMQj-7cDw1D3W486TJK5LTRB5W4v4q5x6xVJ5hW5nRBF11fKByGN14CnGBDpgCwW92K_RQ3syGfXW5pw8z385Qs47W6xn9Cd10ZSj0W624WGq37F99kN7f1zKhbPDGmW79nDNV4L_q7SVHxy7257bW0kW63RtHq4p0K3WW17SNQN2wvMfmW4xM55t86mYvlW6RTNd-3wTPZnW4RMftp7b5tW7W3hv0Bc51RkjPW72nZpv4bmndZf6WD-X204 )
+
+Apply for Acquisition Finance > (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVtygL8d1t7WW6M3Gg963fMzWW1PHNH55rCrDYN4dVQcs3prCCW7Y8-PT6lZ3ntW5BM9Pm5-Xjp-W6C1yBz2x5qT4W1l9Ttl5fm2K5W1LSX8-676v6_W8rpQ1M7rgpMkW53zVWh4M66gYW2tVwZR5X3TgvW4Nj-BV7wXC6FW8XSzCx4g1JZjW1hkqnm3JCNsmV-5J_d3VNbQfW5QJ6Kx2jnJD3W24rF_s3Y6w3NW5s53zN2Hwj58W8tfVwW6j52KqW2JT2tQ5jnJTbW7JY92F4gvG46W2LcgbF2YnD2KW5mFDnD6CNwTqW6MMX1732DyHSW1grsr065FnpcW4GxZKq5JjsxnW8J2r5j7QtJs5W8cpJm_92yvsvW7KkNJ94T13clW1QRLfB8t6HBpf692f4n04 )
+
+Assisted by Certified M&A Advisor
+
+Jaro Abadines
+
+Asia Pacific Region
+
+Book a Consultation
+(https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVtygL8d1t7WW6M3Gg963fMzWW1PHNH55rCrDYN4dVQc83prCCW7lCdLW6lZ3lpW63jpDc7YZXm2W7LpljG1R-D6jW8TmS868jXNjqV-l3nW85PSC7W8QRp9S76zM4rW19XCkb1CJnS3N1X2cYvYZYlVW36HJSP12_jbXW3p85Hw2jwyY8W7_DqCP1n4lzSN8qgmN1JlQ2_W23jYsF97fkZ0W89L4Jz1Jtx8VN7Nsvd38vVFFW26V6988v-m3PW282LG7419J-sN5pbj6qwwkJ7W5c37013n0_vyN4PwwnZ8WxtmN3SPh2Y2PQ1SW7YHqtg6xMGTqW5fcYrr8FXVvnW1hcY7g5FFzrMN6pJWlM5-218f1StFsC04 )
+
+Check out upcoming Flippa Exit Meetups in your region here > (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVtygL8d1t7WW6M3Gg963fMzWW1PHNH55rCrDYN4dVQc83prCCW7lCdLW6lZ3p5VTB9NX7F2mt8W2cPrwD1rWD8YV-pv_L4l0f8cW1gPftg40S8dFW3DR7qg6nLN3-W6DLwwq1CycblN5tCscrPJmjRW616bhB7g3l1TW8tWbd27vhhZLW4YRz051t371yW1QSKcs3bJf90W318qtq6QnhvzVlKcT21CkYmWW27yksk9kZbllW6yFqJv4ffhc1W6k8JwK51KBlLW6z6Ck_9bZkC6N54Bh6pbXQK4W1sg1Sm7m3SzwW1XTwM-1pY3WWW7zq2K77v4GdZW1yK2fc26-hngW2qKQhK5DyLzXW58n24x5cZF6
+
+... (truncated)

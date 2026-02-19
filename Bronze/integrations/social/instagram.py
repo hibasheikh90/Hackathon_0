@@ -97,66 +97,87 @@ class InstagramPlatform(SocialPlatform):
 
         try:
             with sync_playwright() as p:
-                # Use mobile viewport to get Instagram's mobile web UI (supports posting)
+                # Use desktop viewport — Instagram's desktop web has a proper "Create" button
                 context = p.chromium.launch_persistent_context(
                     user_data_dir=str(BROWSER_DATA_DIR),
-                    headless=True,
-                    viewport={"width": 414, "height": 896},
-                    is_mobile=True,
-                    user_agent=(
-                        "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) "
-                        "AppleWebKit/605.1.15 (KHTML, like Gecko) "
-                        "Version/16.0 Mobile/15E148 Safari/604.1"
-                    ),
+                    headless=False,
+                    viewport={"width": 1280, "height": 900},
                 )
                 page = context.new_page()
 
                 try:
-                    # Navigate to Instagram
-                    page.goto(INSTAGRAM_URL, wait_until="domcontentloaded")
+                    # Navigate directly to the login page, bypassing the landing page
+                    page.goto(INSTAGRAM_URL + "accounts/login/", wait_until="commit")
                     page.wait_for_timeout(3000)
 
-                    # Login if needed
-                    if "login" in page.url.lower() or page.locator("input[name='username']").count() > 0:
+                    # Login if needed — wait briefly for the form, then check
+                    try:
+                        page.wait_for_selector("input[name='username']", timeout=5000)
+                        needs_login = True
+                    except PlaywrightTimeout:
+                        needs_login = False
+
+                    if needs_login:
                         page.fill("input[name='username']", self.username)
                         page.fill("input[name='password']", self.password)
-                        page.click("button[type='submit']")
-                        page.wait_for_timeout(5000)
+                        try:
+                            page.click("button[type='submit']")
+                        except PlaywrightTimeout:
+                            pass  # navigation may have already started
+                        # Wait for redirect away from login page
+                        try:
+                            page.wait_for_url(
+                                lambda url: "login" not in url,
+                                timeout=15000,
+                            )
+                        except PlaywrightTimeout:
+                            pass
+                        page.wait_for_timeout(3000)
 
                         # Dismiss "Save Login Info" dialog if it appears
                         try:
-                            not_now = page.get_by_text("Not Now").first
-                            if not_now.is_visible():
-                                not_now.click()
-                                page.wait_for_timeout(2000)
+                            for label in ["Not now", "Not Now", "Not now."]:
+                                btn = page.get_by_role("button", name=label).first
+                                if btn.count() > 0 and btn.is_visible():
+                                    btn.click()
+                                    page.wait_for_timeout(2000)
+                                    break
                         except Exception:
                             pass
 
-                    # Click the create/new post button (+ icon)
-                    create_btn = None
-                    for selector in [
-                        "[aria-label='New post']",
-                        "[aria-label='Create']",
-                        "svg[aria-label='New post']",
-                    ]:
-                        loc = page.locator(selector).first
-                        if loc.count() > 0:
-                            create_btn = loc
-                            break
+                    # Click "Create" in the sidebar (nav links use textContent, not innerText)
+                    page.evaluate("""() => {
+                        for (const a of document.querySelectorAll('a')) {
+                            if ((a.textContent?.trim() || '').endsWith('Create')) { a.click(); return; }
+                        }
+                    }""")
+                    page.wait_for_timeout(2000)
 
-                    if not create_btn:
+                    # Click "Post" from the submenu
+                    post_clicked = page.evaluate("""() => {
+                        for (const a of document.querySelectorAll('a')) {
+                            const tc = a.textContent?.trim() || '';
+                            if (tc.endsWith('Post') && tc.length < 20) { a.click(); return true; }
+                        }
+                        return false;
+                    }""")
+                    if not post_clicked:
                         return PostResult(
                             success=False, platform=self.platform_name,
-                            error="Could not find Instagram create button",
+                            error="Could not find Post submenu item",
                         )
-
-                    create_btn.click()
                     page.wait_for_timeout(3000)
 
-                    # Upload the first media file
-                    file_input = page.locator("input[type='file']").first
-                    file_input.set_input_files(str(media[0]))
-                    page.wait_for_timeout(3000)
+                    # Upload dialog: click "Select from computer" to trigger file chooser
+                    select_btn = page.get_by_role("button", name="Select from computer").first
+                    if select_btn.count() > 0 and select_btn.is_visible():
+                        with page.expect_file_chooser(timeout=10000) as fc_info:
+                            select_btn.click()
+                        fc_info.value.set_files(str(media[0]))
+                    else:
+                        file_input = page.locator("input[type='file']").first
+                        file_input.set_input_files(str(media[0]))
+                    page.wait_for_timeout(4000)
 
                     # Click "Next" (crop screen)
                     next_btn = page.get_by_role("button", name="Next").first
@@ -168,8 +189,12 @@ class InstagramPlatform(SocialPlatform):
                     next_btn.click()
                     page.wait_for_timeout(2000)
 
-                    # Type caption
+                    # Type caption (desktop uses a div[contenteditable] or textarea)
                     caption_area = page.locator("textarea[aria-label='Write a caption...']").first
+                    if caption_area.count() == 0:
+                        caption_area = page.locator("div[aria-label='Write a caption...']").first
+                    if caption_area.count() == 0:
+                        caption_area = page.locator("[contenteditable='true']").first
                     if caption_area.count() == 0:
                         caption_area = page.locator("textarea").first
                     caption_area.fill(content)

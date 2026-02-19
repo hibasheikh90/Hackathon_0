@@ -1,0 +1,64 @@
+# Find THE ONE.
+
+## Metadata
+- **From:** "Tory @ Flippa" <marketing@flippa.com>
+- **Date:** 2025-04-10 15:08:08
+- **Source:** Gmail IMAP
+- **UID:** 673
+
+## Body
+From a male-focused Ecom to a spiritual YouTube channel, will you find the one?
+
+View in browser (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/MWr4FFxpQNBW2S2Z5h4b3kGtW5wYw0_5vcRfTN3mxJ7C3prCCW95jsWP6lZ3pmW7lcn9730wm40W8XHqFy6g_PwfW8TZV8V6Y86FCVHNP1-36wC7tN4GVjsn8Sg5cW8WXSCF1smJtrW4bsWgm1rcMxZW62Nl_L3LJz8nW1Qhd1b739fFYN8VHZQhyhhGMW5wrk9w8zTCRcW4ZZ4h18b-2kFW2Nh_c042XVJtW4qNRWL3gXG62N4JSB8V1J3tDW3Mw0Jc6NKQ2DML2XLPx5lSWVnM60n6NVMFLW13V66x1JyVFbW8NBR_Y5r3thjW6-bFkn1MyNF1W3FJPrj5_CcS0W8SPrKY203sz9W8gn11c1rkSqTW7r39g92ljgB6W6_JLyR7pKn2vN85rP9CyHfnZW6q8yhV9dcCp0W8h5s3Q1_jvdyW2Xq5P37BTscccmK_Y04 )
+
+Own an online business? Find out what it's worth with a free valuation > (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/MWr4FFxpQNBW2S2Z5h4b3kGtW5wYw0_5vcRfTN3mxJ6q3prCCW6N1vHY6lZ3lwW5cNNQ6392Tx0W8tQqjm5QQXkhN16QXVpZzdyzW8l4mGf4VFCRLW2__nzG89KgqkW284kZH6S9V57W3323wD1DspkTW5sGSCM1cBVdCW6hbh2B4DLhf1W6RhNC38j3X00W8KgSrp7sfqP7N6x2crkCFWrkW7xb0F35FV5LGN3DSLvC14TcKN87x3WK936R5VHfyR18LdypZW4DGNSF4WK4rGW6dypYl20GtzmVfxP964HYw57VLMD-W81pXclVZ9KJR2HZzXmW37LJs79cT2hGf4s_2QT04 )
+
+
+
+
+
+March, 2025
+
+TODAY’S TOP PICK
+
+Male Health Enhancer | $1.3M TTM Rev + High AOV (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/MWr4FFxpQNBW2S2Z5h4b3kGtW5wYw0_5vcRfTN3mxJ6K5m_5PW7lCGcx6lZ3nQW7rgft-4h2PPrW4Rk2kK44XPrmW5zR5Gb5vlMCRW2r4mwt4NDz9FW3tJkpx1z4S_YW7B65sj6WLNcZN7vB7X0-VwBgW5BXb6J9kbjQGW800Pvz5Vvs09W2bRZzH88nfk7VBd46V5QYVG6W3_xtk77SlPJqW7JH4lM3t-lJFW5wPtyf2p4WfxW3KNr9l66PcWdV4LgPD28JxV5W3cv-lN663TGYW4S3B725dR7ntW3_CSH9905WmpW93ZyPB4QKj7XW5DCQL47qzCmFW4xG9PL3S0j13W5bqwG48DGGlfW2QQfhm2rrG3kW5LV2Jl1JgcBlW3TdPnf65s3vKW4HFkmH4v5M2WN64_MnWf8_C9W5b9jkQ6B-7p7W34hhBh1G3M7kW1nxWJv6FJVr3W6r-kg734m4GQW8LFwCM3XlvL6W40ZhG45J9bZDW93YYJ96ptYyqN4Z7hvWCKLXBW35MYyf3HY-6fW7GmnGr8-vvGzW2pFxwX1VhrvkV-NNFP58kXsVf4gLx9F04 )
+
+What does the business do?
+
+This branded Shopify business focuses on men’s health, offering all-natural performance enhancers tailored for male wellness.
+
+How does the business perform?
+
+- Annual profit: $300,886
+- Average order value: $129
+- Business age: 7 years
+
+What do we like?
+
+The business is supported by robust marketing strategies, a loyal base of returning customers, and a highly engaged email list of over 30,000 subscribers.
+
+View Listing
+(https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/MWr4FFxpQNBW2S2Z5h4b3kGtW5wYw0_5vcRfTN3mxJ6K5m_5PW7lCGcx6lZ3nQW7rgft-4h2PPrW4Rk2kK44XPrmW5zR5Gb5vlMCRW2r4mwt4NDz9FW3tJkpx1z4S_YW7B65sj6WLNcZN7vB7X0-VwBgW5BXb6J9kbjQGW800Pvz5Vvs09W2bRZzH88nfk7VBd46V5QYVG6W3_xtk77SlPJqW7JH4lM3t-lJFW5wPtyf2p4WfxW3KNr9l66PcWdV4LgPD28JxV5W3cv-lN663TGYW4S3B725dR7ntW3_CSH9905WmpW93ZyPB4QKj7XW5DCQL47qzCmFW4xG9PL3S0j13W5bqwG48DGGlfW2QQfhm2rrG3kW5LV2Jl1JgcBlW3TdPnf65s3vKW4HFkmH4v5M2WN64_MnWf8_C9W5b9jkQ6B-7p7W34hhBh1G3M7kW1nxWJv6FJVr3W6r-kg734m4GQW8LFwCM3XlvL6W40ZhG45J9bZDW93YYJ96ptYyqN4Z7hvWCKLXBW35MYyf3HY-6fW7GmnGr8-vvGzW2pFxwX1VhrvkV-NNFP58kXsVf4gLx9F04 )
+
+Assisted by Flippa Business Broker
+
+Sebastien Stanley-Jones
+
+Europe
+
+Book a Consultation
+(https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/MWr4FFxpQNBW2S2Z5h4b3kGtW5wYw0_5vcRfTN3mxJ6q3prCCW6N1vHY6lZ3q4W1fvBcj8gHlrRN7R5d9dj2Q9XW5-dj6y1b8Fg4W2GTDv63TX3K2W49PnHN8g_15hW8npjvq7lcPK0W7dQ2Fb8Cx45kN2-zWSQKJjshW4w7N_Y4rpmXRW7v8HQC17QFHJW6zWlRj19WglDW2GX_Ll2zpPTqW2PZBng1gMVZDVHjL5r5H77hYN1Zk1vcWfRj_W6ptXmv5cyq1QVQTyDM6psG1TW6K9jM55rDBCpVdgmDb4zZJXQVG1kks6qCt5DW4G4kLg2lMLKGW8c2FWK2l4wBvf42MRXv04 )
+
+EDITOR'S CHOICE
+
+Digital Marketing Agency | 47% Revenue Growth Rate + 22K Active Clients (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/MWr4FFxpQNBW2S2Z5h4b3kGtW5wYw0_5vcRfTN3mxJ6K5m_5PW7lCGcx6lZ3llW6KVj8F8RmC4LW4cY2s24SRYLKW1BWM5c3Z6L8XW3m8MZG8TfNK1W510gt16n36LcW49rXdY3872MTN84RCQvVpxX8N3_cgW7735rgW69h-208T1nVMW27sfk18M-CkgW6Qyv0K8-JRYqW7t21b74rVMzsW4KW_-Y3jP1yxW5mvvmD7Rl3YWW4XNb8K45fh7RW6R3-ZD1lsWx4N3xrMGbdvSg3W53qfHJ6pPj8sW9gjkMh2LZVFlW10sG8r8pf8bLW93MYHv6NLJPRW2_bl_13sMvhtW2QLkZv6tRw-KW2rFy5P67r2V_W4zWkCp8RgGGTW7hmG526hGjcbW1X3s1Z72-5QSW8DLP511l9yTBV_sKq34dFMvfW5NVl3H1-5SYgW8MtBrs2WpLjZW7CdBFN7BpTtQW4GFKt11kFqNsW2cnlVK8VzD39N3KZJxhDRXNPW9gXXRK6dhz3WW6yjCGl8XV2GRW3lKjb07hktmzW2kdwcJ2CbkkBW3MTkyF55bhkMf73C_R-04 )
+
+A leading agency and location-based marketing platform with a strong global presence, boasting a 64% profit margin and a subscriber base of 176,000.
+
+- Annual profit: $188,474
+- MRR: $3,373
+- Business Age: 9 years
+
+View Listing > (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/MWr4FFxpQNBW2S2Z5h4b3kGtW5wYw0_5vcRfTN3mxJ6K5m_5PW7lCGcx6lZ3llW6KVj8F8RmC4LW4cY2s24SRYLKW1BWM5c3Z6L8XW3m8MZG8TfNK1W510gt16n36LcW49rXdY3872MTN84RCQvVpxX8N3_cgW7735rgW69h-208T1nVMW27sfk18M-CkgW6Qyv0K8-JRYqW7t21b74rVMzsW4KW_-Y3jP1yxW5mvvmD7Rl3YWW4XNb8K45fh7RW6R3-ZD1lsWx4N3xrMGbdvSg3W53qfHJ6pPj8sW9gjkMh2LZVFlW10sG8r8pf8bLW93MYHv6NLJPRW2_bl_13sMvhtW2QLkZv6tRw-KW2rFy5P67r2V_W4zWkCp8RgGGTW7hmG526hGjcbW1X3s1Z72-5QSW8DLP511l9yTBV_sKq34dFMvfW5NVl3H1-5SYgW8MtBrs2WpLjZW7CdBFN7BpTtQW4GFKt11kFqNsW2cnlVK8VzD39N3KZJxhDRXNPW9gXXRK6dhz3WW6yjCGl8XV2GRW3lKjb07hktmzW2kdwcJ2CbkkBW3MTkyF55bhkMf73C_
+
+... (truncated)

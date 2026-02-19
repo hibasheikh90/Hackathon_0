@@ -1,0 +1,57 @@
+# MonsterInsights was built for small businesses like yours 💜
+
+## Metadata
+- **From:** "Jolissa @ MonsterInsights" <support@monsterinsights.com>
+- **Date:** 2024-11-30 15:15:24
+- **Source:** Gmail IMAP
+- **UID:** 348
+
+## Body
+Small Business Saturday: Save 70% on MonsterInsights! 
+( https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzMyOTgwMjA1LCJuYmYiOjE3MzI5ODAyMDUsImFjY291bnRfaWQiOiI0MTEzNzc0IiwiZGVsaXZlcnlfaWQiOiJibzgwNzVweTk3bWJpZzgxdXM1dyIsInRva2VuIjoiYm84MDc1cHk5N21iaWc4MXVzNXciLCJzZW5kX2F0IjoxNzMyOTc5NzI0LCJlbWFpbF9pZCI6MTAwNjEyMDAsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjozOTk3MTA0LCJ1cmwiOiJodHRwczovL3d3dy5tb25zdGVyaW5zaWdodHMuY29tL3ByaWNpbmcvP3V0bV9zb3VyY2U9ZHJpcCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1iZmNtMjQmdXRtX2NvbnRlbnQ9c2JzJl9fcz1qYzRoYXV3NXFiNGdicGUzNDU1ZCJ9.iGw3xfDccXD2axMVm_eXFinvKAz5ezJRtHSJQmci54E )
+
+Hey Muhammad,
+
+To celebrate Small Business Saturday, we’re offering a huge
+discount of 70% OFF MonsterInsights Pro!
+
+Buy MonsterInsights today and you’ll no longer have to rely on
+your “best guess” to find your audience’s interests, figure out
+where to promote your website, or identify which content topics
+to cover.
+
+MonsterInsights shows you actionable insights, so you can better
+understand your visitors and grow your business with confidence.
+
+👉 Get 70% off MonsterInsights today! 
+( https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzMyOTgwMjA1LCJuYmYiOjE3MzI5ODAyMDUsImFjY291bnRfaWQiOiI0MTEzNzc0IiwiZGVsaXZlcnlfaWQiOiJibzgwNzVweTk3bWJpZzgxdXM1dyIsInRva2VuIjoiYm84MDc1cHk5N21iaWc4MXVzNXciLCJzZW5kX2F0IjoxNzMyOTc5NzI0LCJlbWFpbF9pZCI6MTAwNjEyMDAsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjozOTk3MTA0LCJ1cmwiOiJodHRwczovL3d3dy5tb25zdGVyaW5zaWdodHMuY29tL3ByaWNpbmcvP3V0bV9zb3VyY2U9ZHJpcCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1iZmNtMjQmdXRtX2NvbnRlbnQ9c2JzJl9fcz1qYzRoYXV3NXFiNGdicGUzNDU1ZCJ9.iGw3xfDccXD2axMVm_eXFinvKAz5ezJRtHSJQmci54E )
+ 👈
+
+But hurry, this offer is only here for a short time!
+
+Don’t forget, we’re also throwing in a whole year of UserFeedback
+Plus for free! Ask your visitors what they need and watch the
+growth ideas roll in 📈.
+
+Until next time,
+Jolissa Skow
+MonsterInsights Product Educator
+
+*Discount applies to new purchases and upgrades only.
+
+Don't want to receive emails about Black Friday? Click here 
+( https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzMyOTgwMjA1LCJuYmYiOjE3MzI5ODAyMDUsImFjY291bnRfaWQiOiI0MTEzNzc0IiwiZGVsaXZlcnlfaWQiOiJibzgwNzVweTk3bWJpZzgxdXM1dyIsInRva2VuIjoiYm84MDc1cHk5N21iaWc4MXVzNXciLCJzZW5kX2F0IjoxNzMyOTc5NzI0LCJlbWFpbF9pZCI6MTAwNjEyMDAsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjozOTk3MTA0LCJ1cmwiOiJodHRwczovL2RyaXAubGEvYy9leUpoYkdjaU9pSklVekkxTmlKOS5leUpoZFdRaU9pSmtaWFJ2ZFhJaUxDSnBjM01pT2lKdGIyNXZiR2wwYUNJc0luTjFZaUk2SW1SbGRHOTFjbDlzYVc1cklpd2lhV0YwSWpveE56TXdORGt3TWpBekxDSnVZbVlpT2pFM016QTBPVEF5TURNc0ltRmpZMjkxYm5SZmFXUWlPaUkwTVRFek56YzBJaXdpZEhKcFoyZGxjbDlwWkNJNklqYzBPRGN3TVRjeU55SXNJbVI1Ym1GdGFXTmZkWEpzSWpwdWRXeHNMQ0oxY213aU9pSm9kSFJ3Y3pvdkwzZDNkeTV0YjI1emRHVnlhVzV6YVdkb2RITXVZMjl0TDJKc1lXTnJMV1p5YVdSaGVTOTFibk4xWW5OamNtbGlaU0o5LnJDT1RWamZ6eTdQZkhscXdCTUxqMDlqaGpyRUdUZ0FFcmhYd2kyUHJXYWc_X19zPWpjNGhhdXc1cWI0Z2JwZTM0NTVkIn0.Xnqbb5MnJV4J7JFWwqd5YZKDVOV9OIECr5C2aNVH1oc )
+ to stop getting reminders.
+
+Have questions? Send us a message. 
+( https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzMyOTgwMjA1LCJuYmYiOjE3MzI5ODAyMDUsImFjY291bnRfaWQiOiI0MTEzNzc0IiwiZGVsaXZlcnlfaWQiOiJibzgwNzVweTk3bWJpZzgxdXM1dyIsInRva2VuIjoiYm84MDc1cHk5N21iaWc4MXVzNXciLCJzZW5kX2F0IjoxNzMyOTc5NzI0LCJlbWFpbF9pZCI6MTAwNjEyMDAsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjozOTk3MTA0LCJ1cmwiOiJodHRwczovL3d3dy5tb25zdGVyaW5zaWdodHMuY29tL2NvbnRhY3QvP3V0bV9zb3VyY2U9ZHJpcCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyJnV0bV9jb250ZW50PWZvb3Rlci1jb250YWN0Jl9fcz1qYzRoYXV3NXFiNGdicGUzNDU1ZCJ9.8yo9dgRcDOJ2DaTtErQLz_uc8rcPSD8A8dVbzaA_79U )
+
+
+You received this email because you're subscribed to receive
+the MonsterInsights newsletter.
+
+To make sure you keep getting these emails, please
+add support@monsterinsights.com to your address book or allow list. Want out of
+the loop? https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzMyOTgwMjA1LCJuYmYiOjE3MzI5ODAyMDUsImFjY291bnRfaWQiOiI0MTEzNzc0IiwiZGVsaXZlcnlfaWQiOiJibzgwNzVweTk3bWJpZzgxdXM1dyIsInRva2VuIjoiYm84MDc1cHk5N21iaWc4MXVzNXciLCJzZW5kX2F0IjoxNzMyOTc5NzI0LCJlbWFpbF9pZCI6MTAwNjEyMDAsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjozOTk3MTA0LCJ1cmwiOiJodHRwczovL3d3dy5nZXRkcmlwLmNvbS9zdWJzY3JpYmVycy9qYzRoYXV3NXFiNGdicGUzNDU1ZC90b3BpY3M_ZD1ibzgwNzVweTk3bWJpZzgxdXM1dyZleGNsdWRlX2NsaWNrPTEmX19zPWpjNGhhdXc1cWI0Z2JwZTM0NTVkIn0.u9ruV8bQAi3Oa4G7fuzbuV6DM2-_FD7iVrCUbUnkvtg.
+
+400 Executive Center Drive, Suite 208, West Palm Beach, FL 33401

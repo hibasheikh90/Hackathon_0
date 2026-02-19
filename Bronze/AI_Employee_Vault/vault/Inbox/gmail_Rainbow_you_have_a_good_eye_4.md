@@ -1,0 +1,25 @@
+# Rainbow, you have a good eye
+
+## Metadata
+- **From:** " Pinterest " <recommendations@explore.pinterest.com>
+- **Date:** 2023-05-11 01:55:10
+- **Source:** Gmail IMAP
+- **UID:** 11
+
+## Body
+To view this content open the following URL in your browser: https://www.pinterest.com/email/click/?user_id=OTUzNzA3Nzk1OTk4MzQzOTA1&od=dD1kMDc2NmYxMTQ3NmE0YjVlYWIwYmVjNzc0N2YyMzk2ZCZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX1BJTl9SRUNTJnM9ZDllN2Y1NDA2ODA0MTFmMmMyNjM4MWVhOWRhNDAxODcmbj00Y2MxMjJmNGQ1YzU0MGM2ODc1Mjc4YmZiMTFkNDFiMA%3D%3D&target=https%3A%2F%2Fwww.pinterest.com%2Fsecure%2Fautologin%2F%3Fuser_id%3DOTUzNzA3Nzk1OTk4MzQzOTA1%26od%3DeHdW6Y%252BS55nCQvnGlJyp1cCy1oQYN7TDo5w9kN2ODz8yfwiWYms%252FUXdVMGaVDSLyS7mFsayK0Wve9VYkg4I%252BHnxT4ZPlV4v%252FHBMI9i%252FoaUhyYjNrw%252FZH8XgeiOX7OUvxnXytkbmqErqRXhPP%252F6CpS2lnI%252BPJLJDNq42Z1aY9lAI%253D%26next%3D%252Fnews_hub%252F5296975946910319905%252F%253Futm_campaign%253Drtpinrecs%2526e_t%253Dd0766f11476a4b5eab0bec7747f2396d%2526e_t_s%253Dcta%2526utm_source%253D31%2526utm_medium%253D2004
+
+
+Pinterest
+
+651 Brannan Street, San Francisco, CA, 94107
+
+    Help Center: https://www.pinterest.com/email/click/?user_id=OTUzNzA3Nzk1OTk4MzQzOTA1&od=dD1kMDc2NmYxMTQ3NmE0YjVlYWIwYmVjNzc0N2YyMzk2ZCZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX1BJTl9SRUNTJnM9ZDllN2Y1NDA2ODA0MTFmMmMyNjM4MWVhOWRhNDAxODcmbj00Y2MxMjJmNGQ1YzU0MGM2ODc1Mjc4YmZiMTFkNDFiMA%3D%3D&target=https%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fhelp%2F%3Fsource%3Demail_footer%26utm_campaign%3Drtpinrecs%26e_t%3Dd0766f11476a4b5eab0bec7747f2396d%26e_t_s%3Dfooter%26utm_source%3D31%26utm_medium%3D2004
+
+    Privacy Policy: https://www.pinterest.com/email/click/?user_id=OTUzNzA3Nzk1OTk4MzQzOTA1&od=dD1kMDc2NmYxMTQ3NmE0YjVlYWIwYmVjNzc0N2YyMzk2ZCZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX1BJTl9SRUNTJnM9ZDllN2Y1NDA2ODA0MTFmMmMyNjM4MWVhOWRhNDAxODcmbj00Y2MxMjJmNGQ1YzU0MGM2ODc1Mjc4YmZiMTFkNDFiMA%3D%3D&target=https%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fprivacy-policy%2F
+
+    Terms & Conditions: https://www.pinterest.com/email/click/?user_id=OTUzNzA3Nzk1OTk4MzQzOTA1&od=dD1kMDc2NmYxMTQ3NmE0YjVlYWIwYmVjNzc0N2YyMzk2ZCZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX1BJTl9SRUNTJnM9ZDllN2Y1NDA2ODA0MTFmMmMyNjM4MWVhOWRhNDAxODcmbj00Y2MxMjJmNGQ1YzU0MGM2ODc1Mjc4YmZiMTFkNDFiMA%3D%3D&target=https%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fterms-of-service%2F
+
+    Unsubscribe: https://www.pinterest.com/email/click/?user_id=OTUzNzA3Nzk1OTk4MzQzOTA1&od=dD1kMDc2NmYxMTQ3NmE0YjVlYWIwYmVjNzc0N2YyMzk2ZCZjPVJFQUxUSU1FX1VTRVJfQUNUSU9OX1BJTl9SRUNTJnM9ZDllN2Y1NDA2ODA0MTFmMmMyNjM4MWVhOWRhNDAxODcmbj00Y2MxMjJmNGQ1YzU0MGM2ODc1Mjc4YmZiMTFkNDFiMA%3D%3D&target=https%3A%2F%2Fwww.pinterest.com%2Femail%2Funsubscribe%2F%3Fuser_id%3DOTUzNzA3Nzk1OTk4MzQzOTA1%26od%3DYbo4DIwVSViDaCDbRpNeA2M%252FXeyb4pVGasAQ6cbB7yywUr7WyDw65Q%252FZUK0CS12JIXe2XBPJtWofCwg0Ddbsj%252Bx9RROIA3Zpa0i%252FCRppl5xIEapiJRmK90rsCXMk3d5zf%252BGzLrb4UumpAsjj4WfOQFKjFdThas9%252FThY2rn0fGvejf%252BeLs35BlCO19u7ymKHps9byqJFgpx9muiEBTDzEikFlSzzWJJdybk4apuxbMkR9qqhp%252BqhtbUu5PA19tIG8te41d7tPdmWxeZCL5%252BKLjhI9TXcy0KUgyEwjhi6UKG1xmv207d2Ecyt7zEqBVTrJ0evxffj8zuIc%252BMHQSL2XNQMrhxnXbsuOUrzxR9Z7FhA55kX9XMSU%252FmM7Z2mYQemmHEP2oydHsE8F62dXZe0xu0g0cYlfURnGIdAOgJeWr7eldtwXcn1WVNb18Bhpup7Gal0A4v8HiuzWw42IPQTD3g%253D%253D%26utm_campaign%3Drtpinrecs%26e_t%3Dd0766f11476a4b5eab0bec7747f2396d%26e_t_s%3Dfooter%26utm_source%3D31%26utm_medium%3D2004
+
+

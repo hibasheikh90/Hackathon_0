@@ -1,0 +1,49 @@
+# Digital Marketing Ed & AI Software SaaS | Resell Travel Marketplace
+
+## Metadata
+- **From:** "Tory @ Flippa" <marketing@flippa.com>
+- **Date:** 2025-09-01 15:10:29
+- **Source:** Gmail IMAP
+- **UID:** 1062
+
+## Body
+Plus a TikTok Entertainment Agency and a LED Art & Signage Shopify Store
+
+View in browser (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VW4c_k6Jf5vcVHYB3M6VRs8hW1sXT7r5BYt2YN861Kzv5m_5PW6N1X8z6lZ3pjW8-CxSN2717ZwW8JwY6d7ppGyBW8lDHyP4ywvwHW4KWRFf41hGcqMW2d-pxc0gLW5KTJp05lvBx1W6Lx7JG4--YFdW97TDzt7TzslrN7yx5zPjNjv1W2Bqn5z3dtGvGW1Cm6fL1nGTpFW6WR6w34cB427W7vmCXP3Njp-pVy3ltj1WrTFdW5D85P07RxtLDW3w8q_t2jv_lDW59k3f_2Zc9S1W5bjjH11yp5hmW1DHP1l7Yc_h_W2vyKSB7SXk9QV7X8HJ3NqxKtW4XT7kW7KGGQdN7fNgPVwV9zrW6wvhlN5-bhtjW2nz2yy5bgT2WW5TznrW4C8fXSW8dljdm85yySXW3S58DZ4ZTLrwW5HfvyW5V8BmZW3Pvb8m89W5kDW5hwPLC9hgwtdW3Ww11F4bKd43W4QRHTs56HRvhW5PBFvH7JPcWRN8x82X-_ggssW6JF5JB7hTq32W6-J6p43QWC_CN8bzqGw83GL8f78F_g804 )
+
+Own an online business? Find out what it's worth with a free valuation > (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VW4c_k6Jf5vcVHYB3M6VRs8hW1sXT7r5BYt2YN861Kzv3prCCW6N1vHY6lZ3njW6LBh926ypwzWW6ZCKzQ6THVQyW5ZGCF43B0J4kW3gjZCn2r9_P_W1nVHtG27dd9YW7VbTpq52_psDW4Sl_fC1TDTygW6BQTQQ5qfzGvW1JwrhK4k3Qg4W3FNp-K2h0g3QW1MZdlR6fRR91W5d95Mw2pKNJ0W6d0s3b3RQH-2W2c6XWs21WvSwW1pdN7p5CGNNfW6wskq790Qnb1W6zNfR543V_fjW6lGVyJ69XqTcW1Jdzm_4HkXGJMNgcmTvv62kN3Xc7zZrx84FW8M_VLG3FLl6Nf39Y9b004 )
+
+EN - The Daily - Desktop - Spotify (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VW4c_k6Jf5vcVHYB3M6VRs8hW1sXT7r5BYt2YN861KB43prCCW7Y8-PT6lZ3kVVN3QlW80KcX8W1xsxZz44bb_FW3klwFr81FpLlW71yy025vFJDRVc-lP47w0C4fW2G_85p9fjGg9W4ML6qK3y8LNFW2VlNm88Qv1R-W7trW_T8NCTy5W5R7Pjg774X64N3xmk1gR8KLkMxP0x-zMTxpW6gQBjz9kH83FW5LfR8W8D3yHGW6TTHPJ9ds8t3W3JBX8d5MzCL4W4plQ3v8WRjhfW5SsPdh2Jk2XlW6NK6pP54Cj2QV7Xkfp5B5RJtN7jhdv22NNN9W8Crl8n5kCw7_W12hg4w85RDrKW1qgBdH8r8sYzW4H-0JY2T-CrtW5ycV346cnFMmf4h2w8H04 )
+
+
+
+EN - The Daily - Mobile - Spotify (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VW4c_k6Jf5vcVHYB3M6VRs8hW1sXT7r5BYt2YN861KB43prCCW7Y8-PT6lZ3kVVN3QlW80KcX8W1xsxZz44bb_FW3klwFr81FpLlW71yy025vFJDRVc-lP47w0C4fW2G_85p9fjGg9W4ML6qK3y8LNFW2VlNm88Qv1R-W7trW_T8NCTy5W5R7Pjg774X64N3xmk1gR8KLkMxP0x-zMTxpW6gQBjz9kH83FW5LfR8W8D3yHGW6TTHPJ9ds8t3W3JBX8d5MzCL4W4plQ3v8WRjhfW5SsPdh2Jk2XlW6NK6pP54Cj2QV7Xkfp5B5RJtN7jhdv22NNN9W8Crl8n5kCw7_W12hg4w85RDrKW1qgBdH8r8sYzW4H-0JY2T-CrtW5ycV346cnFMmf4h2w8H04 )
+
+
+
+Curated for Muhammad, on 1st of Sept 2025.
+
+TODAY’S TOP PICK
+
+Leading Digital Marketing Education & AI Software SaaS (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VW4c_k6Jf5vcVHYB3M6VRs8hW1sXT7r5BYt2YN861Kzv5m_5PW6N1X8z6lZ3kQW76Gzf59hLWDJW4J2KMR5zCF_CVhvBZX2dhkRsW1pGJzF3ffrKlW91Yy3p3G70hSW7TlwQ854RQfMW83L_D61CgK_BV5l1Ps83Xn7vW7CfrdS5QM12hW1mfXwb9bTFSgVMb4fx7Bd_wnW8h6DpP8YkTBtW5fB-K36WTnRgVbpBXr1QsVg-W8yXFQf5ZqwcVW9cpvwZ9lW8K6W1Yhf7J1NrGQkVNnDgS58pXQjW5GV9p98-lpFyW8sNKF91vgT17W1pLm0y3GNJNdW3Y7ZPD86gjBJW6J58pd7v1BhXW3qHRr392L0jFVT2yQx7QcG1QW3HTs574R-5GcW28Pv001TfFsHW2cqs3X4x6-h2W6B0t0X57QWw6W8r45gv4VF0YrVcxc9Y5XqWk-W402TTg4v8SmWW1sqcgC99ZcY2W2tWrS11fnv-nN89MgYkkhqk9N66NGKRP2P9tW43ckb45-33sQW70mbtq1r6LMVf2Wmnkl04 )
+
+A 6-year old training and software platform for anyone looking to become a media buyer or scale paid advertising campaigns. The business generates revenue through course sales, coaching programs, and recurring SaaS subscriptions.
+
+Key Metrics: $13M annual revenue, 300K email subscriber list, 20K paying buyers
+
+View Business
+(https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VW4c_k6Jf5vcVHYB3M6VRs8hW1sXT7r5BYt2YN861Kzv5m_5PW6N1X8z6lZ3kQW76Gzf59hLWDJW4J2KMR5zCF_CVhvBZX2dhkRsW1pGJzF3ffrKlW91Yy3p3G70hSW7TlwQ854RQfMW83L_D61CgK_BV5l1Ps83Xn7vW7CfrdS5QM12hW1mfXwb9bTFSgVMb4fx7Bd_wnW8h6DpP8YkTBtW5fB-K36WTnRgVbpBXr1QsVg-W8yXFQf5ZqwcVW9cpvwZ9lW8K6W1Yhf7J1NrGQkVNnDgS58pXQjW5GV9p98-lpFyW8sNKF91vgT17W1pLm0y3GNJNdW3Y7ZPD86gjBJW6J58pd7v1BhXW3qHRr392L0jFVT2yQx7QcG1QW3HTs574R-5GcW28Pv001TfFsHW2cqs3X4x6-h2W6B0t0X57QWw6W8r45gv4VF0YrVcxc9Y5XqWk-W402TTg4v8SmWW1sqcgC99ZcY2W2tWrS11fnv-nN89MgYkkhqk9N66NGKRP2P9tW43ckb45-33sQW70mbtq1r6LMVf2Wmnkl04 )
+
+Deal Brokered by Amber Burke. Interested? Book a Call. (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VW4c_k6Jf5vcVHYB3M6VRs8hW1sXT7r5BYt2YN861KzP3prCCW7lCdLW6lZ3lqN54WtlJj2XxkW1NTpCy6kZK5XW2BZ1Fh8tFglHN2vtbLhdTdsSW5ptSn_87pXTMW21R7cv6yP-2WW5cfND52g_jqXW2X2yxB41ZNTqW4zM3194S_x2WN96lgjmr6NjvW8KjGGl9dPGHfW8HJLrF2bZsRSW7kflDs7J2W4cW4klpkb1GS_hrW3GG6ty7PtBK9W3gM6Xp1VV0PGW5GWsC53wL6QSW4JFgJS4fXs_4W4gk64J1xpsNpW2b_2lk6Lc_H3V5YYgp1BYLxvW8HdQ9P2H_DwwW6KzS6T44Ql4JVsTQxz4rV_dff4m4_Wx04 )
+
+Amber Burke
+
+Business Broker
+
+🇺🇸 Baltimore, Maryland
+
+🤔 Got a question? Ask us > (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VW4c_k6Jf5vcVHYB3M6VRs8hW1sXT7r5BYt2YN861Kzv3prCCW6N1vHY6lZ3pCW1YvJN58fZGC5V5g5lx4W3zkfW2wvRZf71hB8qVPwvG27zK1kGW7k1-c349fbshW2FN5DR47DWW4W2262qf6khndTW2xxGwh554j2PW3GRCwh46d37SW7_7_HR3Y1TTrW7LRnpR1t1Tk0W42xFkN6XmHz-W8J95-W8mMDk7W1-SV663Nc_JfW7_bTDD7jvxJ0W1bvWcD67kYmHW9gL0QP1P1JK1N844xStSDwy0W7Cpnhl4Z9FltW4fL-fs55l22HW89_rzc5lR7dmW65dCXf7JVl1pf2z-qx004 )
+
+Join CEO Blake Hutchison and our expert brokers for answers about buying and selling online businesses in the official Flippa Reddit community (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/
+
+... (truncated)

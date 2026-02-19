@@ -1,0 +1,161 @@
+# Do you follow us on Instagram?
+
+## Metadata
+- **From:** "Exness.com" <info@exness.com>
+- **Date:** 2023-09-20 06:14:15
+- **Source:** Gmail IMAP
+- **UID:** 45
+
+## Body
+
+ 
+ 
+
+  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+  
+ 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+ 
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+
+ Connect with the Exness Pakistan community
+
+https://view.exness.click/?qs=557e432f2780eb9f9aa1566827e48340e8dd5eebaa4f477144b0e272f71dc233b9e5f6363f5ba9dd47e353624ba5b0cd48d699ed4b5d131e7c55d62bb2412f1b2274b9879f02a936b994d9388eb3786d 
+View as a Web Page 
+
+
+
+
+
+
+
+ Follow @ExnessPakistan on Instagram 
+
+
+
+ Get the latest insights and trends on desktop or mobile. 
+
+
+
+ Dear Client,
+
+
+
+ We're always sharing the market news that matters across our social networks. <br /><br />
+
+Visit the link below to connect with Exness Pakistan on Instagram and make sure to follow us for daily insights into the latest market trends.<br /><br />
+
+Thank you,<br />
+The Exness Team
+
+
+
+https://click.exness.click/?qs=062cebcdb2ed9dac33b404b382bf9551a241593be46fc285a749275d368cd8c71c7ebc4e8d39aad62908c20e47b7262d350e571d8f753700585065610f1bcc49 
+Let's connect>
+
+
+
+FOLLOW US:
+
+https://click.exness.click/?qs=062cebcdb2ed9dac6445da9d911814a82e0eaf6a922743caf4461ccf58adf37ef46279ceb350f43e83a87ac7a7df4e580ce3d86a017811300563c39a90eb4040 
+ 
+https://click.exness.click/?qs=062cebcdb2ed9dacc8d389a50c8b0290dc19e33b70b551e5fe050e0a919b9bcd411904535043bb259a2006067bd68ab5a0ba545454dd71a455a3f8cc2aa6704b 
+ 
+https://click.exness.click/?qs=062cebcdb2ed9dac63ff890dcd23cbf2f76165a296de575dbec21e49bad677326df0469def264c8d0cac7347db804b95dcfe2f07845f4ed0c177b92d0277a9bb 
+ 
+https://click.exness.click/?qs=062cebcdb2ed9dac0b549dcb098d0801a6d05797b20656d77ef5e45fae83c6dbbfa817c51a52e085c9494445d04152f5f77057ead3e659e60bc28d495ff8e343 
+ 
+https://click.exness.click/?qs=062cebcdb2ed9dac66d39210b53480b8b389752a17b004046cae44ed31c913153ac01043eaf732c6f7375ca7aa54f10bed944dfa1ec991be5b4476a4c303a5be 
+
+
+
+
+General Risk Warning: CFDs are leveraged products. Trading in CFDs carries a high level of risk thus may not be appropriate for all investors. The investment value can both increase and decrease and the investors may lose all their invested capital. Under no circumstances shall the Company have any liability to any person or entity for any loss or damage in whole or part caused by, resulting from, or relating to any transactions related to CFDs.
+
+You can 
+https://click.exness.click/?qs=062cebcdb2ed9dac99da4db4169b862f4f95ed462d3c0498fdd5ccb8858a7eca86ddd7b66a87def8fb6369f5c57207ca6bd10da9a3c78795eac017a8e3599228 
+unsubscribe  from marketing messages at any time.
+ 
+
+
+Exness.com 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+

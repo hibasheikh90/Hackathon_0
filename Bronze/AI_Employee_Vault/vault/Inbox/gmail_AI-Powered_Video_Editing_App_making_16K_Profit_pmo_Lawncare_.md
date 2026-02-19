@@ -1,0 +1,65 @@
+# AI-Powered Video Editing App making $16K Profit p/mo + Lawncare
+ YouTube
+
+## Metadata
+- **From:** "Tory @ Flippa" <marketing@flippa.com>
+- **Date:** 2025-01-04 15:10:07
+- **Source:** Gmail IMAP
+- **UID:** 450
+
+## Body
+This business drives tens of thousands of monthly downloads, maintains a monthly user-base of 72K, and a solid 38% profit margin.
+
+View in browser (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVXFRs8Mf_fBW3HHWHJ1v9bJfW1HN78y5qq89fN861Kzv5m_5PW6N1X8z6lZ3nPVDtD4k5RzT5JW21hNyr7QH761W9fj2mc68FCR0W2FZBB54QRcTrW2KX8ZN5kf7VJVLJXx-34LySHN6WkX9YmrR5kVsv5qm8TSHbKW4r9lgf61Jjw7W5W4T9J8rkWwvW3pr6hk4X5GfcW6BGNSQ6QDQgrW6ljrph8Cw3gVW8TdqQJ6CmtfPW6F7M5r1ZrvjmW1sD6D-3qCDRcW16gCp82c1VHzW7fjJfS8yyQqTW2BnDSJ2N8M49W1J2hlY2y62L_W1-x3Kk7JL038W6M0xmw4Y1TdyW5Jg0Bs48jQn_V3sHmz8jsGrxVG7XDN3Dc0GlW8bBZJT6kfpBDVgL2fj95Tt3RW8Pb2W64BHSwhW7Hr2jN2CrRC1W7Wq3Mj1QqT2JN3bWGX5QTN7WTfLVX2PxQPHW6lZVlB5NTMQrW7_RHTj8cHZdZW6kdLjx6TMj98W8TLJ7b14qDVsW28kFYz8XndNqW4bHytY4-wvTVf7XnP-j04 )
+
+
+
+
+
+Payments - Email - Daily Announcement Banner - 540px (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVXFRs8Mf_fBW3HHWHJ1v9bJfW1HN78y5qq89fN861KzP3prCCW7lCdLW6lZ3pbW4G3PN66tCDvtW7nJx-b19TXmpW5WxyLF86jPsgW8lSz3X2cskLBW7k8CxR7_g0KSW86YmzN1tXlhgW5JZzX58Vd3rpW2F1JS97c3btTVLfTQk99Zb9KW45hZCv7-rtWmW3P6Gmd26K9KtW1PkBzH5qqJCkW2srk5r2gzkHYW1qcNgl5rnN4GW40Bm1t31BZWGW8NFGMW1GPkS9W3CYHrj1RM7JHW6sHlJJ2gwYGBW8xwcjx4WlD1KW11JcMq2bv0CtN4s-QRCgrjJ8W6zft9v7J7lThW40WJTq1Sv6WzW5vKHNR3-1LXHf8ZGC4W04 )
+
+January, 2025
+
+TODAY’S TOP PICK
+
+AI-Powered Video Editing App (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVXFRs8Mf_fBW3HHWHJ1v9bJfW1HN78y5qq89fN861KBn5m_5PW8wM7ks6lZ3mzW3ycgXb65vywRW4msXwF8_96-RW31TdDk2H-VwpW85nWN92k9slPW7LQbH59jFdlgW2QqSHb3bw0LzW1WQ5RX7t8CVxW55VNgc5hRN0BW4Fq1PN56J8xbW557C1r8xLScHW2m22XW6FCRs9W4ZdvZc3plQTqW5q2z9t3ML80PW3pY1sK4jxBN4W6bp81v9cHnwHW5rx7VQ4ybBQHN2P0rpFgtwdRW5H9PmY7ZyXL2W8QKwqT9fsTJcW1qWyX_1dHtn2W4zh3W54Pfb5KW2Mmxqn1rHDTWW2pQ2t14SGQRkW1q8K69397LyFW1gBB3S53xBj6W54MTh-4p0T2dW8BX6mh98zzmSW5JnVqY13VclzW7YrD0Q5xsHpPV_wwJk3J_Lm6W1HwbZ93F36rTW8FFw7C3z3qwGW4h1Wr773Cf34W5gvYTl94XcmKW3xNntZ2Hc_3gW60B6QG4cW0GWW2yxstG8xlZd8N3yxw4G7yDQZW5smKyC71y6pwW43_9XL1-V7mDW3LlPlk7GJYjlW2KS4bx2nHj1nW138pNf88V-D-W61N3v_1H11BNf7zvN9K04 )
+
+What does the business do?
+
+This app enabling users to edit photos and videos maintains a 4.6-star rating across 4.4K+ reviews and has generated a TTM revenue of $508.5K.
+
+How does the business perform?
+
+- Monthly profit: $16,277
+- Average monthly downloads: 66,584
+- Business age: 2 years
+
+What do we like?
+
+This business drives tens of thousands of monthly downloads, maintains a monthly user-base of 72K, and a solid 38% profit margin.
+
+View Listing
+(https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVXFRs8Mf_fBW3HHWHJ1v9bJfW1HN78y5qq89fN861KBn5m_5PW8wM7ks6lZ3mzW3ycgXb65vywRW4msXwF8_96-RW31TdDk2H-VwpW85nWN92k9slPW7LQbH59jFdlgW2QqSHb3bw0LzW1WQ5RX7t8CVxW55VNgc5hRN0BW4Fq1PN56J8xbW557C1r8xLScHW2m22XW6FCRs9W4ZdvZc3plQTqW5q2z9t3ML80PW3pY1sK4jxBN4W6bp81v9cHnwHW5rx7VQ4ybBQHN2P0rpFgtwdRW5H9PmY7ZyXL2W8QKwqT9fsTJcW1qWyX_1dHtn2W4zh3W54Pfb5KW2Mmxqn1rHDTWW2pQ2t14SGQRkW1q8K69397LyFW1gBB3S53xBj6W54MTh-4p0T2dW8BX6mh98zzmSW5JnVqY13VclzW7YrD0Q5xsHpPV_wwJk3J_Lm6W1HwbZ93F36rTW8FFw7C3z3qwGW4h1Wr773Cf34W5gvYTl94XcmKW3xNntZ2Hc_3gW60B6QG4cW0GWW2yxstG8xlZd8N3yxw4G7yDQZW5smKyC71y6pwW43_9XL1-V7mDW3LlPlk7GJYjlW2KS4bx2nHj1nW138pNf88V-D-W61N3v_1H11BNf7zvN9K04 )
+
+Assisted by Flippa Business Broker
+
+Dominic Sullivan
+
+Amsterdam, Netherlands
+
+Book a Consultation
+(https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVXFRs8Mf_fBW3HHWHJ1v9bJfW1HN78y5qq89fN861Kzv3prCCW6N1vHY6lZ3lFW7Bz8wV6LzRRkN3N1Jc0PZFnrVBfg7h7fYcQhW7SSXt982BvKFVbXPVv6y42NbW9cMMyh7-0JDQW4Mnqjn2F-3LnW78-HJ6721xDdW8RDBK03JXXSgW8X-kH55MjPjtW1YvhWQ2NhRqpW88wGqT2671JkW7bTCh28V0Qx-W7p8d3F1vMH4-W9h8CfQ9jZvBlW93cHtN8vcMm_W7TvpM48M9T4WW5GsNPr6KNbk9W8lkfTF54MXD7W43Z46L8jPPTyW12pdcL3D8p-0W1-dZjW34z2dXf3v5yRR04 )
+
+EDITOR'S CHOICE
+
+Lawncare YouTube Channel (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVXFRs8Mf_fBW3HHWHJ1v9bJfW1HN78y5qq89fN861KBn5m_5PW8wM7ks6lZ3mSW7ZJC-r4V7N5qW81R9h87t_4BbVztcqx6X_f4KW24FV4P57jNVqW42Hs9R970_6vW2Z2s1q8cCLCjW2PjdVT9dp4SgW2vsJ697229NvW7QWv_F7M2-ZdW881prG5rbTchW4X_s3P86w0dsW6fys_K3wHxC-W1yX_9C8Zks9TW2ckmMs3jRjyHW1kFggL2v7gLCW5gsqLZ8PRpyhW8wxNHS3jBBR-W6y0PSN8_4M9ZW5lv-7s8D7F2kW5tcMRs2btklZW3D-plM7KGWX0N3MCMgbsRr6qW115Wvf6XWyG0N5hgCwM8T0sSW1z9dfF5gR1PjW1VVTSS2b-mz-N7VWs7dj61C4W66Sfh21yzpblV3f5WK1fPLSRW41TtM-71PPNhW55PSQ56tyfjyW3Dkjpw8c5N98W4GnmyX8TGYWtW41pRCX1MLq38W9cTHxL7v1fk_W5v1jPX5RDfJ3N3YyGNgXL_cWW2jwTWz1zx2qkW1b_5P16MCJhVN8dKV3kKJF9gW6fgXpf7brcgrVY5pgJ7MxxhyW2_1SF26LfBmXW7rjDgP3nRqBHf74TCtb04 )
+
+This YouTube channel featuring property cleanup & lawn transformation videos includes 363K+ active subscribers.
+
+- Monthly profit: $10,119
+- 28-day views: 963,687
+- Business age: 11 years old
+
+View Listing > (https://l.flippa.com/e3t/Ctc/RJ+113/d2q1V504/VVXFRs8Mf_fBW3HHWHJ1v9bJfW1HN78y5qq89fN861KBn5m_5PW8wM7ks6lZ3mSW7ZJC-r4V7N5qW81R9h87t_4BbVztcqx6X_f4KW24FV4P57jNVqW42Hs9R970_6vW2Z2s1q8cCLCjW2PjdVT9dp4SgW2vsJ697229NvW7QWv_F7M2-ZdW881prG5rbTchW4X_s3P86w0dsW6fys_K3wHxC-W1yX_9C8Zks9TW2ckmMs3jRjyHW1kFggL2v7gLCW5gsqLZ8PRpyhW8wxNHS3jBBR-W6y0PSN8_4M9ZW5lv-7s8D7F2kW5tcMRs2btklZW3
+
+... (truncated)

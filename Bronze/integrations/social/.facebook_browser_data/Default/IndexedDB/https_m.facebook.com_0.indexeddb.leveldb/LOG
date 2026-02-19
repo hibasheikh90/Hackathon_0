@@ -1,0 +1,14 @@
+2026/02/19-15:28:00.465 3fe0 Reusing MANIFEST G:\Desktop\Hackathon_0\Bronze\integrations\social\.facebook_browser_data\Default\IndexedDB\https_m.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/19-15:28:00.465 3fe0 Recovering log #20
+2026/02/19-15:28:00.466 3fe0 Reusing old log G:\Desktop\Hackathon_0\Bronze\integrations\social\.facebook_browser_data\Default\IndexedDB\https_m.facebook.com_0.indexeddb.leveldb/000020.log 
+2026/02/19-15:28:00.467 3fe0 Delete type=2 #18
+2026/02/19-15:28:27.115 3fe0 Level-0 table #25: started
+2026/02/19-15:28:27.279 3fe0 Level-0 table #25: 3138 bytes OK
+2026/02/19-15:28:27.502 3fe0 Delete type=0 #20
+2026/02/19-15:28:27.503 3fe0 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x01\x02\x01\x0e\x006\x001\x005\x008\x006\x004\x009\x000\x008\x008\x006\x006\x000\x003' @ 894 : 1
+2026/02/19-15:28:27.528 3fe0 Compacting 1@0 + 1@1 files
+2026/02/19-15:28:27.767 3fe0 Generated table #26@0: 90 keys, 1256 bytes
+2026/02/19-15:28:27.767 3fe0 Compacted 1@0 + 1@1 files => 1256 bytes
+2026/02/19-15:28:27.821 3fe0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/19-15:28:27.821 3fe0 Delete type=2 #25
+2026/02/19-15:28:27.822 3fe0 Manual compaction at level-0 from '\x00\x09\x01\x02\x01\x0e\x006\x001\x005\x008\x006\x004\x009\x000\x008\x008\x006\x006\x000\x003' @ 894 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "vault",
+    "email",
+    "accounting",
+    "social",
+    "briefing",
+    "odoo_jsonrpc"
+  ]
+}
