@@ -1,38 +1,53 @@
 # Agent Dashboard
 
-## Tasks
+## Ralph Wiggum Status
 
-| Task | Status | Priority | Assigned Date |
-|------|--------|----------|---------------|
-| Monitor Inbox for new items | Active | High | 2026-02-15 |
-| Process pending actions | Active | High | 2026-02-15 |
-| Archive completed work | Active | Medium | 2026-02-15 |
+- **State:** Running (cycle #22)
+- **Last update:** 2026-02-28 14:15:54
+- **Tasks completed this session:** 7
+- **Tasks retried:** 3
+- **Tasks blocked:** 4
 
-## Status
+## Queue Counts
 
-- **Agent State:** Online
-- **Current Queue:** 0 items in Inbox
-- **Pending Actions:** 0 items in Needs_Action
-- **Completed:** 0 items in Done
+| Stage | Count |
+|---|---|
+| Inbox | 3 |
+| Needs Action | 7 |
+| Done | 8 |
+
+## Current Tasks
+
+| Task | Type | Priority | Status | Progress |
+|---|---|---|---|---|
+| Invoice #4821 — Payment Overdue | email | Medium | Done | — |
+| Task Plan | plan | Medium | Done | — |
+| Task Plan | plan | Medium | Blocked (needs approval) | 1/3 |
+| Task Plan | plan | Medium | Done | — |
+| Task Plan | plan | Medium | Blocked (needs approval) | 1/3 |
+| Task Plan | plan | Medium | Done | — |
+| Task Plan | plan | Medium | Blocked (needs approval) | 1/3 |
+| Task Plan | plan | Medium | Done | — |
+| Task Plan | plan | Medium | In Progress | 0/3 |
+| Task Plan | plan | Medium | Blocked (needs approval) | 1/3 |
+| tasks | general | Medium | Done | — |
+| Test Task | general | Medium | In Progress | 0/4 |
+| Update Homepage Banner | general | Medium | In Progress | 2/6 |
+| WhatsApp — Sarah (Finance) | whatsapp | Medium | Done | — |
 
 ## Workflow
 
 ```
 Inbox/ --> Needs_Action/ --> Done/
-(new)      (processing)     (archived)
+(new)      (Ralph loop)     (archived)
 ```
 
 1. New tasks arrive in `Inbox/`
-2. Agent triages and moves actionable items to `Needs_Action/`
-3. Completed work is moved to `Done/` with results attached
+2. Watcher triages to `Needs_Action/`
+3. **Ralph Wiggum** processes tasks autonomously
+4. Completed work is moved to `Done/` with completion metadata
+5. Stuck tasks are retried; blocked tasks await human approval
 
-## Notes
+## Session Log
 
-- All vault operations are logged for traceability
-- Each markdown file in the pipeline represents a single unit of work
-- The agent checks Inbox on every cycle and processes items in FIFO order
-
-Test: Claude can read and write to the vault. Bronze tier started on February 15, 2026.
-
-- [2026-02-15 19:33:01] Gmail watcher: 1 email(s) ingested.
-- [2026-02-15 19:33:26] WhatsApp watcher: 1 message(s) ingested.
+- [2026-02-28 14:15:54] Ralph cycle #22: processed=10 completed=7 retried=3 blocked=4

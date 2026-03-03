@@ -164,6 +164,20 @@ def _process_plan_task(task: dict, state: dict) -> bool:
     """
     content = task["content"]
     filepath = task["filepath"]
+
+    # No checkboxes — plan has only numbered steps; acknowledge and complete
+    if task["total"] == 0:
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        content += (
+            f"\n\n## Ralph Processing\n"
+            f"- [x] Plan acknowledged by AI Employee ({timestamp})\n"
+            f"- [x] No actionable checklist items — marked complete\n"
+        )
+        filepath.write_text(content, encoding="utf-8")
+        task["content"] = content
+        task["status"] = TaskStatus.COMPLETE
+        return True
+
     lines = content.splitlines()
     modified = False
 

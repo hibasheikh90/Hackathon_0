@@ -69,6 +69,13 @@ def collect() -> dict:
 
         client = OdooClient()
         client.authenticate()
+
+        if not client.is_accounting_available():
+            error_logger.log_audit("briefing.collector.financial", "skipped", {
+                "reason": "Odoo Accounting module not installed"
+            })
+            return skeleton
+
         reports = FinancialReports(client)
 
     except ImportError:

@@ -65,6 +65,13 @@ class OdooSync:
             stats["errors"] += 1
             return stats
 
+        if not self.client.is_accounting_available():
+            error_logger.log_audit("odoo.sync", "skipped", {
+                "reason": "Odoo Accounting module not installed — "
+                          "activate the Invoicing/Accounting app in your Odoo instance"
+            })
+            return stats
+
         # Push: vault -> Odoo
         pushed = self._push_vault_to_odoo()
         stats["pushed"] = pushed

@@ -76,6 +76,7 @@ class OdooClient:
         self._uid: int | None = None
         self._common: xmlrpc.client.ServerProxy | None = None
         self._models: xmlrpc.client.ServerProxy | None = None
+        self._accounting_available: bool | None = None  # cached module check
 
     # ------------------------------------------------------------------
     # Connection
@@ -155,6 +156,15 @@ class OdooClient:
                     model, method, list(args), kwargs,
                 )
                 return result
+            except xmlrpc.client.Fault as e:
+                # Fault errors are non-transient (model not installed, access denied).
+                # Log once and raise immediately — retrying will not help.
+                error_logger.log_error("odoo.execute", e, {
+                    "model": model, "method": method, "attempt": attempt,
+                })
+                raise OdooConnectionError(
+                    f"Odoo {model}.{method} failed: {e}"
+                ) from e
             except Exception as e:
                 last_error = e
                 error_logger.log_error("odoo.execute", e, {
@@ -234,6 +244,38 @@ class OdooClient:
                 transport=transport_cls(timeout=self.timeout),
             )
         return self._common.version()
+
+    def is_accounting_available(self) -> bool:
+        """Return True if the Odoo Accounting module (account.move) is installed and accessible.
+
+        Probes the model directly rather than querying ir.model, because Odoo Online
+        can register model classes in ir.model without them being accessible (e.g. if
+        the Accounting app is not installed or the API key lacks permissions).
+
+        Result is cached for the lifetime of this client instance so the check
+        only hits the server once per scheduler run.
+        """
+        if self._accounting_available is not None:
+            return self._accounting_available
+        try:
+            self._ensure_connected()
+            # Directly call search_count on account.move — if the model is missing
+            # or inaccessible, Odoo raises Fault 2 immediately.
+            self._models.execute_kw(
+                self.db, self._uid, self.api_key,
+                "account.move", "search_count", [[]], {},
+            )
+            self._accounting_available = True
+        except xmlrpc.client.Fault:
+            # Fault 2 = model not installed or no access rights
+            self._accounting_available = False
+            error_logger.log_audit("odoo.accounting_check", "unavailable", {
+                "reason": "account.move not accessible — install the Accounting/Invoicing app "
+                          "in your Odoo instance, or check API key permissions"
+            })
+        except Exception:
+            self._accounting_available = False
+        return self._accounting_available
 
     def __repr__(self) -> str:
         status = "connected" if self._uid else "disconnected"

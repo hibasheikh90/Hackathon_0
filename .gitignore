@@ -1,1 +1,42 @@
+# Secrets & credentials
 .env
+*.env
+*.pem
+*.key
+secrets/
+credentials/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+
+# Logs & runtime state
+logs/
+*.log
+*.log.old
+*.state.json
+.gold_scheduler_state.json
+.gmail_watcher_state.json
+
+# Browser data (LinkedIn, etc.)
+Bronze/integrations/social/.linkedin_browser_data/
+**/.linkedin_browser_data/
+
+# Generated vault folders
+Bronze/AI_Employee_Vault/vault/Inbox/
+Bronze/AI_Employee_Vault/vault/Needs_Action/
+Bronze/AI_Employee_Vault/vault/Done/
+Bronze/AI_Employee_Vault/vault/Approved/
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

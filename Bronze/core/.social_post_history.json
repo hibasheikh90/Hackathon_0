@@ -1,0 +1,46 @@
+[
+  {
+    "platform": "linkedin",
+    "timestamp": "2026-02-21T19:33:26.584701",
+    "success": false,
+    "post_id": null,
+    "url": null,
+    "content_length": 54,
+    "content_preview": "Excited to share our latest AI update! #AI #Innovation",
+    "has_media": false,
+    "error": "TimeoutError: Timeout 180000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation to \"**/feed/**\" until 'load'\n============================================================"
+  },
+  {
+    "platform": "linkedin",
+    "timestamp": "2026-02-21T19:40:10.982326",
+    "success": false,
+    "post_id": null,
+    "url": null,
+    "content_length": 58,
+    "content_preview": "Excited to announce our latest AI project! #AI #Innovation",
+    "has_media": false,
+    "error": "TimeoutError: Timeout 180000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation to \"**/feed/**\" until 'load'\n============================================================"
+  },
+  {
+    "platform": "linkedin",
+    "timestamp": "2026-02-21T19:46:13.310329",
+    "success": false,
+    "post_id": null,
+    "url": null,
+    "content_length": 58,
+    "content_preview": "Excited to announce our latest AI project! #AI #Innovation",
+    "has_media": false,
+    "error": "TimeoutError: Timeout 180000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation to \"**/feed/**\" until 'load'\n============================================================"
+  },
+  {
+    "platform": "linkedin",
+    "timestamp": "2026-02-21T19:51:38.243931",
+    "success": false,
+    "post_id": null,
+    "url": null,
+    "content_length": 58,
+    "content_preview": "Excited to announce our latest AI project! #AI #Innovation",
+    "has_media": false,
+    "error": "TimeoutError: Timeout 180000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation to \"**/feed/**\" until 'load'\n============================================================"
+  }
+]

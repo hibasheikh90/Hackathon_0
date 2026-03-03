@@ -46,9 +46,14 @@ def _get_client():
     client = OdooClient()
     try:
         client.authenticate()
-        return client, None
     except OdooConnectionError as e:
         return None, str(e)
+    if not client.is_accounting_available():
+        return None, (
+            "Odoo Accounting module is not installed. "
+            "Go to your Odoo instance → Apps → search 'Accounting' or 'Invoicing' → Install."
+        )
+    return client, None
 
 
 @mcp.tool()

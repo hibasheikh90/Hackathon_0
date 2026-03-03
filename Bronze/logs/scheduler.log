@@ -88,3 +88,1430 @@
 [2026-02-17 16:21:24] INFO    --- Log rotation check ---
 [2026-02-17 16:21:24] INFO    Single cycle complete.
 [2026-02-17 16:21:24] INFO    Gold scheduler stopped.
+[2026-02-21 12:02:40] INFO    ============================================================
+[2026-02-21 12:02:40] INFO      Gold Tier Scheduler — Personal AI Employee
+[2026-02-21 12:02:40] INFO      Vault:    G:\Desktop\Hackathon_0\Bronze\AI_Employee_Vault\vault
+[2026-02-21 12:02:40] INFO      Mode:     daemon
+[2026-02-21 12:02:40] INFO      Interval: 5 minute(s)
+[2026-02-21 12:02:40] INFO      Config:   <Config sections=['scheduler', 'error_logging', 'briefing', 'social_accounts', 'odoo'] env_vars=17>
+[2026-02-21 12:02:40] INFO    ============================================================
+[2026-02-21 12:02:40] INFO    Daemon started. Ctrl+C to stop.
+
+[2026-02-21 12:02:40] INFO    ====== Cycle #7 ======
+[2026-02-21 12:02:40] INFO    --- Gmail check ---
+[2026-02-21 12:02:59] INFO      Gmail: imported 20 new email(s)
+[2026-02-21 12:02:59] INFO    --- Vault scan ---
+[2026-02-21 12:02:59] INFO      [PROCESSING] gmail_1115K_Monthly_Profit_Leading_Water_Filter_Brand.md
+[2026-02-21 12:03:02] INFO      [PROCESSING] gmail_11_yo_Lawncare_YouTube_making_131K_Annual_Profit_Web_Scrapin.md
+[2026-02-21 12:03:03] INFO      [PROCESSING] gmail_11M_TTM_Rev_Baby_Gift_Ecom_Business.md
+[2026-02-21 12:03:04] INFO      [PROCESSING] gmail_11yo_Workwear_FBA_27M_TTM_Revenue_More_on_Flippa.md
+[2026-02-21 12:03:05] INFO      [PROCESSING] gmail_12-year-old_Food_Blog_AI-powered_Live_Stream_App_Wine_Ecomme.md
+[2026-02-21 12:03:06] INFO      [PROCESSING] gmail_12-year-old_Shopify_Store_Builder_Training_Platform_Gallery_.md
+[2026-02-21 12:03:07] INFO      [PROCESSING] gmail_121M_Annual_Revenue_Womens_Undergarment_Brand_More.md
+[2026-02-21 12:03:08] INFO      [PROCESSING] gmail_13yo_Sustainable_Business_Blog_Sleep_Product_Ecom_store_Trav.md
+[2026-02-21 12:03:08] INFO      [PROCESSING] gmail_14-Year-Old_Award-Winning_Luxury_Travel_Media_Platform_Tea_B.md
+[2026-02-21 12:03:11] INFO      [PROCESSING] gmail_14_Best_Ways_to_Use_OpenAI_in_WordPress.md
+[2026-02-21 12:03:11] INFO      [PROCESSING] gmail_14M_Users_E-Sports_Platform_making_15M_Annual_Profit_Music_B.md
+[2026-02-21 12:03:12] INFO      [PROCESSING] gmail_19yo_Profitable_Dining_Product_Finance_App_Royal_Family_YouT.md
+[2026-02-21 12:03:13] INFO      [PROCESSING] gmail_21yo_Airport_Flight_Platform_High_Authority_Score_8M_Lifetim.md
+[2026-02-21 12:03:14] INFO      [PROCESSING] gmail_22M-User_Fast_Growth_AI_Prompt_Tool.md
+[2026-02-21 12:03:14] INFO      [PROCESSING] gmail_22M_TTM_Quickly_Growing_Gardening_and_Shearing_Tools_FBA.md
+[2026-02-21 12:03:15] INFO      [PROCESSING] gmail_305K_Monthly_Profit_Popular_Eyelash_Ecommerce_Store.md
+[2026-02-21 12:03:16] INFO      [PROCESSING] gmail_30_Off_Back_to_School_Sale_Last_24_Hours.md
+[2026-02-21 12:03:18] INFO      [PROCESSING] gmail_30_Off_Back_to_School_Sale_Last_24_Hours_2.md
+[2026-02-21 12:03:18] INFO      [PROCESSING] gmail_30_Off_Back_to_School_Sale_Offer_extended.md
+[2026-02-21 12:03:19] INFO      [PROCESSING] gmail_30_Off_Christmas_Sale_Last_24_Hours.md
+[2026-02-21 12:03:20] INFO      [PROCESSING] gmail_30_Off_Christmas_Sale_Limited_time_only.md
+[2026-02-21 12:03:21] INFO      [PROCESSING] gmail_30_Off_Easter_Sale_Last_24_Hours.md
+[2026-02-21 12:03:21] INFO      [PROCESSING] gmail_30_Off_Easter_Sale_Limited_time_only.md
+[2026-02-21 12:03:23] INFO      [PROCESSING] gmail_30_Off_Halloween_Sale_Last_24_Hours.md
+[2026-02-21 12:03:23] INFO      [PROCESSING] gmail_30_Off_Halloween_Sale_Last_24_Hours_2.md
+[2026-02-21 12:03:24] INFO      [PROCESSING] gmail_30_Off_Halloween_Sale_Last_24_Hours_3.md
+[2026-02-21 12:03:24] INFO      [PROCESSING] gmail_30_Off_Halloween_Sale_Limited_time_only.md
+[2026-02-21 12:03:25] INFO      [PROCESSING] gmail_30_Off_Halloween_Sale_Limited_time_only_2.md
+[2026-02-21 12:03:26] INFO      [PROCESSING] gmail_30_Off_Halloween_Sale_Limited_time_only_3.md
+[2026-02-21 12:03:26] INFO      [PROCESSING] gmail_30_off_Jetpack-powered_speed_and_reliability.md
+[2026-02-21 12:03:27] INFO      [PROCESSING] gmail_30_Off_July_4th_Sale_Last_24_Hours.md
+[2026-02-21 12:03:27] INFO      [PROCESSING] gmail_30_Off_July_4th_Sale_Limited_time_only.md
+[2026-02-21 12:03:28] INFO      [PROCESSING] gmail_30_Off_Labor_Day_Sale_Last_24_Hours.md
+[2026-02-21 12:03:28] INFO      [PROCESSING] gmail_30_Off_Labor_Day_Sale_Limited_time_only.md
+[2026-02-21 12:03:28] INFO      [PROCESSING] gmail_30_Off_Memorial_Day_Sale_Last_24_Hours.md
+[2026-02-21 12:03:29] INFO      [PROCESSING] gmail_30_Off_Memorial_Day_Sale_Limited_time_only.md
+[2026-02-21 12:03:29] INFO      [PROCESSING] gmail_30_Off_New_Years_Sale_Last_24_Hours.md
+[2026-02-21 12:03:29] INFO      [PROCESSING] gmail_30_Off_New_Years_Sale_Limited_time_only.md
+[2026-02-21 12:03:30] INFO      [PROCESSING] gmail_30_Off_Presidents_Day_Sale_Last_24_Hours.md
+[2026-02-21 12:03:30] INFO      [PROCESSING] gmail_30_Off_Presidents_Day_Sale_Limited_time_only.md
+[2026-02-21 12:03:30] INFO      [PROCESSING] gmail_30_Off_St_Patricks_Day_Sale_Last_24_Hours.md
+[2026-02-21 12:03:31] INFO      [PROCESSING] gmail_30_Off_St_Patricks_Day_Sale_Limited_time_only.md
+[2026-02-21 12:03:32] INFO      [PROCESSING] gmail_30_Off_Strikingly_Anniversary_Sale_Last_24_Hours.md
+[2026-02-21 12:03:32] INFO      [PROCESSING] gmail_30_Off_Strikingly_Anniversary_Sale_Limited_time_only.md
+[2026-02-21 12:03:33] INFO      [PROCESSING] gmail_30_Off_Thanksgiving_Sale_Last_24_Hours.md
+[2026-02-21 12:03:33] INFO      [PROCESSING] gmail_30_Off_Thanksgiving_Sale_Limited_time_only.md
+[2026-02-21 12:03:34] INFO      [PROCESSING] gmail_30_Off_Valentines_Day_Sale_Last_24_Hours.md
+[2026-02-21 12:03:34] INFO      [PROCESSING] gmail_30_Off_Valentines_Day_Sale_Limited_time_only.md
+[2026-02-21 12:03:34] INFO      [PROCESSING] gmail_32_Marketing_Hacks_to_Skyrocket_Your_Website_Traffic.md
+[2026-02-21 12:03:35] INFO      [PROCESSING] gmail_330K_monthly_FBA_business_3M-follower_food_brand_publishing_.md
+[2026-02-21 12:03:35] INFO      [PROCESSING] gmail_335K_Annual_Rev_Video_Ads_Agency_Anime_Apparel_WooCommerce_S.md
+[2026-02-21 12:03:36] INFO      [PROCESSING] gmail_33M_Annual_Revenue_Diamond_Painting_Kit_Shopify_Store_More.md
+[2026-02-21 12:03:36] INFO      [PROCESSING] gmail_36M_Annual_Revenue_Home_Improvement_Amazon_FBA_More.md
+[2026-02-21 12:03:37] INFO      [PROCESSING] gmail_374K_Annual_Revenue_KDP_Publishing_Biz_More.md
+[2026-02-21 12:03:38] INFO      [PROCESSING] gmail_37K_Monthly_Profit_Social_Media_Lead_Generation_SaaS.md
+[2026-02-21 12:03:38] INFO      [PROCESSING] gmail_3_Lessons_I_learned_by_publishing_Ultimate_Guides_on_WPBegin.md
+[2026-02-21 12:03:39] INFO      [PROCESSING] gmail_3_new_features_recommended_for_you.md
+[2026-02-21 12:03:39] INFO      [PROCESSING] gmail_3_Quick_WordPress_Tips_to_Level_Up_Your_Business_in_2025.md
+[2026-02-21 12:03:40] INFO      [PROCESSING] gmail_3_Reasons_Why_You_Shouldnt_Become_a_Data_Scientist_Dario_Rad.md
+[2026-02-21 12:03:40] INFO      [PROCESSING] gmail_3_tips_for_creating_great_Pins.md
+[2026-02-21 12:03:41] INFO      [PROCESSING] gmail_454K_TTM_Name_Brand_Electronics_Ecom.md
+[2026-02-21 12:03:41] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits.md
+[2026-02-21 12:03:42] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_10.md
+[2026-02-21 12:03:42] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_11.md
+[2026-02-21 12:03:42] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_12.md
+[2026-02-21 12:03:42] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_2.md
+[2026-02-21 12:03:43] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_3.md
+[2026-02-21 12:03:43] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_4.md
+[2026-02-21 12:03:43] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_5.md
+[2026-02-21 12:03:43] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_6.md
+[2026-02-21 12:03:43] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_7.md
+[2026-02-21 12:03:43] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_8.md
+[2026-02-21 12:03:43] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_9.md
+[2026-02-21 12:03:44] INFO      [PROCESSING] gmail_4M_Annual_Revenue_Herbal_Tea_Amazon_Store_More.md
+[2026-02-21 12:03:44] INFO      [PROCESSING] gmail_50_Common_WordPress_Errors_and_How_to_Fix_Them.md
+[2026-02-21 12:03:45] INFO      [PROCESSING] gmail_54K_Monthly_Profit_Trading_SaaS_Training_Platform.md
+[2026-02-21 12:03:45] INFO      [PROCESSING] gmail_5_Best_WordPress_Design_Tools_-_Huge_Savings.md
+[2026-02-21 12:03:46] INFO      [PROCESSING] gmail_5_Essential_Machine_Learning_Techniques_to_Master_Your_Data_.md
+[2026-02-21 12:03:47] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards.md
+[2026-02-21 12:03:47] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_10.md
+[2026-02-21 12:03:47] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_11.md
+[2026-02-21 12:03:48] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_12.md
+[2026-02-21 12:03:48] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_13.md
+[2026-02-21 12:03:48] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_2.md
+[2026-02-21 12:03:48] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_3.md
+[2026-02-21 12:03:49] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_4.md
+[2026-02-21 12:03:49] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_5.md
+[2026-02-21 12:03:52] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_6.md
+[2026-02-21 12:03:52] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_7.md
+[2026-02-21 12:03:52] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_8.md
+[2026-02-21 12:03:53] INFO      [PROCESSING] gmail_5_good_reasons_to_go_dashwards_9.md
+[2026-02-21 12:03:53] INFO      [PROCESSING] gmail_5_Multi-Million-Dollar_Businesses_You_Can_Start_Now_That_Are.md
+[2026-02-21 12:03:54] INFO      [PROCESSING] gmail_77_Profit_Margin_Crypto_App_More.md
+[2026-02-21 12:03:54] INFO      [PROCESSING] gmail_8-Figure_IT_Consulting_Firm_Generating_Staggering_62M_Annual.md
+[2026-02-21 12:03:54] INFO      [PROCESSING] gmail_90_WordPress_Black_Friday_Deals_Early_Access.md
+[2026-02-21 12:03:55] INFO      [PROCESSING] gmail_910K_Annual_Rev_Software_Design_Agency_Automotive_WordPress_.md
+[2026-02-21 12:03:55] INFO      [PROCESSING] gmail_A_26M_annual_revenue_Health_Beauty_FBA.md
+[2026-02-21 12:03:55] INFO      [PROCESSING] gmail_A_hidden_compliance_gap_on_your_WordPress_site.md
+[2026-02-21 12:03:56] INFO      [PROCESSING] gmail_A_quick_look_at_how_Pinterest_works.md
+[2026-02-21 12:03:56] INFO      [PROCESSING] gmail_A_sad_day_and_some_bees.md
+[2026-02-21 12:03:57] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated.md
+[2026-02-21 12:03:57] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_10.md
+[2026-02-21 12:03:58] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_11.md
+[2026-02-21 12:03:58] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_2.md
+[2026-02-21 12:03:58] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_3.md
+[2026-02-21 12:03:58] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_4.md
+[2026-02-21 12:03:59] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_5.md
+[2026-02-21 12:03:59] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_6.md
+[2026-02-21 12:03:59] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_7.md
+[2026-02-21 12:03:59] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_8.md
+[2026-02-21 12:03:59] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_models_and_SERP_Integrated_9.md
+[2026-02-21 12:03:59] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time.md
+[2026-02-21 12:04:00] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_10.md
+[2026-02-21 12:04:00] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_11.md
+[2026-02-21 12:04:00] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_2.md
+[2026-02-21 12:04:00] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_3.md
+[2026-02-21 12:04:00] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_4.md
+[2026-02-21 12:04:00] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_5.md
+[2026-02-21 12:04:00] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_6.md
+[2026-02-21 12:04:00] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_7.md
+[2026-02-21 12:04:01] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_8.md
+[2026-02-21 12:04:01] INFO      [PROCESSING] gmail_Account_Update_DeepSeek_R1_V3_o3-mini_SERP_Real_Time_9.md
+[2026-02-21 12:04:01] INFO      [PROCESSING] gmail_Act_fast_Your_next_survey_is_now_available.md
+[2026-02-21 12:04:17] INFO      [PROCESSING] gmail_Add_Acrobat_to_Chrome_for_faster_edits.md
+[2026-02-21 12:04:18] INFO      [PROCESSING] gmail_Ads_Agency_Making_352K_Profit_pmo_Wild_Animals_YouTube.md
+[2026-02-21 12:04:18] INFO      [PROCESSING] gmail_AI-Driven_Writing_Research_SaaS_100K_Users.md
+[2026-02-21 12:04:18] INFO      [PROCESSING] gmail_AI-enhanced_email_empire_24M-user_dating_network_luxury_medi.md
+[2026-02-21 12:04:19] INFO      [PROCESSING] gmail_AI-Enhanced_Email_SaaS_Platform_making_18M_Annual_Revenue_To.md
+[2026-02-21 12:04:19] INFO      [PROCESSING] gmail_AI-Powered_Fake_Streaming_App_making_900K_Annual_Rev_Lego_Yo.md
+[2026-02-21 12:04:19] INFO      [PROCESSING] gmail_AI-powered_Photography_iOS_App_11M_App_Downloads.md
+[2026-02-21 12:04:20] INFO      [PROCESSING] gmail_AI-Powered_Soccer_SaaS_Business_Elf_on_the_Shelf_App_and_mor.md
+[2026-02-21 12:04:20] INFO      [PROCESSING] gmail_AI-Powered_Video_Editing_App_making_16K_Profit_pmo_Lawncare_.md
+[2026-02-21 12:04:21] INFO      [PROCESSING] gmail_AI-Powered_Video_Editing_App_making_195K_Annual_Profit_Myste.md
+[2026-02-21 12:04:21] INFO      [PROCESSING] gmail_AI-Powered_Video_Generation_Platform_363_YoY_Growth_More.md
+[2026-02-21 12:04:21] INFO      [PROCESSING] gmail_AI_Hermes_speed_worship_Chris_R_Becker_in_UX_Collective.md
+[2026-02-21 12:04:22] INFO      [PROCESSING] gmail_AI_Lending_SaaS_Platform_Making_23K_Monthly_Profit_Romance_N.md
+[2026-02-21 12:04:22] INFO      [PROCESSING] gmail_AI_SaaS_platform_generating_660K_TTM_revenue.md
+[2026-02-21 12:04:22] INFO      [PROCESSING] gmail_AI_tools_SEO_strategies_more_traffic_for_your_site.md
+[2026-02-21 12:04:23] INFO      [PROCESSING] gmail_AI_Trading_Tool_Making_1045K_Annual_Profit.md
+[2026-02-21 12:04:23] INFO      [PROCESSING] gmail_Announcing_Flippa_x_Google_Are_Hitting_the_Road_9_Cities_900.md
+[2026-02-21 12:04:23] INFO      [PROCESSING] gmail_APAC_MA_Snapshot_4_Businesses_Handpicked_for_You.md
+[2026-02-21 12:04:24] INFO      [PROCESSING] gmail_App_Publishing_Portfolio_with_300_subscription-based_apps_Ca.md
+[2026-02-21 12:04:24] INFO      [PROCESSING] gmail_Are_Renewables_Headlines_Telling_the_Full_Story_Felix_Keuya_.md
+[2026-02-21 12:04:24] INFO      [PROCESSING] gmail_Are_Shias_non-Muslims.md
+[2026-02-21 12:04:24] INFO      [PROCESSING] gmail_Are_Trees_the_Key_to_Protecting_Vulnerable_Neighborhoods_Sil.md
+[2026-02-21 12:04:25] INFO      [PROCESSING] gmail_Are_you_from_Pakistan.md
+[2026-02-21 12:04:25] INFO      [PROCESSING] gmail_Are_you_managing_WordPress_categories_properly.md
+[2026-02-21 12:04:25] INFO      [PROCESSING] gmail_Are_you_selected_in_the_final_SBI_PO_result.md
+[2026-02-21 12:04:25] INFO      [PROCESSING] gmail_Are_you_selected_in_the_final_SBI_PO_result_2.md
+[2026-02-21 12:04:25] INFO      [PROCESSING] gmail_Are_Your_WordPress_Backups_Safe.md
+[2026-02-21 12:04:26] INFO      [PROCESSING] gmail_Are_your_WordPress_plugins_hurting_SEO.md
+[2026-02-21 12:04:26] INFO      [PROCESSING] gmail_Automated_Ads_Agency_Making_352K_Monthly_Profit.md
+[2026-02-21 12:04:26] INFO      [PROCESSING] gmail_Automated_Essay_Writing_Platform_17yo_Spanish_Travel_Blog.md
+[2026-02-21 12:04:26] INFO      [PROCESSING] gmail_Avoid_These_5_Mistakes_as_a_Web_Developer_Afan_Khan_in_JavaS.md
+[2026-02-21 12:04:26] INFO      [PROCESSING] gmail_B2B_Online_Education_Business_Making_an_Incredible_337K_Prof.md
+[2026-02-21 12:04:27] INFO      [PROCESSING] gmail_B2B_SaaS_Job_Board_Platform_with_550K_ARR_Headshot_Generator.md
+[2026-02-21 12:04:27] INFO      [PROCESSING] gmail_Barely_Surviving_a_40-Mile_Ski_Race_Nikki_Hodgson_in_The_Nar.md
+[2026-02-21 12:04:27] INFO      [PROCESSING] gmail_Beautiful_Nature_Wallpaper_and_more.md
+[2026-02-21 12:04:27] INFO      [PROCESSING] gmail_Beautiful_Wallpapers_Backgrounds_and_more.md
+[2026-02-21 12:04:28] INFO      [PROCESSING] gmail_Best_SEO_Keyword_Rank_Tracking_Tool.md
+[2026-02-21 12:04:28] INFO      [PROCESSING] gmail_Black_Friday_Buy_1_-_Get_2.md
+[2026-02-21 12:04:28] INFO      [PROCESSING] gmail_Black_Friday_Sale_Unlock_Your_40_Discount.md
+[2026-02-21 12:04:28] INFO      [PROCESSING] gmail_Black_Friday_Sale_Unlock_Your_40_Discount_2.md
+[2026-02-21 12:04:28] INFO      [PROCESSING] gmail_Black_Friday_Sale_Unlock_Your_40_Discount_3.md
+[2026-02-21 12:04:28] INFO      [PROCESSING] gmail_Black_Friday_Sale_Unlock_Your_40_Discount_4.md
+[2026-02-21 12:04:28] INFO      [PROCESSING] gmail_Black_Friday_Sale_Unlock_Your_40_Discount_5.md
+[2026-02-21 12:04:28] INFO      [PROCESSING] gmail_Black_Friday_Sale_Unlock_Your_40_Discount_6.md
+[2026-02-21 12:04:28] INFO      [PROCESSING] gmail_Booming_Android_Gallery_App_210K_DAU.md
+[2026-02-21 12:04:29] INFO      [PROCESSING] gmail_Business_Building_Digital_Products_Ecom_Slack_App_Testostero.md
+[2026-02-21 12:04:29] INFO      [PROCESSING] gmail_Can_I_reheat_KFC_chicken_in_a_microwave.md
+[2026-02-21 12:04:29] INFO      [PROCESSING] gmail_Can_you_share_the_last_nine_screenshots_you_have_taken_in_yo.md
+[2026-02-21 12:04:29] INFO      [PROCESSING] gmail_Can_you_share_your_IBPS_PO_Mains_2023_score_card.md
+[2026-02-21 12:04:30] INFO      [PROCESSING] gmail_Can_you_share_your_IBPS_PO_Mains_score.md
+[2026-02-21 12:04:30] INFO      [PROCESSING] gmail_Can_you_tell_me_something_about_yourself.md
+[2026-02-21 12:04:30] INFO      [PROCESSING] gmail_Can_you_tell_me_something_about_yourself_2.md
+[2026-02-21 12:04:31] INFO      [PROCESSING] gmail_Cant_access_wp-admin_No_worries.md
+[2026-02-21 12:04:31] INFO      [PROCESSING] gmail_Car_Multimedia_Hardware_Ecom_Making_362K_Annual_Profit_Weigh.md
+[2026-02-21 12:04:31] INFO      [PROCESSING] gmail_Case_Study_How_I_Blocked_18000_Spam_Lead_Attacks.md
+[2026-02-21 12:04:31] INFO      [PROCESSING] gmail_Casino_Comparison_Blog_making_16M_Annual_Profit_Floating_Bas.md
+[2026-02-21 12:04:32] INFO      [PROCESSING] gmail_Catch_Us_on_The_Road_Top_Businesses_This_Week.md
+[2026-02-21 12:04:32] INFO      [PROCESSING] gmail_Catch_Us_on_The_Road_Top_Businesses_This_Week_-_May_2.md
+[2026-02-21 12:04:32] INFO      [PROCESSING] gmail_Check_out_your_growth_Rainbow.md
+[2026-02-21 12:04:32] INFO      [PROCESSING] gmail_Check_out_your_growth_Rainbow_Whispers_ASMR.md
+[2026-02-21 12:04:32] INFO      [PROCESSING] gmail_Check_out_your_next_survey_now.md
+[2026-02-21 12:04:33] INFO      [PROCESSING] gmail_Check_out_your_next_survey_now_2.md
+[2026-02-21 12:04:33] INFO      [PROCESSING] gmail_Childrens_Development_Toys_Store_Making_139K_Annual_Profit_G.md
+[2026-02-21 12:04:33] INFO      [PROCESSING] gmail_Childrens_Therapy_Toys_Ecom_making_178K_Annual_Profit_Milita.md
+[2026-02-21 12:04:34] INFO      [PROCESSING] gmail_Christmas_Promo_Buy_1_and_Get_1.md
+[2026-02-21 12:04:34] INFO      [PROCESSING] gmail_Click_click.md
+[2026-02-21 12:04:35] INFO      [PROCESSING] gmail_Clocks_ticking_Take_your_next_survey_now.md
+[2026-02-21 12:04:35] INFO      [PROCESSING] gmail_Coffee_Maybe.md
+[2026-02-21 12:04:35] INFO      [PROCESSING] gmail_Commissioning_Data_on_Half_a_Million_Objects_in_the_Sky_from.md
+[2026-02-21 12:04:35] INFO      [PROCESSING] gmail_Confidence_is_hard_to_gain_as_a_designer_Heres_what_can_help.md
+[2026-02-21 12:04:36] INFO      [PROCESSING] gmail_Confused_by_Google_Analytics.md
+[2026-02-21 12:04:37] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is.md
+[2026-02-21 12:04:37] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_10.md
+[2026-02-21 12:04:37] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_11.md
+[2026-02-21 12:04:37] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_2.md
+[2026-02-21 12:04:37] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_3.md
+[2026-02-21 12:04:38] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_4.md
+[2026-02-21 12:04:38] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_5.md
+[2026-02-21 12:04:39] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_6.md
+[2026-02-21 12:04:39] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_7.md
+[2026-02-21 12:04:39] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_8.md
+[2026-02-21 12:04:40] INFO      [PROCESSING] gmail_Content_Score_Using_SERP_AI_Editor_with_Republish_Feature_Is_9.md
+[2026-02-21 12:04:40] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed.md
+[2026-02-21 12:04:41] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_10.md
+[2026-02-21 12:04:41] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_11.md
+[2026-02-21 12:04:42] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_2.md
+[2026-02-21 12:04:42] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_3.md
+[2026-02-21 12:04:42] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_4.md
+[2026-02-21 12:04:42] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_5.md
+[2026-02-21 12:04:42] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_6.md
+[2026-02-21 12:04:42] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_7.md
+[2026-02-21 12:04:42] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_8.md
+[2026-02-21 12:04:42] INFO      [PROCESSING] gmail_Content_scoring_and_writing_speed_9.md
+[2026-02-21 12:04:42] INFO      [PROCESSING] gmail_Convert_Google_Analytics_4_data_into_EASY_reports_in_a_few_c.md
+[2026-02-21 12:04:43] INFO      [PROCESSING] gmail_Cooking_like_a_graphic_designer_David_Langton_in_Bootcamp.md
+[2026-02-21 12:04:43] INFO      [PROCESSING] gmail_Costume_Partywear_Amazon_FBA_24M_Annual_Revenue.md
+[2026-02-21 12:04:43] INFO      [PROCESSING] gmail_Create_images_with_GPT_image_generation_on_Poe.md
+[2026-02-21 12:04:44] INFO      [PROCESSING] gmail_Create_to_grow_your_community.md
+[2026-02-21 12:04:44] INFO      [PROCESSING] gmail_Crypto_Media_Platform_making_12M_Monthly_Users_Sustainable_B.md
+[2026-02-21 12:04:44] INFO      [PROCESSING] gmail_Crypto_Trading_Platform_30K_Monthly_Profit.md
+[2026-02-21 12:04:45] INFO      [PROCESSING] gmail_Crypto_Trading_Service_Making_343K_Profit_pmo_Natural_Dog_Tr.md
+[2026-02-21 12:04:45] INFO      [PROCESSING] gmail_Cupping_Therapy_Ecom_Animated_YouTube.md
+[2026-02-21 12:04:46] INFO      [PROCESSING] gmail_Custom_Stamps_Ecommerce_making_18M_Annual_Profit_Wellness_Ed.md
+[2026-02-21 12:04:46] INFO      [PROCESSING] gmail_Cyber_Monday_FLASH_SaleSave_MORE_now.md
+[2026-02-21 12:04:46] INFO      [PROCESSING] gmail_Daily_Deal_Alert_234K_credit_repair_business_3_more_ready_to.md
+[2026-02-21 12:04:46] INFO      [PROCESSING] gmail_Daily_English_with_Rubab_has_subscribed_to_you_on_YouTube.md
+[2026-02-21 12:04:47] INFO      [PROCESSING] gmail_Dating_Site_Portfolio_with_24M_global_users_Sleep_Review_Sit.md
+[2026-02-21 12:04:47] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Delay.md
+[2026-02-21 12:04:47] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Delay_1365.md
+[2026-02-21 12:04:47] INFO      [PROCESSING] gmail_Design_with_the_world_of_Disney.md
+[2026-02-21 12:04:47] INFO      [PROCESSING] gmail_Did_the_Prophet_Muhammad_ever_have_a_non-Muslim_friend.md
+[2026-02-21 12:04:47] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge.md
+[2026-02-21 12:04:48] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_10.md
+[2026-02-21 12:04:48] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_11.md
+[2026-02-21 12:04:48] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_2.md
+[2026-02-21 12:04:48] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_3.md
+[2026-02-21 12:04:48] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_4.md
+[2026-02-21 12:04:48] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_5.md
+[2026-02-21 12:04:48] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_6.md
+[2026-02-21 12:04:49] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_7.md
+[2026-02-21 12:04:49] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_8.md
+[2026-02-21 12:04:49] INFO      [PROCESSING] gmail_Did_You_Know_DeepSeek_SERP_Gives_You_an_Edge_9.md
+[2026-02-21 12:04:49] INFO      [PROCESSING] gmail_Digital_creators_will_love_this.md
+[2026-02-21 12:04:49] INFO      [PROCESSING] gmail_Digital_Marketing_Agency_23M_TTM_Rev_LEGO_Lighting_Store.md
+[2026-02-21 12:04:49] INFO      [PROCESSING] gmail_Digital_Marketing_Ed_AI_Software_SaaS_Resell_Travel_Marketpl.md
+[2026-02-21 12:04:50] INFO      [PROCESSING] gmail_Digital_Marketing_Education_AI_Software_SaaS_13M_Annual_Reve.md
+[2026-02-21 12:04:50] INFO      [PROCESSING] gmail_Digital_Wellness_App_with_50K_Downloads_Vegetarian_Weightlos.md
+[2026-02-21 12:04:50] INFO      [PROCESSING] gmail_Diwali_Delights_The_Taste_of_Togetherness_Ninad_Kulkarni_in_.md
+[2026-02-21 12:04:50] INFO      [PROCESSING] gmail_DIY_Tools_Amazon_FBA_16M_TTM_Revenue_Top_10_Drinking_App.md
+[2026-02-21 12:04:51] INFO      [PROCESSING] gmail_Do_I_use_outdated_WordPress_plugins_Heres_my_answer.md
+[2026-02-21 12:04:51] INFO      [PROCESSING] gmail_Do_Parents_Name_Their_Babies_After_Great_Presidents_Chris_Fe.md
+[2026-02-21 12:04:51] INFO      [PROCESSING] gmail_Do_you_believe_Aisha_bint_Abi_Bakr_was_really_9_years_old_wh.md
+[2026-02-21 12:04:51] INFO      [PROCESSING] gmail_Do_you_follow_us_on_Instagram.md
+[2026-02-21 12:04:52] INFO      [PROCESSING] gmail_Do_you_get_paid_by_Quora.md
+[2026-02-21 12:04:52] INFO      [PROCESSING] gmail_Do_you_know_how_you_can_be_10x_more_visible_than_the_average.md
+[2026-02-21 12:04:52] INFO      [PROCESSING] gmail_Do_you_know_what_your_visitors_are_thinking.md
+[2026-02-21 12:04:52] INFO      [PROCESSING] gmail_Do_you_want_to_build_an_online_community_Get_70_OFF_Today.md
+[2026-02-21 12:04:53] INFO      [PROCESSING] gmail_Does_carbonated_water_flush_kidneys.md
+[2026-02-21 12:04:53] INFO      [PROCESSING] gmail_Does_the_Prophet_Muhammad_have_any_living_descendants.md
+[2026-02-21 12:04:53] INFO      [PROCESSING] gmail_Does_this_take_your_fancy_Cake_Decorating_Community_with_mon.md
+[2026-02-21 12:04:53] INFO      [PROCESSING] gmail_Does_your_WordPress_site_secretly_use_cookies.md
+[2026-02-21 12:04:53] INFO      [PROCESSING] gmail_Dont_Miss_Out_Learn_How_to_Get_Paid_Instantly_Free_Workshop.md
+[2026-02-21 12:04:54] INFO      [PROCESSING] gmail_Dont_Miss_Out_Super_Page_-_The_Ultimate_Page_Creation_Agent.md
+[2026-02-21 12:04:54] INFO      [PROCESSING] gmail_Dont_Miss_Out_Super_Page_-_The_Ultimate_Page_Creation_Agent_2.md
+[2026-02-21 12:04:54] INFO      [PROCESSING] gmail_Dont_Miss_Out_Super_Page_-_The_Ultimate_Page_Creation_Agent_3.md
+[2026-02-21 12:04:54] INFO      [PROCESSING] gmail_Dont_Miss_Out_Super_Page_-_The_Ultimate_Page_Creation_Agent_4.md
+[2026-02-21 12:04:54] INFO      [PROCESSING] gmail_Dont_Miss_Out_Super_Page_-_The_Ultimate_Page_Creation_Agent_5.md
+[2026-02-21 12:04:54] INFO      [PROCESSING] gmail_Dont_Miss_Out_Super_Page_-_The_Ultimate_Page_Creation_Agent_6.md
+[2026-02-21 12:04:54] INFO      [PROCESSING] gmail_Dont_Miss_Out_Super_Page_-_The_Ultimate_Page_Creation_Agent_7.md
+[2026-02-21 12:04:55] INFO      [PROCESSING] gmail_Dont_Miss_Out_Super_Page_-_The_Ultimate_Page_Creation_Agent_8.md
+[2026-02-21 12:04:55] INFO      [PROCESSING] gmail_Dont_Miss_Out_Super_Page_-_The_Ultimate_Page_Creation_Agent_9.md
+[2026-02-21 12:04:55] INFO      [PROCESSING] gmail_Dont_miss_these_metrics.md
+[2026-02-21 12:04:55] INFO      [PROCESSING] gmail_Double_Your_Website_Traffic.md
+[2026-02-21 12:04:55] INFO      [PROCESSING] gmail_Double_Your_Website_Traffic_2.md
+[2026-02-21 12:04:55] INFO      [PROCESSING] gmail_Dragons_Den-Featured_Steak_Ecom_Store_Outdoor_Furniture_Blog.md
+[2026-02-21 12:04:56] INFO      [PROCESSING] gmail_E-Bike_Store_1M_TTM_Rev_Amazon_KDP_Childrens_Books.md
+[2026-02-21 12:04:56] INFO      [PROCESSING] gmail_E-signatures_PDF_tools.md
+[2026-02-21 12:04:56] INFO      [PROCESSING] gmail_E-Sports_Platform_Traditional_Tea_Store_Travel_YouTube_Chann.md
+[2026-02-21 12:04:57] INFO      [PROCESSING] gmail_Early_Access_Your_next_survey_is_now_ready.md
+[2026-02-21 12:04:57] INFO    
+Shutdown requested.
+[2026-02-21 12:04:57] INFO    Gold scheduler stopped.
+[2026-02-25 14:34:58] INFO    ============================================================
+[2026-02-25 14:34:58] INFO      Gold Tier Scheduler — Personal AI Employee
+[2026-02-25 14:34:58] INFO      Vault:    G:\Desktop\Hackathon_0\Bronze\AI_Employee_Vault\vault
+[2026-02-25 14:34:58] INFO      Mode:     once
+[2026-02-25 14:34:58] INFO      Config:   <Config sections=['scheduler', 'error_logging', 'briefing', 'social_accounts', 'odoo'] env_vars=13>
+[2026-02-25 14:34:58] INFO    ============================================================
+[2026-02-25 14:34:59] INFO    --- Gmail check ---
+[2026-02-25 14:35:03] INFO      Gmail: imported 6 new email(s)
+[2026-02-25 14:35:04] INFO    --- Vault scan ---
+[2026-02-25 14:35:06] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure.md
+[2026-02-25 14:35:06] INFO      [PROCESSING] gmail_Early_Access_Your_next_survey_is_now_ready.md
+[2026-02-25 14:35:11] INFO      [PROCESSING] gmail_Early_Access_Your_next_survey_is_now_ready_2.md
+[2026-02-25 14:35:11] INFO      [PROCESSING] gmail_Elf_on_the_Shelf_App_Cypto_Content_Site_Top-Earning_YouTube_.md
+[2026-02-25 14:35:12] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi.md
+[2026-02-25 14:35:12] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_10.md
+[2026-02-25 14:35:12] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_11.md
+[2026-02-25 14:35:12] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_2.md
+[2026-02-25 14:35:12] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_3.md
+[2026-02-25 14:35:13] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_4.md
+[2026-02-25 14:35:13] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_5.md
+[2026-02-25 14:35:13] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_6.md
+[2026-02-25 14:35:13] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_7.md
+[2026-02-25 14:35:14] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_8.md
+[2026-02-25 14:35:14] INFO      [PROCESSING] gmail_End_of_Year_Update_Haiku_35_and_Llama_33_AI_Models_Here_Holi_9.md
+[2026-02-25 14:35:14] INFO      [PROCESSING] gmail_Ending_soon_30_off.md
+[2026-02-25 14:35:14] INFO      [PROCESSING] gmail_Engaging_Stories_YouTube_Channel_Making_111K_Annual_Profit_P.md
+[2026-02-25 14:35:15] INFO      [PROCESSING] gmail_Engaging_Stories_YouTube_making_121K_Annual_Profit_Proofread.md
+[2026-02-25 14:35:15] INFO      [PROCESSING] gmail_eSports_Tournament_Platform_48M_Annual_Revenue.md
+[2026-02-25 14:35:16] INFO      [PROCESSING] gmail_Essential_tips_for_great_Pins.md
+[2026-02-25 14:35:16] INFO      [PROCESSING] gmail_Established_Lead_Management_SaaS_Making_138K_Monthly_Profit.md
+[2026-02-25 14:35:17] INFO      [PROCESSING] gmail_European_Stylish_coats_shoes_and_apparel_brand_with_14M_TTM_.md
+[2026-02-25 14:35:17] INFO      [PROCESSING] gmail_Event-Driven_Architecture_EDA_Shanoj_in_Stackademic.md
+[2026-02-25 14:35:17] INFO      [PROCESSING] gmail_Extended_Cyber_Monday_Sale.md
+[2026-02-25 14:35:18] INFO      [PROCESSING] gmail_Extinct-In-The-Wild_Birds_Released_Into_Wild_For_First_Time_.md
+[2026-02-25 14:35:18] INFO      [PROCESSING] gmail_Faceless_Political_YouTube_Channel_making_291K_Annual_Profit.md
+[2026-02-25 14:35:18] INFO      [PROCESSING] gmail_Feel_stuck_on_email_marketing_Try_this.md
+[2026-02-25 14:35:18] INFO      [PROCESSING] gmail_Find_THE_ONE.md
+[2026-02-25 14:35:20] INFO      [PROCESSING] gmail_Finding_Connection_in_the_Shadow_of_Algiers_Sofia_Felina_in_.md
+[2026-02-25 14:35:20] INFO      [PROCESSING] gmail_Five_Nights_at_Freddys_Is_Innovative_Nostalgic_and_Divisive_.md
+[2026-02-25 14:35:21] INFO      [PROCESSING] gmail_Fix_WordPress_issues_fast_-_Memorial_Day_Special_10_OFF.md
+[2026-02-25 14:35:21] INFO      [PROCESSING] gmail_Flags_Block_Parties_and_Auto_RacingStreet_and_Circuit_My_NAS.md
+[2026-02-25 14:35:21] INFO      [PROCESSING] gmail_FLASH_SALE_-_3_Hours_Only.md
+[2026-02-25 14:35:22] INFO      [PROCESSING] gmail_Flippa_x_Google_announce_5_NEW_events_across_Singapore_Thail.md
+[2026-02-25 14:35:22] INFO      [PROCESSING] gmail_Four_New_Businesses_Picked_for_You.md
+[2026-02-25 14:35:22] INFO      [PROCESSING] gmail_FREE_AI_Workshop_Last_Chance_to_Build_Your_Site_in_30_Sec.md
+[2026-02-25 14:35:22] INFO      [PROCESSING] gmail_Free_live_training_Earn_passive_income_by_launching_a_digita.md
+[2026-02-25 14:35:22] INFO      [PROCESSING] gmail_Free_WordPress_Plugin_Find_why_your_website_visitors_leave.md
+[2026-02-25 14:35:22] INFO      [PROCESSING] gmail_Free_Workshop_Start_Earning_from_Your_Blog_Today.md
+[2026-02-25 14:35:23] INFO      [PROCESSING] gmail_Free_Workshop_Use_AI_to_Build_Your_Dream_Site_in_Just_30_Sec.md
+[2026-02-25 14:35:23] INFO      [PROCESSING] gmail_Free_Workshop_WordPress_Security_Secrets_to_a_Hack-Proof_Sit.md
+[2026-02-25 14:35:23] INFO      [PROCESSING] gmail_From_50K_crypto_streams_to_2M_agencies_-_4_businesses_ready_.md
+[2026-02-25 14:35:23] INFO      [PROCESSING] gmail_From_Atomic_Design_to_Relativistic_Interfaces_Bahul_Neel_Upa.md
+[2026-02-25 14:35:23] INFO      [PROCESSING] gmail_Frustrated_with_Signup_Forms_That_Ruin_Your_Layout_Try_This.md
+[2026-02-25 14:35:24] INFO      [PROCESSING] gmail_Future_of_SEO_How_AI_is_reshaping_it.md
+[2026-02-25 14:35:24] INFO      [PROCESSING] gmail_GamesVenture_Hub_has_subscribed_to_you_on_YouTube.md
+[2026-02-25 14:35:24] INFO      [PROCESSING] gmail_GAMING_CHANNEL_has_subscribed_to_you_on_YouTube.md
+[2026-02-25 14:35:24] INFO      [PROCESSING] gmail_Gemini_25_Flash_Image_the_viral_image_generator_is_on_Poe.md
+[2026-02-25 14:35:24] INFO      [PROCESSING] gmail_Generate_income_with_WordAds.md
+[2026-02-25 14:35:25] INFO      [PROCESSING] gmail_Germanys_Largest_Childcare_Portal_making_420K_Annual_Profit_.md
+[2026-02-25 14:35:25] INFO      [PROCESSING] gmail_Get_a_New_Website_Design_10_OFF_Memorial_Day_Sale.md
+[2026-02-25 14:35:25] INFO      [PROCESSING] gmail_Get_discovered_with_Pinterest_ads.md
+[2026-02-25 14:35:25] INFO      [PROCESSING] gmail_Get_Free_Website_Traffic_Now.md
+[2026-02-25 14:35:25] INFO      [PROCESSING] gmail_Get_Free_WordPress_eCommerce_Training_Last_Chance.md
+[2026-02-25 14:35:26] INFO      [PROCESSING] gmail_Get_in_touch_with_your_Exness_partner.md
+[2026-02-25 14:35:26] INFO      [PROCESSING] gmail_Get_more_subscribers_with_this_lead_magnet_creator.md
+[2026-02-25 14:35:26] INFO      [PROCESSING] gmail_Get_professional-grade_SEO_insights_free_plugin.md
+[2026-02-25 14:35:26] INFO      [PROCESSING] gmail_Get_Professional_WordPress_Services_Sale_Ends_Tomorrow_-_10_.md
+[2026-02-25 14:35:27] INFO      [PROCESSING] gmail_Get_unlimited_curation_more_topics_more_social_channels_and_.md
+[2026-02-25 14:35:27] INFO      [PROCESSING] gmail_Get_Your_Content_in_Googles_People_Also_Ask_Boxes.md
+[2026-02-25 14:35:27] INFO      [PROCESSING] gmail_Get_your_WordPress_site_working_for_you_not_against_you_10_O.md
+[2026-02-25 14:35:27] INFO      [PROCESSING] gmail_Give_these_5_a_follow.md
+[2026-02-25 14:35:27] INFO      [PROCESSING] gmail_Give_these_5_a_follow_2.md
+[2026-02-25 14:35:27] INFO      [PROCESSING] gmail_Give_these_5_a_follow_3.md
+[2026-02-25 14:35:27] INFO      [PROCESSING] gmail_Give_these_5_a_follow_4.md
+[2026-02-25 14:35:27] INFO      [PROCESSING] gmail_Give_these_5_a_follow_5.md
+[2026-02-25 14:35:28] INFO      [PROCESSING] gmail_Give_these_5_a_follow_6.md
+[2026-02-25 14:35:28] INFO      [PROCESSING] gmail_Give_these_5_a_follow_7.md
+[2026-02-25 14:35:28] INFO      [PROCESSING] gmail_Give_these_5_a_follow_8.md
+[2026-02-25 14:35:28] INFO      [PROCESSING] gmail_Give_these_5_a_follow_9.md
+[2026-02-25 14:35:28] INFO      [PROCESSING] gmail_Give_yourself_some_space.md
+[2026-02-25 14:35:28] INFO      [PROCESSING] gmail_GK_jutt_gaming_has_subscribed_to_you_on_YouTube.md
+[2026-02-25 14:35:28] INFO      [PROCESSING] gmail_Go_for_the_Gold_Take_your_next_survey_now.md
+[2026-02-25 14:35:28] INFO      [PROCESSING] gmail_Go_for_the_Gold_Take_your_next_survey_now_2.md
+[2026-02-25 14:35:28] INFO      [PROCESSING] gmail_Go_for_the_Gold_Take_your_next_survey_now_3.md
+[2026-02-25 14:35:29] INFO      [PROCESSING] gmail_Go_Pro_for_Everything_You_Need_to_Grow.md
+[2026-02-25 14:35:29] INFO      [PROCESSING] gmail_Google_Ads_Management_Service_making_241K_Annual_Profit_Walk.md
+[2026-02-25 14:35:29] INFO      [PROCESSING] gmail_Google_Analytics_4_Mastery_in_Minutes_Not_Months.md
+[2026-02-25 14:35:29] INFO      [PROCESSING] gmail_Got_designs_to_create_Save_time_with_a_free_trial.md
+[2026-02-25 14:35:29] INFO      [PROCESSING] gmail_GPT-45_and_Claude_37_Sonnet_are_now_on_Poe.md
+[2026-02-25 14:35:30] INFO      [PROCESSING] gmail_Growing_Out_of_Leica_Josh_Rose.md
+[2026-02-25 14:35:30] INFO      [PROCESSING] gmail_Has_anyone_faked_being_asleep_so_they_could_enjoy_what_was_h.md
+[2026-02-25 14:35:30] INFO      [PROCESSING] gmail_Have_an_online_store_You_need_this.md
+[2026-02-25 14:35:30] INFO      [PROCESSING] gmail_Have_you_ever_scammed_a_scammer.md
+[2026-02-25 14:35:30] INFO      [PROCESSING] gmail_Have_your_parents_ever_walked_in_on_you.md
+[2026-02-25 14:35:30] INFO      [PROCESSING] gmail_Heavy_Machinery_YouTube_Channel_making_128K_Annual_Profit_AI.md
+[2026-02-25 14:35:31] INFO      [PROCESSING] gmail_Hellbound_S2_Where_is_Hell_Hafsa_Hashmey_in_The_Ugly_Monster.md
+[2026-02-25 14:35:31] INFO      [PROCESSING] gmail_Hello_My_name_is_Kim_So_Yeon_김소연_I_am_40_years_old_I_am_from.md
+[2026-02-25 14:35:32] INFO      [PROCESSING] gmail_Help_us_improve_MonsterInsights_in_under_a_minute.md
+[2026-02-25 14:35:32] INFO      [PROCESSING] gmail_Help_Which_plugins_should_I_use_Heres_my_answer.md
+[2026-02-25 14:35:32] INFO      [PROCESSING] gmail_Heres_how_I_automated_my_entire_WordPress_workflow.md
+[2026-02-25 14:35:32] INFO      [PROCESSING] gmail_Heres_my_1_trick_to_grow_blogs_traffic_and_subscribers.md
+[2026-02-25 14:35:32] INFO      [PROCESSING] gmail_Hey_Muhammad_does_your_WordPress_website_keep_you_up_at_nigh.md
+[2026-02-25 14:35:33] INFO      [PROCESSING] gmail_Hey_Muhammad_dont_miss_this.md
+[2026-02-25 14:35:33] INFO      [PROCESSING] gmail_Hey_Muhammad_we_miss_you.md
+[2026-02-25 14:35:33] INFO      [PROCESSING] gmail_Hey_Muhammad_we_miss_you_2.md
+[2026-02-25 14:35:33] INFO      [PROCESSING] gmail_Hi_Im_Riya_Im_24_years_since_2020_i_started_living_alone_I_c.md
+[2026-02-25 14:35:33] INFO      [PROCESSING] gmail_High-Margin_Aviation_YouTube_Channel_130K_TTM_Rev.md
+[2026-02-25 14:35:34] INFO      [PROCESSING] gmail_High-Ticket_Home_Improvement_Store_Low_Carb_Diet_Blog.md
+[2026-02-25 14:35:34] INFO      [PROCESSING] gmail_High_AOV_Fine_Jewelry_Amazon_Store_SEO_Agency.md
+[2026-02-25 14:35:34] INFO      [PROCESSING] gmail_High_Authority_Wellness_Content_Site_with_679_Monthly_Page_V.md
+[2026-02-25 14:35:34] INFO      [PROCESSING] gmail_Home-Building_Designs_Ecom_Making_199K_Annual_Profit_Anime_S.md
+[2026-02-25 14:35:34] INFO      [PROCESSING] gmail_Home_Storage_Amazon_Business_making_1M_Annual_Revenue_Dating.md
+[2026-02-25 14:35:34] INFO      [PROCESSING] gmail_How_are_you_and_your_life.md
+[2026-02-25 14:35:34] INFO      [PROCESSING] gmail_How_Bad_Entrepreneurs_Reveal_Themselves_in_the_First_5_Secon.md
+[2026-02-25 14:35:35] INFO      [PROCESSING] gmail_How_bad_is_sexism_in_Japan.md
+[2026-02-25 14:35:35] INFO      [PROCESSING] gmail_How_can_I_make_2000_per_week_with_just_my_laptop.md
+[2026-02-25 14:35:36] INFO      [PROCESSING] gmail_How_can_I_make_5000_per_month_working_from_home.md
+[2026-02-25 14:35:36] INFO      [PROCESSING] gmail_How_can_we_help.md
+[2026-02-25 14:35:36] INFO      [PROCESSING] gmail_How_designers_create_alignment_Ed_Orozco_in_UX_Collective.md
+[2026-02-25 14:35:36] INFO      [PROCESSING] gmail_How_Do_I_Make_From_WPBeginner.md
+[2026-02-25 14:35:36] INFO      [PROCESSING] gmail_How_Emotions_Shape_My_Work_as_a_UXUI_Designer_Olha_Bahaieva.md
+[2026-02-25 14:35:36] INFO      [PROCESSING] gmail_How_I_Replaced_Notion_with_Reminders_Numbers_and_Notes_Joan_.md
+[2026-02-25 14:35:37] INFO      [PROCESSING] gmail_How_I_Used_Carb_Cycling_to_Burn_Fat_and_Maintain_Muscle_Jere.md
+[2026-02-25 14:35:37] INFO      [PROCESSING] gmail_How_is_your_handwriting.md
+[2026-02-25 14:35:37] INFO      [PROCESSING] gmail_How_lonely_are_you.md
+[2026-02-25 14:35:37] INFO      [PROCESSING] gmail_How_lonely_are_you_2.md
+[2026-02-25 14:35:37] INFO      [PROCESSING] gmail_How_lonely_are_you_3.md
+[2026-02-25 14:35:37] INFO      [PROCESSING] gmail_How_long_can_eggs_be_unrefrigerated_before_becoming_unsafe_t.md
+[2026-02-25 14:35:38] INFO      [PROCESSING] gmail_How_many_WordPress_plugins_are_too_many.md
+[2026-02-25 14:35:38] INFO      [PROCESSING] gmail_How_much_did_you_score_in_12th_boards.md
+[2026-02-25 14:35:38] INFO      [PROCESSING] gmail_How_much_do_you_earn_every_month_by_answering_on_Quora.md
+[2026-02-25 14:35:38] INFO      [PROCESSING] gmail_How_my_site_accidentally_exploded_with_Google_traffic.md
+[2026-02-25 14:35:38] INFO      [PROCESSING] gmail_How_smart_WooCommerce_stores_boost_sales_automatically.md
+[2026-02-25 14:35:38] INFO      [PROCESSING] gmail_How_tall_was_Mohammad.md
+[2026-02-25 14:35:38] INFO      [PROCESSING] gmail_How_to_Add_llmstxt_in_WordPress.md
+[2026-02-25 14:35:39] INFO      [PROCESSING] gmail_How_to_bring_visitors_back_to_your_site_automatically_Free_t.md
+[2026-02-25 14:35:39] INFO      [PROCESSING] gmail_How_to_build_an_email_list_free_FOREVER_plans.md
+[2026-02-25 14:35:39] INFO      [PROCESSING] gmail_How_to_Create_Custom_WordPress_Designs_without_any_Coding_Kn.md
+[2026-02-25 14:35:39] INFO      [PROCESSING] gmail_How_to_drive_traffic_even_BEFORE_launching_your_site.md
+[2026-02-25 14:35:39] INFO      [PROCESSING] gmail_How_to_edit_a_WordPress_site_Beginners_Guide.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_edit_your_WordPress_theme_even_if_youre_a_beginner.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_Find_and_Fix_Broken_Links_in_WordPress.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_get_paid_every_month_without_WooCommerce.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_make_your_WordPress_site_pay_you_Every_Month.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_OWN_a_traffic_source_Nope_its_not_Google.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_Quickly_Generate_100_Blog_Topics_4_Methods.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_send_BULK_emails_in_WordPress.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_set_up_email_alerts_in_Google_Analytics_for_free.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_Start_an_Email_List_for_FREE_Literally_0.md
+[2026-02-25 14:35:40] INFO      [PROCESSING] gmail_How_to_Track_Offline_Campaigns_in_Google_Analytics.md
+[2026-02-25 14:35:41] INFO      [PROCESSING] gmail_How_to_update_100s_of_website_images_in_one_click_not_hours.md
+[2026-02-25 14:35:41] INFO      [PROCESSING] gmail_How_to_update_hundreds_of_blog_posts_in_a_click.md
+[2026-02-25 14:35:41] INFO      [PROCESSING] gmail_How_to_use_the_WordPress_editor_the_right_way_Save_Time.md
+[2026-02-25 14:35:41] INFO      [PROCESSING] gmail_How_to_use_WordPress_built-in_privacy_tools_No_plugin_needed.md
+[2026-02-25 14:35:41] INFO      [PROCESSING] gmail_How_To_Wake_Up_at_5_AM_Every_Day_Bryan_Ye_in_Better_Humans.md
+[2026-02-25 14:35:41] INFO      [PROCESSING] gmail_How_to_Write_Distraction-Free_in_WordPress_2_other_tricks.md
+[2026-02-25 14:35:41] INFO      [PROCESSING] gmail_How_was_your_12th_result.md
+[2026-02-25 14:35:41] INFO      [PROCESSING] gmail_How_was_your_CBSE_2023_boards_result.md
+[2026-02-25 14:35:41] INFO      [PROCESSING] gmail_How_was_your_CBSE_class_10_result.md
+[2026-02-25 14:35:42] INFO      [PROCESSING] gmail_How_was_your_IBPS_PO_11_Final_Result.md
+[2026-02-25 14:35:42] INFO      [PROCESSING] gmail_How_was_your_IBPS_PO_result.md
+[2026-02-25 14:35:42] INFO      [PROCESSING] gmail_How_was_your_NEET_2024_score.md
+[2026-02-25 14:35:42] INFO      [PROCESSING] gmail_How_was_your_NEET_result.md
+[2026-02-25 14:35:42] INFO      [PROCESSING] gmail_How_was_your_SSC_CGL_2024_pre_exam.md
+[2026-02-25 14:35:42] INFO      [PROCESSING] gmail_Hurry_A_new_survey_match_is_available_now.md
+[2026-02-25 14:35:43] INFO      [PROCESSING] gmail_Hurry_A_new_survey_match_is_available_now_2.md
+[2026-02-25 14:35:43] INFO      [PROCESSING] gmail_Hurry_Free_Workshop_to_Start_a_Traffic-Driving_Email_List.md
+[2026-02-25 14:35:43] INFO      [PROCESSING] gmail_Hurry_Get_Professional_WordPress_Services_Sale_Ends_Tomorrow.md
+[2026-02-25 14:35:43] INFO      [PROCESSING] gmail_HVAC_Ecommerce_Business_with_High_Average_Order_Value_Metall.md
+[2026-02-25 14:35:44] INFO      [PROCESSING] gmail_I_accepted_a_job_offer_but_then_received_a_much_better_one_t.md
+[2026-02-25 14:35:44] INFO      [PROCESSING] gmail_I_am_13_and_my_dad_still_doesnt_let_me_shower_on_my_own_What.md
+[2026-02-25 14:35:44] INFO      [PROCESSING] gmail_I_am_27_years_old_I_have_two_children_I_am_a_single_mother_w.md
+[2026-02-25 14:35:44] INFO      [PROCESSING] gmail_I_am_37_years_old_I_have_no_children_and_have_never_been_mar.md
+[2026-02-25 14:35:44] INFO      [PROCESSING] gmail_I_am_38_and_I_have_not_achieved_much_in_life_Is_it_too_late.md
+[2026-02-25 14:35:44] INFO      [PROCESSING] gmail_I_am_46_no_bank_balance_no_assets_what_should_I_do.md
+[2026-02-25 14:35:44] INFO      [PROCESSING] gmail_I_am_56_Indian_male_Am_I_really_that_short.md
+[2026-02-25 14:35:44] INFO      [PROCESSING] gmail_I_am_a_17_year_old_Muslim_girl_I_met_a_boy_same_age_as_me_an.md
+[2026-02-25 14:35:45] INFO      [PROCESSING] gmail_I_caught_my_13-year-old_son_playing_Roblox_I_sent_him_to_a_b.md
+[2026-02-25 14:35:45] INFO      [PROCESSING] gmail_I_caught_my_13_year_old_daughter_using_pads_for_her_period_w.md
+[2026-02-25 14:35:45] INFO      [PROCESSING] gmail_I_Display_a_Cookie_Banner_on_WPBeginner_Heres_Why.md
+[2026-02-25 14:35:45] INFO      [PROCESSING] gmail_I_Drive_Just_Over_The_Speed_Limit_Unless_I_Need_To_Follow_Yo.md
+[2026-02-25 14:35:45] INFO      [PROCESSING] gmail_I_fixed_the_sleeping_problem_Ive_had_for_years_in_one_night_.md
+[2026-02-25 14:35:45] INFO      [PROCESSING] gmail_I_got_exposed_to_HIV_in_2_months_now_I_did_an_ELISA_test_at_.md
+[2026-02-25 14:35:45] INFO      [PROCESSING] gmail_I_have_a_big_chest_and_my_brother_keeps_looking_at_it_it_mak.md
+[2026-02-25 14:35:46] INFO      [PROCESSING] gmail_I_have_received_an_offer_from_Dubai_of_12000_AED_per_month_p.md
+[2026-02-25 14:35:46] INFO      [PROCESSING] gmail_I_regret_to_inform_you.md
+[2026-02-25 14:35:46] INFO      [PROCESSING] gmail_I_use_this_Free_SEO_tool_by_Google.md
+[2026-02-25 14:35:46] INFO      [PROCESSING] gmail_I_was_refused_a_USA_visa_on_a_counter_interview_When_I_was_a.md
+[2026-02-25 14:35:46] INFO      [PROCESSING] gmail_If_a_police_stops_you_for_no_reason_how_should_you_respond.md
+[2026-02-25 14:35:46] INFO      [PROCESSING] gmail_If_an_interviewer_asks_me_to_prove_that_I_am_honest_what_can.md
+[2026-02-25 14:35:46] INFO      [PROCESSING] gmail_If_I_were_to_start_again.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_If_Jesus_Christ_PBUH_mentions_prophet_Muhammad_PBUH_in_the_B.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_If_you_call_911_by_accident_and_tell_the_operator_sorry_I_di.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_If_you_call_911_by_accident_and_tell_the_operator_sorry_I_di_2.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_If_you_smoke_5_cigarettes_a_day_in_how_many_years_can_you_ge.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_If_your_website_crashed_tomorrow_would_you_be_ready.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_Im_11_and_I_want_to_run_away_What_do_I_do.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_Im_17_sharing_a_room_with_my_15-year-old_brother_What_can_I_.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_Im_18_and_Im_losing_my_mind_What_should_I_do.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_Im_24_am_I_too_late_to_be_successful.md
+[2026-02-25 14:35:47] INFO      [PROCESSING] gmail_Im_41_and_pregnant_Am_I_too_old_to_be_a_new_mom_again.md
+[2026-02-25 14:35:48] INFO      [PROCESSING] gmail_Im_52_years_old_single_mom_I_have_four_children_I_have_12_ye.md
+[2026-02-25 14:35:48] INFO      [PROCESSING] gmail_Im_71_years_old_and_I_am_terribly_lonely_I_really_dont_know_.md
+[2026-02-25 14:35:48] INFO      [PROCESSING] gmail_Im_keeping_my_promise.md
+[2026-02-25 14:35:48] INFO      [PROCESSING] gmail_Improve_Your_Testing_8_Keeping_Your_Tests_Short_and_Clean_Da.md
+[2026-02-25 14:35:48] INFO      [PROCESSING] gmail_Innovative_QR_Code_Advertising_Service_Making_94K_Monthly_Pr.md
+[2026-02-25 14:35:48] INFO      [PROCESSING] gmail_Interview_Heres_how_Id_start_my_WordPress_career_today.md
+[2026-02-25 14:35:48] INFO      [PROCESSING] gmail_Introducing_audio_generation_on_Poe.md
+[2026-02-25 14:35:48] INFO      [PROCESSING] gmail_Introducing_ClickSocial_Manage_Social_Media_Accounts_in_Word.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Introducing_the_WPConsent_Plugin_Privacy_Compliance_Made_Eas.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_52000_AEDmonth_sufficient_salary_for_a_single_man_in_Duba.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_a_heart_attack_a_painful_death.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_It_Safe_to_Use_Outdated_WordPress_Plugins.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_marijuana_or_antidepressants_better_for_treating_depressi.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_Music_Stardom_in_Decline_A_Statistical_Analysis_Daniel_Pa.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_Pakistan_a_good_country.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_reheating_boiled_rice_really_dangerous.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_your_WordPress_image_gallery_boring.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_your_WordPress_search_instant_a_free_plugin.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Is_your_WordPress_site_breaking_privacy_laws.md
+[2026-02-25 14:35:49] INFO      [PROCESSING] gmail_Its_here_New_Survey_Now_Available.md
+[2026-02-25 14:35:50] INFO      [PROCESSING] gmail_Its_here_New_Survey_Now_Available_2.md
+[2026-02-25 14:35:50] INFO      [PROCESSING] gmail_Its_not_too_late_Take_your_next_survey_now.md
+[2026-02-25 14:35:50] INFO      [PROCESSING] gmail_Its_not_too_late_Take_your_next_survey_now_2.md
+[2026-02-25 14:35:51] INFO      [PROCESSING] gmail_Its_time_to_take_your_next_survey.md
+[2026-02-25 14:35:51] INFO      [PROCESSING] gmail_Its_Tomorrow_Get_Free_Live_Google_Analytics_4_Training.md
+[2026-02-25 14:35:51] INFO      [PROCESSING] gmail_Job_Data_vs_Economic_Activities_Which_One_Will_Move_Gold.md
+[2026-02-25 14:35:51] INFO      [PROCESSING] gmail_Join_Free_Workshop_Boost_Your_WordPress_Site_Speed.md
+[2026-02-25 14:35:51] INFO      [PROCESSING] gmail_Join_now_Your_next_survey_match_is_here.md
+[2026-02-25 14:35:51] INFO      [PROCESSING] gmail_Join_Our_Live_Webinar_Master_AI-Powered_Blog_Creation.md
+[2026-02-25 14:35:51] INFO      [PROCESSING] gmail_Join_Our_Live_Workshop_-_WooCommerce_Growth_Hack_to_Boost_Sa.md
+[2026-02-25 14:35:52] INFO      [PROCESSING] gmail_Join_the_Webinar_with_our_CEO_Shyam.md
+[2026-02-25 14:35:52] INFO      [PROCESSING] gmail_Joint_Pain_Relief_Products_Store_Web_Services_Agency.md
+[2026-02-25 14:35:52] INFO      [PROCESSING] gmail_Jordan_Ward_Joony.md
+[2026-02-25 14:35:52] INFO      [PROCESSING] gmail_Keep_website_visitors_coming_back_with_this_FREE_tool.md
+[2026-02-25 14:35:52] INFO      [PROCESSING] gmail_Keep_your_design_flow_going.md
+[2026-02-25 14:35:53] INFO      [PROCESSING] gmail_koichi_hirakawa_has_subscribed_to_you_on_YouTube.md
+[2026-02-25 14:35:53] INFO      [PROCESSING] gmail_Land_Buying_Marketplace_Making_131K_Annual_Profit_6-Site_Blo.md
+[2026-02-25 14:35:53] INFO      [PROCESSING] gmail_Last_call_Get_25_off_your_new_WordPresscom_hosting_plan.md
+[2026-02-25 14:35:53] INFO      [PROCESSING] gmail_Last_Chance_Free_WordPress_Speed_Workshop.md
+[2026-02-25 14:35:53] INFO      [PROCESSING] gmail_Last_Chance_Get_10_OFF_on_WordPress_Professional_Services.md
+[2026-02-25 14:35:53] INFO      [PROCESSING] gmail_Last_Chance_Get_Free_Live_Training_to_Set_up_an_Affiliate_Pr.md
+[2026-02-25 14:35:53] INFO      [PROCESSING] gmail_Last_Chance_Get_Free_SEO_Training_From_Ben_Rojas_Live_Worksh.md
+[2026-02-25 14:35:53] INFO      [PROCESSING] gmail_Last_Chance_Hack-Proof_Your_WordPress_Site_Free_Workshop_-_F.md
+[2026-02-25 14:35:53] INFO      [PROCESSING] gmail_Last_Chance_to_Fix_WordPress_Site_Errors_Get_10_OFF.md
+[2026-02-25 14:35:54] INFO      [PROCESSING] gmail_Last_chance_Unlock_plugin_access_on_Personal_and_Premium_pla.md
+[2026-02-25 14:35:54] INFO      [PROCESSING] gmail_Leading_Greeting_Cards_FBA_Store_Generating_a_Staggering_906.md
+[2026-02-25 14:35:54] INFO      [PROCESSING] gmail_Learning_A_New_Language_Stop_Translating_Do_This_Instead_Axe.md
+[2026-02-25 14:35:54] INFO      [PROCESSING] gmail_Legal_CBD_Sylius_Store_21M_Annual_Revenue.md
+[2026-02-25 14:35:54] INFO      [PROCESSING] gmail_Legal_Lead_Gen_Platform_72M_Annual_Revenue.md
+[2026-02-25 14:35:54] INFO      [PROCESSING] gmail_LEGO_9-Year-Old_Ecom_Business_Making_200K_How-To_YouTube_Bus.md
+[2026-02-25 14:35:55] INFO      [PROCESSING] gmail_LEGO_Lighting_Store_Unique_SaaS_for_Content_Creators_MORE.md
+[2026-02-25 14:35:55] INFO      [PROCESSING] gmail_LEGO_lighting_store_Wellness_resources_and_more.md
+[2026-02-25 14:35:55] INFO      [PROCESSING] gmail_Level_up_your_docs_with_visuals.md
+[2026-02-25 14:35:55] INFO      [PROCESSING] gmail_Level_up_your_docs_with_visuals_2.md
+[2026-02-25 14:35:55] INFO      [PROCESSING] gmail_Like_fine_wines_these_businesses_got_better_with_age.md
+[2026-02-25 14:35:55] INFO      [PROCESSING] gmail_LIMITED_TIME_Switch_to_Reliable_WordPress_Hosting_and_Save_8.md
+[2026-02-25 14:35:55] INFO      [PROCESSING] gmail_Limited_time_Try_plugins_on_WordPresscom_Personal_and_Premiu.md
+[2026-02-25 14:35:55] INFO      [PROCESSING] gmail_Live_Training_How_Smart_Businesses_Build_Email_Lists_5X_Larg.md
+[2026-02-25 14:35:55] INFO      [PROCESSING] gmail_Live_Workshop_Get_Free_Google_Analytics_4_Training.md
+[2026-02-25 14:35:56] INFO      [PROCESSING] gmail_Live_Workshop_Get_Free_SEO_Training_From_Ben_Rojas.md
+[2026-02-25 14:35:56] INFO      [PROCESSING] gmail_Live_Workshop_How_to_Get_Paid_Instantly_as_a_Freelancer.md
+[2026-02-25 14:35:56] INFO      [PROCESSING] gmail_Local_Marketing_Agency_making_188K_Annual_Profit_Lawncare_Yo.md
+[2026-02-25 14:35:56] INFO      [PROCESSING] gmail_Looking_Better_Than_99_of_People_Over_40_is_About_One_Thing_.md
+[2026-02-25 14:35:56] INFO      [PROCESSING] gmail_Looking_to_monetize_a_new_blog.md
+[2026-02-25 14:35:56] INFO      [PROCESSING] gmail_Luxury_Mystery_Box_Ecommerce_Store_making_380K_Annual_Profit.md
+[2026-02-25 14:35:56] INFO      [PROCESSING] gmail_Ma7har_Gaming_has_subscribed_to_you_on_YouTube.md
+[2026-02-25 14:35:56] INFO      [PROCESSING] gmail_Make_this_top-rated_newsletter_yours.md
+[2026-02-25 14:35:56] INFO      [PROCESSING] gmail_Many_geniuses_tend_to_sleep_less_than_6_hours_a_day_Did_Prop.md
+[2026-02-25 14:35:57] INFO      [PROCESSING] gmail_Mays_Digital_Business_Trends_Top_Businesses_for_you.md
+[2026-02-25 14:35:57] INFO      [PROCESSING] gmail_Meta_Lead_Integration_SaaS_Leather_Handbags_FBA_More.md
+[2026-02-25 14:35:57] INFO      [PROCESSING] gmail_Meta_Lead_SaaS_Platform_with_7K_MRR_Craft_Cocktail_Store_Fam.md
+[2026-02-25 14:35:57] INFO      [PROCESSING] gmail_Mobile_push_messages_increased_website_traffic.md
+[2026-02-25 14:35:57] INFO      [PROCESSING] gmail_Monetization_SaaS_Tool_for_Content_Creators_Luxury_Italian_P.md
+[2026-02-25 14:35:57] INFO      [PROCESSING] gmail_Monetized_Hollywood_YouTube_Business_making_345K_Annual_Rev_.md
+[2026-02-25 14:35:58] INFO      [PROCESSING] gmail_MonsterInsights_was_built_for_small_businesses_like_yours.md
+[2026-02-25 14:35:58] INFO      [PROCESSING] gmail_Monthly_Templates_Update.md
+[2026-02-25 14:35:58] INFO      [PROCESSING] gmail_Moo_Deng_Mondays.md
+[2026-02-25 14:35:58] INFO      [PROCESSING] gmail_More_related_to_What_is_a_good_average_time_for_a_beginner_u.md
+[2026-02-25 14:35:58] INFO      [PROCESSING] gmail_More_Templates_are_Out.md
+[2026-02-25 14:35:58] INFO      [PROCESSING] gmail_Mother_Day_Quotes_In_Urdu_and_more.md
+[2026-02-25 14:35:59] INFO      [PROCESSING] gmail_Muhammad_Happy_Thanksgiving.md
+[2026-02-25 14:35:59] INFO      [PROCESSING] gmail_Muhammad_I_need_your_help_to_improve_WPBeginner.md
+[2026-02-25 14:35:59] INFO      [PROCESSING] gmail_Muhammad_its_your_last_chance_to_impact_WPBeginners_future.md
+[2026-02-25 14:35:59] INFO      [PROCESSING] gmail_Muhammad_Taha_Imtiaz_-APFAACMA_has_subscribed_to_you_on_YouT.md
+[2026-02-25 14:35:59] INFO      [PROCESSING] gmail_Muhammad_welcome_to_Flippa.md
+[2026-02-25 14:35:59] INFO      [PROCESSING] gmail_Multi-Language_Photography_Courses_Store_Personal_Developmen.md
+[2026-02-25 14:36:00] INFO      [PROCESSING] gmail_Music_Boosting_App_14M_TTM_Rev_42_Star_App_Store_Rating_Free.md
+[2026-02-25 14:36:00] INFO      [PROCESSING] gmail_My_6-year-old_son_wants_to_hug_me_because_he_is_sad_How_do_I.md
+[2026-02-25 14:36:00] INFO      [PROCESSING] gmail_My_B1B2_visa_was_refused_5_times_Why.md
+[2026-02-25 14:36:00] INFO      [PROCESSING] gmail_My_Dad_Saw_This_Photo_I_Took_Then_He_Started_Ghosting_Me_Ste.md
+[2026-02-25 14:36:00] INFO      [PROCESSING] gmail_My_mom_is_dead_My_dad_is_never_home_because_he_is_always_out.md
+[2026-02-25 14:36:00] INFO      [PROCESSING] gmail_My_Parents_Helped_Win_World_War_II_Jon_Hunner_in_Driven_by_t.md
+[2026-02-25 14:36:00] INFO      [PROCESSING] gmail_My_Seasonal_Dread_Peaked_in_the_Boundary_Waters_Melissa_Rock.md
+[2026-02-25 14:36:01] INFO      [PROCESSING] gmail_My_son_recently_had_a_DNA_test_and_it_turns_out_that_hes_not.md
+[2026-02-25 14:36:01] INFO      [PROCESSING] gmail_Neck_Designs_For_Suits_and_more.md
+[2026-02-25 14:36:01] INFO      [PROCESSING] gmail_Need_a_hand_Our_experts_can_help.md
+[2026-02-25 14:36:01] INFO      [PROCESSING] gmail_Need_distractions_Try_these_on_us.md
+[2026-02-25 14:36:01] INFO      [PROCESSING] gmail_Need_distractions_Try_these_on_us_2.md
+[2026-02-25 14:36:01] INFO      [PROCESSING] gmail_Need_distractions_Try_these_on_us_3.md
+[2026-02-25 14:36:01] INFO      [PROCESSING] gmail_Need_distractions_Try_these_on_us_4.md
+[2026-02-25 14:36:01] INFO      [PROCESSING] gmail_Need_distractions_Try_these_on_us_5.md
+[2026-02-25 14:36:02] INFO      [PROCESSING] gmail_Need_distractions_Try_these_on_us_6.md
+[2026-02-25 14:36:02] INFO      [PROCESSING] gmail_Need_distractions_Try_these_on_us_7.md
+[2026-02-25 14:36:02] INFO      [PROCESSING] gmail_Need_distractions_Try_these_on_us_8.md
+[2026-02-25 14:36:02] INFO      [PROCESSING] gmail_Need_help_building_your_WordPress_website.md
+[2026-02-25 14:36:02] INFO      [PROCESSING] gmail_Never_use_gmailcom_for_your_business_Heres_why.md
+[2026-02-25 14:36:02] INFO      [PROCESSING] gmail_New_comment_on_10_magic_tricks_with_hands_only_revealed.md
+[2026-02-25 14:36:02] INFO      [PROCESSING] gmail_New_comment_on_Real_Tractor_Cow_Farming_TransportReal_Tracto.md
+[2026-02-25 14:36:02] INFO      [PROCESSING] gmail_New_comment_on_Real_Tractor_Cow_Farming_TransportReal_Tracto_2.md
+[2026-02-25 14:36:02] INFO      [PROCESSING] gmail_New_Llama_4_Integration_SERP_CTA_CityRegion_Level_Targeting.md
+[2026-02-25 14:36:03] INFO      [PROCESSING] gmail_New_Llama_4_Integration_SERP_CTA_CityRegion_Level_Targeting_2.md
+[2026-02-25 14:36:03] INFO      [PROCESSING] gmail_New_Llama_4_Integration_SERP_CTA_CityRegion_Level_Targeting_3.md
+[2026-02-25 14:36:03] INFO      [PROCESSING] gmail_New_Llama_4_Integration_SERP_CTA_CityRegion_Level_Targeting_4.md
+[2026-02-25 14:36:03] INFO      [PROCESSING] gmail_New_Llama_4_Integration_SERP_CTA_CityRegion_Level_Targeting_5.md
+[2026-02-25 14:36:03] INFO      [PROCESSING] gmail_New_Llama_4_Integration_SERP_CTA_CityRegion_Level_Targeting_6.md
+[2026-02-25 14:36:03] INFO      [PROCESSING] gmail_New_Llama_4_Integration_SERP_CTA_CityRegion_Level_Targeting_7.md
+[2026-02-25 14:36:03] INFO      [PROCESSING] gmail_New_Llama_4_Integration_SERP_CTA_CityRegion_Level_Targeting_8.md
+[2026-02-25 14:36:03] INFO      [PROCESSING] gmail_New_Llama_4_Integration_SERP_CTA_CityRegion_Level_Targeting_9.md
+[2026-02-25 14:36:04] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis.md
+[2026-02-25 14:36:04] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_10.md
+[2026-02-25 14:36:04] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_11.md
+[2026-02-25 14:36:04] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_2.md
+[2026-02-25 14:36:04] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_3.md
+[2026-02-25 14:36:04] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_4.md
+[2026-02-25 14:36:05] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_5.md
+[2026-02-25 14:36:05] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_6.md
+[2026-02-25 14:36:05] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_7.md
+[2026-02-25 14:36:05] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_8.md
+[2026-02-25 14:36:06] INFO      [PROCESSING] gmail_New_Llama_4_SERP_CTA_CityRegion_Level_Search_Analysis_9.md
+[2026-02-25 14:36:06] INFO      [PROCESSING] gmail_New_MA_Trends_Digital_Businesses_Worth_Watching.md
+[2026-02-25 14:36:06] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres.md
+[2026-02-25 14:36:06] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_10.md
+[2026-02-25 14:36:06] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_11.md
+[2026-02-25 14:36:06] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_2.md
+[2026-02-25 14:36:06] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_3.md
+[2026-02-25 14:36:06] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_4.md
+[2026-02-25 14:36:06] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_5.md
+[2026-02-25 14:36:07] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_6.md
+[2026-02-25 14:36:07] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_7.md
+[2026-02-25 14:36:07] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_8.md
+[2026-02-25 14:36:07] INFO      [PROCESSING] gmail_New_MCP_Server_Connect_Claude_chat_directly_to_your_WordPres_9.md
+[2026-02-25 14:36:07] INFO      [PROCESSING] gmail_New_on_Tumblr_Communities_are_live_Find_yours_now.md
+[2026-02-25 14:36:07] INFO      [PROCESSING] gmail_New_reply_to_a_comment_on_Youtube_MONETIZATION_last_class_by.md
+[2026-02-25 14:36:07] INFO      [PROCESSING] gmail_New_Survey_Available.md
+[2026-02-25 14:36:07] INFO      [PROCESSING] gmail_New_Survey_Available_2.md
+[2026-02-25 14:36:08] INFO      [PROCESSING] gmail_New_Templates_are_Now_Available.md
+[2026-02-25 14:36:08] INFO      [PROCESSING] gmail_New_to_Canva_Start_here.md
+[2026-02-25 14:36:08] INFO      [PROCESSING] gmail_ngrok_news_A_warm_welcome_to_always-on_centrally_managed_Clo.md
+[2026-02-25 14:36:08] INFO      [PROCESSING] gmail_ngrok_news_Advanced_HTTP_traffic_manipulation_with_request_v.md
+[2026-02-25 14:36:08] INFO      [PROCESSING] gmail_ngrok_news_Announcing_JavaScript_and_Python_SDKs_account_dom.md
+[2026-02-25 14:36:08] INFO      [PROCESSING] gmail_ngrok_news_Automated_bot_users_API_security_with_JWTs_ngrok_.md
+[2026-02-25 14:36:09] INFO      [PROCESSING] gmail_ngrok_news_Copypaste_Examples_Gallery_Go_SDK_v2_k8s_operator.md
+[2026-02-25 14:36:09] INFO      [PROCESSING] gmail_ngrok_news_Create_endpoints_from_Docker_Desktop_HIPAA_ship_a.md
+[2026-02-25 14:36:09] INFO      [PROCESSING] gmail_ngrok_news_End-to-end_HTTP2_enhancements_user-agent_filterin.md
+[2026-02-25 14:36:09] INFO      [PROCESSING] gmail_ngrok_news_Load_balance_anything_anywhere_with_new_Endpoint_.md
+[2026-02-25 14:36:10] INFO      [PROCESSING] gmail_ngrok_news_New_AI_gateway_early_access_new_shape_of_gateway_.md
+[2026-02-25 14:36:10] INFO      [PROCESSING] gmail_ngrok_news_New_Call_LLMs_or_internal_services_from_your_gate.md
+[2026-02-25 14:36:10] INFO      [PROCESSING] gmail_ngrok_news_Pay-as-you-go_pricing_Rancher_integration_and_MFA.md
+[2026-02-25 14:36:10] INFO      [PROCESSING] gmail_ngrok_news_Self-hosted_AI_kits_upcoming_K8s_launch_a_multicl.md
+[2026-02-25 14:36:10] INFO      [PROCESSING] gmail_ngrok_news_Traffic_inspection_goes_GA_GSLB_for_Digital_Ocean.md
+[2026-02-25 14:36:10] INFO      [PROCESSING] gmail_ngrok_news_Traffic_Policy_CEL_Interpolation_and_Kubernetes_G.md
+[2026-02-25 14:36:11] INFO      [PROCESSING] gmail_ngrok_news_Try_our_new_API_Gateway_and_Traffic_Policy_Engine.md
+[2026-02-25 14:36:11] INFO      [PROCESSING] gmail_ngrok_news_Tunnels_are_now_agent_endpoints_a_guide_to_start_.md
+[2026-02-25 14:36:11] INFO      [PROCESSING] gmail_ngrok_news_Verify_webhooks_with_Traffic_Policy_add_regional_.md
+[2026-02-25 14:36:11] INFO      [PROCESSING] gmail_ngrok_news_Watch_our_founder_demo_ngroks_composable_API_gate.md
+[2026-02-25 14:36:11] INFO      [PROCESSING] gmail_ngrok_tip_1_Inspect_replay_http_requests.md
+[2026-02-25 14:36:11] INFO      [PROCESSING] gmail_ngrok_tip_3_Authentication_in_5_seconds.md
+[2026-02-25 14:36:11] INFO      [PROCESSING] gmail_ngrok_tip_4_ngrok_as_your_infrastructure.md
+[2026-02-25 14:36:12] INFO      [PROCESSING] gmail_Niche_Watch_Brand_855_TTM_Revenue_GPS-Collector_App_Children.md
+[2026-02-25 14:36:12] INFO      [PROCESSING] gmail_Non-Coeliac_Gluten_Sensitivity_Probably_Doesnt_Exist_Gideon_.md
+[2026-02-25 14:36:12] INFO      [PROCESSING] gmail_Now_available_on_Poe_GPT-5.md
+[2026-02-25 14:36:12] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration.md
+[2026-02-25 14:36:12] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_10.md
+[2026-02-25 14:36:12] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_11.md
+[2026-02-25 14:36:12] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_2.md
+[2026-02-25 14:36:13] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_3.md
+[2026-02-25 14:36:13] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_4.md
+[2026-02-25 14:36:13] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_5.md
+[2026-02-25 14:36:13] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_6.md
+[2026-02-25 14:36:13] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_7.md
+[2026-02-25 14:36:13] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_8.md
+[2026-02-25 14:36:13] INFO      [PROCESSING] gmail_Now_Live_SEO_Writing_Shopify_Integration_9.md
+[2026-02-25 14:36:13] INFO      [PROCESSING] gmail_Office_Hours_Have_a_question_for_our_CEO_about_whats_coming_.md
+[2026-02-25 14:36:13] INFO      [PROCESSING] gmail_Only_2_days_to_go_Are_your_visitors_really_engaging.md
+[2026-02-25 14:36:14] INFO      [PROCESSING] gmail_Oops_we_did_it_again_FLASH_SALE_2.md
+[2026-02-25 14:36:14] INFO      [PROCESSING] gmail_Page_indexing_issues_successfully_fixed_for_pages_in_sitemap.md
+[2026-02-25 14:36:14] INFO      [PROCESSING] gmail_Page_indexing_issues_successfully_fixed_for_pages_in_sitemap_2.md
+[2026-02-25 14:36:14] INFO      [PROCESSING] gmail_Page_indexing_issues_successfully_fixed_for_pages_in_sitemap_3.md
+[2026-02-25 14:36:14] INFO      [PROCESSING] gmail_Page_indexing_issues_successfully_fixed_for_pages_in_sitemap_4.md
+[2026-02-25 14:36:14] INFO      [PROCESSING] gmail_Page_indexing_issues_successfully_fixed_for_pages_in_sitemap_5.md
+[2026-02-25 14:36:14] INFO      [PROCESSING] gmail_Paid_Media_Buying_Agency_Driving_a_Staggering_19M_TTM_Revenu.md
+[2026-02-25 14:36:14] INFO      [PROCESSING] gmail_Pain_Relief_Wellness_Ecom_Cybersecurity_SaaS.md
+[2026-02-25 14:36:14] INFO      [PROCESSING] gmail_Paranormal_Sightings_YouTube_Channel_making_341K_Annual_Prof.md
+[2026-02-25 14:36:15] INFO      [PROCESSING] gmail_Paranormal_Sightings_YouTube_making_341K_Annual_Profit_ChatG.md
+[2026-02-25 14:36:15] INFO      [PROCESSING] gmail_Patented_Pet_Repellent_Ecom_Making_179K_Annual_Profit_Crypto.md
+[2026-02-25 14:36:15] INFO      [PROCESSING] gmail_Personalized_Sports_Gifts_Ecom_making_715K_Annual_Profit_Ast.md
+[2026-02-25 14:36:15] INFO      [PROCESSING] gmail_Phone_Location_Tracking_App_making_1M_Annual_Profit_Patented.md
+[2026-02-25 14:36:15] INFO      [PROCESSING] gmail_Photo_Gallery_App_making_592_annual_profit_Essay_Writing_Ser.md
+[2026-02-25 14:36:15] INFO      [PROCESSING] gmail_Photographing_The_Paris_Paralympic_Games_With_A_Long_Lens_da.md
+[2026-02-25 14:36:15] INFO      [PROCESSING] gmail_Photos_from_Bangkok_event_four_top_businesses_hand_picked_fo.md
+[2026-02-25 14:36:16] INFO      [PROCESSING] gmail_Pick_Your_Favourite_Crypto_Platform_or_Life_Simulation_App.md
+[2026-02-25 14:36:16] INFO      [PROCESSING] gmail_Pinterest_Marketing_Saas_making_330K_Annual_Profit_Simpsons_.md
+[2026-02-25 14:36:16] INFO      [PROCESSING] gmail_Please_confirm_your_email.md
+[2026-02-25 14:36:16] INFO      [PROCESSING] gmail_Please_finish_your_profile.md
+[2026-02-25 14:36:16] INFO      [PROCESSING] gmail_Pool_Spa_Equipment_Amazon_FBA_74M_Annual_Revenue.md
+[2026-02-25 14:36:16] INFO      [PROCESSING] gmail_Portfolio_of_Tech_Apps_4M_Installs_Worldwide_More.md
+[2026-02-25 14:36:16] INFO      [PROCESSING] gmail_PowerPointGoogle_Slide_SaaS_Template_generating_1M_ARR_Cake_.md
+[2026-02-25 14:36:16] INFO      [PROCESSING] gmail_Pre-Built_Shopify_Store_Agency_Profitable_YouTube_Business_a.md
+[2026-02-25 14:36:17] INFO      [PROCESSING] gmail_Premium_Acupressure_Products_making_527K_Annual_Profit_SEO_M.md
+[2026-02-25 14:36:17] INFO      [PROCESSING] gmail_Premium_water_bottle_brand_making_12M_annual_revenue_fitness.md
+[2026-02-25 14:36:17] INFO      [PROCESSING] gmail_Presentation_Templates_Store_making_843K_Annual_Profit_SEO_B.md
+[2026-02-25 14:36:17] INFO      [PROCESSING] gmail_Profitable_PowerPoint_Template_Store_making_814K_Annual_Prof.md
+[2026-02-25 14:36:17] INFO      [PROCESSING] gmail_Programming_Learning_Platform_w_21M_Students_Movies_and_Musi.md
+[2026-02-25 14:36:18] INFO      [PROCESSING] gmail_Psst_Heres_the_Social_Media_Cheat_Sheet_I_Use.md
+[2026-02-25 14:36:18] INFO      [PROCESSING] gmail_Quick_reminder_Are_you_attracting_the_right_visitors.md
+[2026-02-25 14:36:18] INFO      [PROCESSING] gmail_Quick_Update_on_Your_Content.md
+[2026-02-25 14:36:18] INFO      [PROCESSING] gmail_Quick_Update_on_Your_Content_2.md
+[2026-02-25 14:36:18] INFO      [PROCESSING] gmail_Quick_Update_on_Your_Content_3.md
+[2026-02-25 14:36:18] INFO      [PROCESSING] gmail_Quick_Update_on_Your_Content_4.md
+[2026-02-25 14:36:18] INFO      [PROCESSING] gmail_Quick_Update_on_Your_Content_5.md
+[2026-02-25 14:36:18] INFO      [PROCESSING] gmail_Quick_Update_on_Your_Content_6.md
+[2026-02-25 14:36:19] INFO      [PROCESSING] gmail_Quickly_Growing_Fitness_KDP_Business_Making_223K_Monthly_Pro.md
+[2026-02-25 14:36:19] INFO      [PROCESSING] gmail_Quickly_Growing_Pinterest_Marketing_SaaS_Making_247K_Monthly.md
+[2026-02-25 14:36:19] INFO      [PROCESSING] gmail_Rainbow_these_ideas_are_so_you.md
+[2026-02-25 14:36:19] INFO      [PROCESSING] gmail_Rainbow_these_ideas_are_so_you_2.md
+[2026-02-25 14:36:19] INFO      [PROCESSING] gmail_Rainbow_these_ideas_are_so_you_3.md
+[2026-02-25 14:36:20] INFO      [PROCESSING] gmail_Rainbow_these_ideas_are_so_you_4.md
+[2026-02-25 14:36:20] INFO      [PROCESSING] gmail_Rainbow_these_ideas_are_so_you_5.md
+[2026-02-25 14:36:20] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye.md
+[2026-02-25 14:36:20] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_10.md
+[2026-02-25 14:36:20] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_11.md
+[2026-02-25 14:36:20] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_12.md
+[2026-02-25 14:36:21] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_13.md
+[2026-02-25 14:36:21] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_14.md
+[2026-02-25 14:36:21] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_15.md
+[2026-02-25 14:36:21] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_2.md
+[2026-02-25 14:36:21] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_3.md
+[2026-02-25 14:36:21] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_4.md
+[2026-02-25 14:36:21] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_5.md
+[2026-02-25 14:36:21] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_6.md
+[2026-02-25 14:36:22] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_7.md
+[2026-02-25 14:36:22] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_8.md
+[2026-02-25 14:36:22] INFO      [PROCESSING] gmail_Rainbow_you_have_a_good_eye_9.md
+[2026-02-25 14:36:22] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed.md
+[2026-02-25 14:36:22] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_10.md
+[2026-02-25 14:36:22] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_11.md
+[2026-02-25 14:36:22] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_12.md
+[2026-02-25 14:36:22] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_13.md
+[2026-02-25 14:36:22] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_1349.md
+[2026-02-25 14:36:23] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_2.md
+[2026-02-25 14:36:23] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_3.md
+[2026-02-25 14:36:23] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_4.md
+[2026-02-25 14:36:23] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_5.md
+[2026-02-25 14:36:23] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_6.md
+[2026-02-25 14:36:23] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_7.md
+[2026-02-25 14:36:23] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_8.md
+[2026-02-25 14:36:23] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_9.md
+[2026-02-25 14:36:24] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_aleeybhatti_chameleon28663_and_more_.md
+[2026-02-25 14:36:24] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_ashfaqosama_patriciahod648_and_more_.md
+[2026-02-25 14:36:24] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_devaaaaal_afi_ashfaqosama_and_more_i.md
+[2026-02-25 14:36:24] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_devaaaaal_afi_ashfaqosama_and_more_i_2.md
+[2026-02-25 14:36:24] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_devaaaaal_afi_muhammadbasit848_and_m.md
+[2026-02-25 14:36:24] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_devaaaaal_afi_sheharbanoc_and_more_i.md
+[2026-02-25 14:36:24] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_hujra_e_urdu_nishoch7_and_more_in_yo.md
+[2026-02-25 14:36:24] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_itsqueen_of_hearts_shonasheikh333_an.md
+[2026-02-25 14:36:24] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_mohammadkamruzzaman3_ashfaqosama_and.md
+[2026-02-25 14:36:25] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_mohammadkamruzzaman3_ashfaqosama_and_1371.md
+[2026-02-25 14:36:25] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_momoqueenofficial_devaaaaal_afi_and_.md
+[2026-02-25 14:36:25] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_nour_h_sh_m_devaaaaal_afi_and_more_i.md
+[2026-02-25 14:36:25] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_ryfatma_devaaaaal_afi_and_more_in_yo.md
+[2026-02-25 14:36:25] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_shonasheikh333_aleeybhatti_and_more_.md
+[2026-02-25 14:36:25] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_soumeye_1993_rosemeenkhan376_and_mor.md
+[2026-02-25 14:36:25] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_umaima_4093_shonasheikh333_and_more_.md
+[2026-02-25 14:36:26] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_umaima_4093_waqaronly_and_more_in_yo.md
+[2026-02-25 14:36:26] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram.md
+[2026-02-25 14:36:26] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_10.md
+[2026-02-25 14:36:26] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_11.md
+[2026-02-25 14:36:26] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_12.md
+[2026-02-25 14:36:26] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_13.md
+[2026-02-25 14:36:26] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_1347.md
+[2026-02-25 14:36:27] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_1362.md
+[2026-02-25 14:36:27] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_14.md
+[2026-02-25 14:36:27] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_15.md
+[2026-02-25 14:36:27] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_2.md
+[2026-02-25 14:36:27] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_3.md
+[2026-02-25 14:36:27] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_4.md
+[2026-02-25 14:36:27] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_5.md
+[2026-02-25 14:36:27] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_6.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_7.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_8.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_rainbowwhispersasmr_see_whats_been_happening_on_Instagram_9.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_10.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_11.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_2.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_3.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_4.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_5.md
+[2026-02-25 14:36:28] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_6.md
+[2026-02-25 14:36:29] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_7.md
+[2026-02-25 14:36:29] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_8.md
+[2026-02-25 14:36:29] INFO      [PROCESSING] gmail_Rank_Higher_Content_Score_Based_on_SERP_AI_Editor_Is_Here_9.md
+[2026-02-25 14:36:29] INFO      [PROCESSING] gmail_Rank_Higher_with_Long-form_SEO_Content_-_Live_Webinar.md
+[2026-02-25 14:36:29] INFO      [PROCESSING] gmail_Re_30_off.md
+[2026-02-25 14:36:29] INFO      [PROCESSING] gmail_Ready_to_do_your_best_work.md
+[2026-02-25 14:36:29] INFO      [PROCESSING] gmail_Ready_to_Step_Into_Something_Different.md
+[2026-02-25 14:36:30] INFO      [PROCESSING] gmail_Ready_to_turn_heads_with_this_business.md
+[2026-02-25 14:36:30] INFO      [PROCESSING] gmail_Real_Estate_Acquisitions_SaaS_making_182K_Annual_Profit_Disn.md
+[2026-02-25 14:36:30] INFO      [PROCESSING] gmail_Real_Estate_Marketplace_Making_135K_Profit_pmo_Romance_Amazo.md
+[2026-02-25 14:36:30] INFO      [PROCESSING] gmail_Register_now_Differentiate_with_AI-powered_intelligent_apps.md
+[2026-02-25 14:36:30] INFO      [PROCESSING] gmail_Reminder_You_have_several_surveys_available.md
+[2026-02-25 14:36:30] INFO      [PROCESSING] gmail_Reminder_Your_30_discount_is_waiting.md
+[2026-02-25 14:36:30] INFO      [PROCESSING] gmail_Remove_in_a_touch.md
+[2026-02-25 14:36:31] INFO      [PROCESSING] gmail_Ring_out_the_old_ring_in_the_new.md
+[2026-02-25 14:36:31] INFO      [PROCESSING] gmail_SaaS_Procurement_Platform_generating_33M_TTM_Rev_Viral_Digit.md
+[2026-02-25 14:36:31] INFO      [PROCESSING] gmail_SaaS_Product_Launch_Agency_making_203K_Annual_Profit_Flippa_.md
+[2026-02-25 14:36:31] INFO      [PROCESSING] gmail_SALE_ALERT_Cyber_Monday_Discount_is_Live.md
+[2026-02-25 14:36:31] INFO      [PROCESSING] gmail_Save_5_HoursWeek_Let_Us_Handle_Your_WordPress_Maintenance_10.md
+[2026-02-25 14:36:31] INFO      [PROCESSING] gmail_Save_60_minutes_daily_with_these_WordPress_shortcuts.md
+[2026-02-25 14:36:31] INFO      [PROCESSING] gmail_Save_BIG_on_your_WordPress_site_from_WordPresscom.md
+[2026-02-25 14:36:31] INFO      [PROCESSING] gmail_Save_hours_of_tedious_work_Get_Our_WP_Maintenance_Service_10.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_Save_up_to_70_OFF_on_WordPress_growth_tools.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_Savoring_A_Communal_Meal_At_The_Golden_Temple_Ninad_Kulkarni.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_Science_blog_with_9M_page_views_per_month_Affiliate_SaaS_Eco.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_See_you_at_an_event_near_you_52_Weeks_52_Events_28_Countries.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_SEO_Dashboard_Inside_WordPress_see_screenshots.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_September_Community_Newsletter_Generative_AI.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_Shopify_Design_Agency_making_227K_Annual_Profit_Survivalist_.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_Shopify_Tops_Buyer_Wishlists_See_What_Else_is_Trending.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_Show_Your_Website_Some_Love_10_OFF_WordPress_Services.md
+[2026-02-25 14:36:32] INFO      [PROCESSING] gmail_Song_of_Soup_Ryley_Graham.md
+[2026-02-25 14:36:33] INFO      [PROCESSING] gmail_Special_delivery_for_Muhammad_Epic_sale.md
+[2026-02-25 14:36:33] INFO      [PROCESSING] gmail_Sports_Team_Management_SaaS_Media_Buying_Agency.md
+[2026-02-25 14:36:34] INFO      [PROCESSING] gmail_Start_Asking_Your_Data_Why_-_A_Gentle_Intro_To_Causality_Eya.md
+[2026-02-25 14:36:34] INFO      [PROCESSING] gmail_Stop_everything_Droptober_is_here.md
+[2026-02-25 14:36:34] INFO      [PROCESSING] gmail_Stop_losing_visitors_to_unanswered_question_easy_fix_inside.md
+[2026-02-25 14:36:34] INFO      [PROCESSING] gmail_Strikingly_Monthly_Templates_Update.md
+[2026-02-25 14:36:34] INFO      [PROCESSING] gmail_Strikingly_Monthly_Templates_Update_2.md
+[2026-02-25 14:36:34] INFO      [PROCESSING] gmail_Strikingly_Monthly_Templates_Update_3.md
+[2026-02-25 14:36:35] INFO      [PROCESSING] gmail_Strikingly_Monthly_Templates_Update_4.md
+[2026-02-25 14:36:35] INFO      [PROCESSING] gmail_Strikingly_Monthly_Templates_Update_5.md
+[2026-02-25 14:36:35] INFO      [PROCESSING] gmail_Strikingly_Monthly_Templates_Update_6.md
+[2026-02-25 14:36:35] INFO      [PROCESSING] gmail_Strikingly_Monthly_Templates_Update_7.md
+[2026-02-25 14:36:35] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update.md
+[2026-02-25 14:36:35] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_10.md
+[2026-02-25 14:36:36] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_11.md
+[2026-02-25 14:36:36] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_12.md
+[2026-02-25 14:36:36] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_13.md
+[2026-02-25 14:36:36] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_14.md
+[2026-02-25 14:36:36] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_15.md
+[2026-02-25 14:36:37] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_16.md
+[2026-02-25 14:36:37] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_17.md
+[2026-02-25 14:36:37] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_18.md
+[2026-02-25 14:36:37] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_19.md
+[2026-02-25 14:36:37] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_2.md
+[2026-02-25 14:36:37] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_20.md
+[2026-02-25 14:36:38] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_21.md
+[2026-02-25 14:36:38] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_22.md
+[2026-02-25 14:36:38] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_23.md
+[2026-02-25 14:36:38] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_24.md
+[2026-02-25 14:36:38] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_25.md
+[2026-02-25 14:36:38] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_26.md
+[2026-02-25 14:36:39] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_27.md
+[2026-02-25 14:36:39] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_28.md
+[2026-02-25 14:36:39] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_29.md
+[2026-02-25 14:36:39] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_3.md
+[2026-02-25 14:36:39] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_30.md
+[2026-02-25 14:36:39] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_31.md
+[2026-02-25 14:36:39] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_32.md
+[2026-02-25 14:36:40] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_33.md
+[2026-02-25 14:36:40] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_34.md
+[2026-02-25 14:36:40] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_35.md
+[2026-02-25 14:36:40] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_36.md
+[2026-02-25 14:36:40] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_37.md
+[2026-02-25 14:36:40] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_38.md
+[2026-02-25 14:36:41] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_39.md
+[2026-02-25 14:36:41] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_4.md
+[2026-02-25 14:36:41] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_40.md
+[2026-02-25 14:36:41] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_41.md
+[2026-02-25 14:36:41] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_42.md
+[2026-02-25 14:36:41] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_43.md
+[2026-02-25 14:36:41] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_44.md
+[2026-02-25 14:36:42] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_45.md
+[2026-02-25 14:36:42] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_46.md
+[2026-02-25 14:36:42] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_47.md
+[2026-02-25 14:36:42] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_48.md
+[2026-02-25 14:36:42] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_49.md
+[2026-02-25 14:36:42] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_5.md
+[2026-02-25 14:36:42] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_50.md
+[2026-02-25 14:36:43] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_51.md
+[2026-02-25 14:36:43] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_6.md
+[2026-02-25 14:36:43] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_7.md
+[2026-02-25 14:36:43] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_8.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_STRIKINGLY_New_Release_for_this_Week_Templates_Update_9.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_10.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_11.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_2.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_3.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_4.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_5.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_6.md
+[2026-02-25 14:36:44] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_7.md
+[2026-02-25 14:36:45] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_8.md
+[2026-02-25 14:36:45] INFO      [PROCESSING] gmail_Super_Page_Gets_Better_Template_Repeat_AI_Editing_More_9.md
+[2026-02-25 14:36:45] INFO      [PROCESSING] gmail_Supplement_Membership_Amazon_Store_58M_Annual_Revenue.md
+[2026-02-25 14:36:45] INFO      [PROCESSING] gmail_System_Design_Blueprint_The_Ultimate_Guide_Love_Sharma_in_By.md
+[2026-02-25 14:36:45] INFO      [PROCESSING] gmail_Talent_Apna_Apna_has_subscribed_to_you_on_YouTube.md
+[2026-02-25 14:36:45] INFO      [PROCESSING] gmail_The_1000_Bitcoin_Hack_Michael_D_Callaghan_in_The_Capital.md
+[2026-02-25 14:36:45] INFO      [PROCESSING] gmail_The_5_paid_subscriptions_I_actually_use_in_2024_as_a_softwar.md
+[2026-02-25 14:36:45] INFO      [PROCESSING] gmail_The_Best_Cryptocurrency_Plan_to_Make_Passive_Income_For_Life.md
+[2026-02-25 14:36:45] INFO      [PROCESSING] gmail_The_day_after_October_3rd.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_Day_I_Thought_I_Was_Going_to_Die_in_Siberia_From_the_Min.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_Difference_Between_The_Clever_Developer_The_Wise_Develop.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_Future_Looks_Bright_Highly_Scaleable_Skylight_Business.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_Hard_Lessons_I_Learned_as_a_Freelance_Web_Developer_Andi.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_LinkedIn_just_messaged_you.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_Magic_of_WordPress.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_most_relaxing_way_to_make_money_online.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_perfectly_beautiful_imperfection_Himanshu_Bharadwaj_in_U.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_problem_of_the_Em_square_Neel_Dozome_in_UX_Collective.md
+[2026-02-25 14:36:46] INFO      [PROCESSING] gmail_The_Secret_Ingredient_in_a_DIY_Build_Chloe_Calendula_Craft_i.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_The_Secret_to_Turning_Visitors_Into_Customers.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_The_Top_Ecommerce_Businesses_of_the_Week.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_The_Top_YouTube_Businesses_of_the_Month.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_The_wait_is_overBlack_Friday_deal_inside.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_10.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_11.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_12.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_13.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_1345.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_1356.md
+[2026-02-25 14:36:47] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_14.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_15.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_16.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_2.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_3.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_4.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_5.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_6.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_7.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_8.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_These_blogs_Youll_like_5_of_them_9.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_This_is_it_your_very_last_chance_for_70_off.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_This_is_your_LAST_CHANCE_for_Cyber_Monday.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_This_routine_will_make_your_content_curation_efficient_and_i.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_Thriving_Mobile_App_Development_Agency_Carbon_Fiber_Insoles_.md
+[2026-02-25 14:36:48] INFO      [PROCESSING] gmail_TikTok_Content_Production_Business_making_345K_annual_profit.md
+[2026-02-25 14:36:49] INFO      [PROCESSING] gmail_Time-MoE_The_Latest_Foundation_Forecasting_Model_Marco_Peixe.md
+[2026-02-25 14:36:49] INFO      [PROCESSING] gmail_Time_Limited_Promo_Buy_1_and_Get_1.md
+[2026-02-25 14:36:49] INFO      [PROCESSING] gmail_Time_Limited_Promo_Buy_1_and_Get_1_2.md
+[2026-02-25 14:36:49] INFO      [PROCESSING] gmail_Time_Limited_Promo_Buy_1_and_Get_1_3.md
+[2026-02-25 14:36:49] INFO      [PROCESSING] gmail_Time_Limited_Promo_Buy_1_and_Get_1_4.md
+[2026-02-25 14:36:49] INFO      [PROCESSING] gmail_Time_Limited_Promo_Buy_1_and_Get_1_5.md
+[2026-02-25 14:36:49] INFO      [PROCESSING] gmail_Time_Limited_Promo_Buy_1_and_Get_1_6.md
+[2026-02-25 14:36:50] INFO      [PROCESSING] gmail_Times_Running_Out_10_OFF_WordPress_Help_Ends_Today.md
+[2026-02-25 14:36:50] INFO      [PROCESSING] gmail_Todays_Pick_25yo_Sports_Content_Hub_with_16M_monthly_pagevie.md
+[2026-02-25 14:36:50] INFO      [PROCESSING] gmail_TOME-E_in_Anime_Where_Style_Meets_Rhythm_Émilia_Hoarfrost.md
+[2026-02-25 14:36:50] INFO      [PROCESSING] gmail_Top-Performing_YouTube_Channel_Phone_Tracking_App_High-Growt.md
+[2026-02-25 14:36:50] INFO      [PROCESSING] gmail_Top-Seller_Amazon_Store_generating_19M_TTM_Rev_Non-Alcoholic.md
+[2026-02-25 14:36:50] INFO      [PROCESSING] gmail_Top-Selling_Amazon_FBA_Store_Premium_Teas_US-based_Customers.md
+[2026-02-25 14:36:50] INFO      [PROCESSING] gmail_Top_Businesses_of_the_Week.md
+[2026-02-25 14:36:51] INFO      [PROCESSING] gmail_Top_Businesses_of_the_Week_Announcing_Amazon_KDP_Category.md
+[2026-02-25 14:36:51] INFO      [PROCESSING] gmail_Top_Businesses_of_the_Week_Announcing_Flippa_Invest.md
+[2026-02-25 14:36:51] INFO      [PROCESSING] gmail_Top_Businesses_of_the_Week_Announcing_Flippa_Invest_2.md
+[2026-02-25 14:36:51] INFO      [PROCESSING] gmail_Top_Businesses_of_the_Week_Flippa_Finance.md
+[2026-02-25 14:36:51] INFO      [PROCESSING] gmail_Top_Businesses_of_the_Week_The_FlippaGoogle_Exit_Roadshow.md
+[2026-02-25 14:36:51] INFO      [PROCESSING] gmail_Transform_Your_WP_Site_Design_Save_10_Limited_Time.md
+[2026-02-25 14:36:51] INFO      [PROCESSING] gmail_Travel_App_Making_114K_Profit_pmo_Wood_Architecture_Blog.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Travel_lover_Weve_got_something_for_you.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_10.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_11.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_12.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_13.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_1364.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_2.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_3.md
+[2026-02-25 14:36:52] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_4.md
+[2026-02-25 14:36:53] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_5.md
+[2026-02-25 14:36:53] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_6.md
+[2026-02-25 14:36:53] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_7.md
+[2026-02-25 14:36:53] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_8.md
+[2026-02-25 14:36:53] INFO      [PROCESSING] gmail_Treat_yourself_Try_5_of_these_9.md
+[2026-02-25 14:36:53] INFO      [PROCESSING] gmail_Tromenz_Learning_recently_posted.md
+[2026-02-25 14:36:53] INFO      [PROCESSING] gmail_Turn_papers_into_digital_docs_with_Acrobat.md
+[2026-02-25 14:36:53] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You.md
+[2026-02-25 14:36:53] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_10.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_11.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_2.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_3.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_4.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_5.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_6.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_7.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_8.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unlock_Success_SEO_Writing_Updates_for_You_9.md
+[2026-02-25 14:36:54] INFO      [PROCESSING] gmail_Unmissable_Opportunity_True_Crime_YouTube_Channel_22M_Lifeti.md
+[2026-02-25 14:36:55] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING.md
+[2026-02-25 14:36:55] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_10.md
+[2026-02-25 14:36:55] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_11.md
+[2026-02-25 14:36:55] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_2.md
+[2026-02-25 14:36:55] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_3.md
+[2026-02-25 14:36:55] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_4.md
+[2026-02-25 14:36:55] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_5.md
+[2026-02-25 14:36:55] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_6.md
+[2026-02-25 14:36:55] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_7.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_8.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_Claude_45_Sonnet_DeepSeek_V31_models_in_SEO_WRITING_9.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_10.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_11.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_2.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_3.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_4.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_5.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_6.md
+[2026-02-25 14:36:56] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_7.md
+[2026-02-25 14:36:57] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_8.md
+[2026-02-25 14:36:57] INFO      [PROCESSING] gmail_Update_GPT-5_models_in_SEO_WRITING_9.md
+[2026-02-25 14:36:57] INFO      [PROCESSING] gmail_Update_You_qualify_for_a_brand_new_survey.md
+[2026-02-25 14:36:57] INFO      [PROCESSING] gmail_Updates_to_our_terms_of_use.md
+[2026-02-25 14:36:57] INFO      [PROCESSING] gmail_Viral_Editing_App_with_25M_MAUs_31M_TTM_Revenue.md
+[2026-02-25 14:36:57] INFO      [PROCESSING] gmail_Virtual_Celebrity_Live_Streaming_App_Making_39K_Monthly_Prof.md
+[2026-02-25 14:36:57] INFO      [PROCESSING] gmail_Vogue-featured_Jewelry_Making_92K_Profit_pmo_ChatGPT_SaaS.md
+[2026-02-25 14:36:57] INFO      [PROCESSING] gmail_Voice_Search_The_WordPress_Feature_Youre_Missing.md
+[2026-02-25 14:36:58] INFO      [PROCESSING] gmail_Walking_Tours_YouTube_Channel_Making_159K_Annual_Profit_Cryp.md
+[2026-02-25 14:36:58] INFO      [PROCESSING] gmail_Wallpaper_Aesthetic_and_more.md
+[2026-02-25 14:36:58] INFO      [PROCESSING] gmail_Wallpaper_Iphone_and_more.md
+[2026-02-25 14:36:58] INFO      [PROCESSING] gmail_Was_Prophet_Muhammad_PBUH_aware_of_the_existence_of_Hindus_a.md
+[2026-02-25 14:36:58] INFO      [PROCESSING] gmail_Watch_exactly_what_your_visitors_do_on_your_site_in_real-tim.md
+[2026-02-25 14:36:58] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool.md
+[2026-02-25 14:36:58] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_10.md
+[2026-02-25 14:36:58] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_11.md
+[2026-02-25 14:36:58] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_2.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_3.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_4.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_5.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_6.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_7.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_8.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_We_added_content_rewrite_and_a_new_tool_9.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_Website_Maintenance_Stealing_Your_Time_We_Can_Help_Save_10.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_Website_Still_Not_Quite_Right_We_Can_Fix_That_10_OFF.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_Welcome_aThemes_to_the_WPBeginner_Family_of_Products.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_Welcome_to_Pinterest_Business.md
+[2026-02-25 14:36:59] INFO      [PROCESSING] gmail_Welcome_to_Poe_Try_these_bots_to_get_started.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Welcome_to_Scoopit.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Wellness_Certifications_Platform_making_310K_Annual_Profit_D.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Were_extending_our_WordPress_hosting_discount_for_you.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Were_monster_mashing_prices_60.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Were_updating_our_Business_Terms_of_Service_and_Privacy_Poli.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Were_updating_our_Terms_and_Community_Standards.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Were_updating_some_of_our_policies.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Were_validating_your_Video_page_indexing_issue_fixes_for_sit.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Weve_found_your_perfect_travel_companion.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_Weve_got_amazing_success_stories_but_something_is_missing.md
+[2026-02-25 14:37:00] INFO      [PROCESSING] gmail_What_are_50_random_facts_about_yourself.md
+[2026-02-25 14:37:01] INFO      [PROCESSING] gmail_What_did_Mohammed_do.md
+[2026-02-25 14:37:01] INFO      [PROCESSING] gmail_What_did_you_do_to_score_600_in_NEET.md
+[2026-02-25 14:37:01] INFO      [PROCESSING] gmail_What_do_KFC_stores_do_with_leftover_chicken.md
+[2026-02-25 14:37:01] INFO      [PROCESSING] gmail_What_do_KFC_stores_do_with_leftover_chicken_2.md
+[2026-02-25 14:37:01] INFO      [PROCESSING] gmail_What_do_mysterious_sightings_social_media_and_Keto_dieting_h.md
+[2026-02-25 14:37:01] INFO      [PROCESSING] gmail_What_do_teenagers_do_when_everyone_is_asleep_at_night.md
+[2026-02-25 14:37:01] INFO      [PROCESSING] gmail_What_do_teens_do_at_night.md
+[2026-02-25 14:37:01] INFO      [PROCESSING] gmail_What_happens_if_you_do_not_eat_sugar_for_8_weeks.md
+[2026-02-25 14:37:02] INFO      [PROCESSING] gmail_What_happens_if_you_eat_20_billion_calories_in_one_day.md
+[2026-02-25 14:37:02] INFO      [PROCESSING] gmail_What_Is_A_Tariff_Anyway_Sam_W_in_Bouncin_and_Behavin_Blogs.md
+[2026-02-25 14:37:02] INFO      [PROCESSING] gmail_What_is_ABCDEFGH.md
+[2026-02-25 14:37:02] INFO      [PROCESSING] gmail_What_is_it_like_as_a_male_to_live_with_a_female_roommate.md
+[2026-02-25 14:37:02] INFO      [PROCESSING] gmail_What_is_the_most_disgusting_thing_you_ever_found_in_your_sib.md
+[2026-02-25 14:37:02] INFO      [PROCESSING] gmail_What_is_the_salary_after_SSC_CGL.md
+[2026-02-25 14:37:02] INFO      [PROCESSING] gmail_What_is_the_salary_of_a_tax_assistant_in_SSC_CGL.md
+[2026-02-25 14:37:02] INFO      [PROCESSING] gmail_What_is_your_salary_in_hand.md
+[2026-02-25 14:37:02] INFO      [PROCESSING] gmail_What_post_did_you_get_through_SSC_CGL_2022.md
+[2026-02-25 14:37:03] INFO      [PROCESSING] gmail_What_to_expect_from_content_curation.md
+[2026-02-25 14:37:03] INFO      [PROCESSING] gmail_What_will_happen_if_you_eat_bread_every_day.md
+[2026-02-25 14:37:03] INFO      [PROCESSING] gmail_Whats_the_salary_of_Narendra_Modi.md
+[2026-02-25 14:37:03] INFO      [PROCESSING] gmail_White_Label_Crypto_Exchange_SaaS_making_233K_Annual_Profit_C.md
+[2026-02-25 14:37:03] INFO      [PROCESSING] gmail_Who_was_Muhammads_favorite_wife_Khadijah_Aisha_or_Saffiya.md
+[2026-02-25 14:37:03] INFO      [PROCESSING] gmail_Why_500_LeetCode_Problems_Changed_My_Life_Surabhi_Gupta_in_C.md
+[2026-02-25 14:37:04] INFO      [PROCESSING] gmail_Why_and_How_to_Make_Sure_Your_Heart_Rate_Zones_Work_for_You_.md
+[2026-02-25 14:37:04] INFO      [PROCESSING] gmail_Why_do_pilots_say_Roger_What_does_Roger_mean_in_aviation.md
+[2026-02-25 14:37:04] INFO      [PROCESSING] gmail_Why_does_AC_release_water.md
+[2026-02-25 14:37:04] INFO      [PROCESSING] gmail_Why_does_the_Quran_say_in_394_that_Allah_can_have_a_son_whil.md
+[2026-02-25 14:37:04] INFO      [PROCESSING] gmail_Why_I_use_Stripe_in_WordPress.md
+[2026-02-25 14:37:04] INFO      [PROCESSING] gmail_Why_is_111111111_x_111111111_12345678987654321.md
+[2026-02-25 14:37:05] INFO      [PROCESSING] gmail_Why_is_vitamin_B12_so_dangerous.md
+[2026-02-25 14:37:05] INFO      [PROCESSING] gmail_Why_is_vitamin_B12_so_dangerous_2.md
+[2026-02-25 14:37:05] INFO      [PROCESSING] gmail_Why_Waking_Up_at_4_AM_on_Diwali_Is_Still_Worth_It_Sai_Kalyan.md
+[2026-02-25 14:37:05] INFO      [PROCESSING] gmail_Why_Your_Content_Fails_to_Rank_in_Google_1_Reason.md
+[2026-02-25 14:37:06] INFO      [PROCESSING] gmail_Will_a_smokers_lungs_clean_themselves_if_they_quit_smoking_a.md
+[2026-02-25 14:37:06] INFO      [PROCESSING] gmail_WooCommerce_time_hack_AI_guide_for_small_businesses.md
+[2026-02-25 14:37:06] INFO      [PROCESSING] gmail_WordPress_Emergency_Heres_Your_Lucky_Break_Save_10.md
+[2026-02-25 14:37:06] INFO      [PROCESSING] gmail_WordPress_media_library_hack_to_speed_up_your_site.md
+[2026-02-25 14:37:06] INFO      [PROCESSING] gmail_WordPress_Plugin_with_800_daily_downloads_Spanish_YouTube_bu.md
+[2026-02-25 14:37:06] INFO      [PROCESSING] gmail_WordPress_Search_Plugin_with_100K_Active_Installs_High_End_W.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_WordPress_Tips_Youll_Wish_You_Knew_Sooner.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_Workshop_Reminder_How_smart_business_grow_their_email_lists.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_WPBeginner_Live_Workshop_Dont_miss_out.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_WPBeginner_Turns_16_Today.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_Y2K_via_EthanUno.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_Yes_design_can_save_you_millions_Ivan_Sipilov_in_UX_Collecti.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_You_could_be_earning_cash_now.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_You_have_1_new_message.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_You_look_beautiful_honey.md
+[2026-02-25 14:37:07] INFO      [PROCESSING] gmail_You_wont_believe_the_new_AI_in_Photoshop.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_10.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_11.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_2.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_3.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_4.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_5.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_6.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_7.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_8.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_2025_Content_Advantage_Awaits_9.md
+[2026-02-25 14:37:08] INFO      [PROCESSING] gmail_Your_July_10_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_12_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_14_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_17_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_19_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_22_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_24_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_28_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_2_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_5_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_July_7_reels_of_the_day.md
+[2026-02-25 14:37:09] INFO      [PROCESSING] gmail_Your_June_27_reels_of_the_day.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_June_30_reels_of_the_day.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_last_chance_to_save.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Lucky_Day_Save_10_on_WordPress_Services.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_membership_mobile_app_without_the_dev_team.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_quarterly_Security_Suggestions_414-077-7149.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_10.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_11.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_12.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_13.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_14.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_15.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_16.md
+[2026-02-25 14:37:10] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_17.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_18.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_19.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_2.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_20.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_21.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_22.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_23.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_24.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_25.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_26.md
+[2026-02-25 14:37:11] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_27.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_28.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_29.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_3.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_30.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_4.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_5.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_6.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_7.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_8.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_Scoopit_Daily_Summary_9.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_10.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_11.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_2.md
+[2026-02-25 14:37:12] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_3.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_4.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_5.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_6.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_7.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_8.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Your_SEO_Writing_Upgrade_Important_Changes_Inside_9.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Your_WordPress_Blog_LinkedIn_on_Autopilot.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Youre_3_steps_away_from_a_complete_profile.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Youre_missing_out_on_points.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_YouTube_Monetization_Training_AxU_loves_your_comment.md
+[2026-02-25 14:37:13] INFO      [PROCESSING] gmail_Youve_lost_access_to_Meta_business_tools.md
+[2026-02-25 14:37:13] INFO    Vault: scanned=1157 triaged=874 planned=874 skipped=283 errors=0
+[2026-02-25 14:37:13] INFO    --- Social queue check ---
+[2026-02-25 14:37:14] INFO    --- Odoo sync ---
+[2026-02-25 14:38:57] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-02-25 14:39:05] INFO      Ralph: processed=2258 completed=1103 blocked=9 remaining=1164
+[2026-02-25 14:39:05] INFO    --- Recovery (retry failed tasks) ---
+[2026-02-25 14:39:05] INFO    --- Log rotation check ---
+[2026-02-25 14:39:05] INFO    Single cycle complete.
+[2026-02-25 14:39:05] INFO    Gold scheduler stopped.
+[2026-02-25 19:14:22] INFO    ============================================================
+[2026-02-25 19:14:22] INFO      Gold Tier Scheduler — Personal AI Employee
+[2026-02-25 19:14:23] INFO      Vault:    G:\Desktop\Hackathon_0\Bronze\AI_Employee_Vault\vault
+[2026-02-25 19:14:23] INFO      Mode:     once
+[2026-02-25 19:14:23] INFO      Config:   <Config sections=['scheduler', 'error_logging', 'briefing', 'social_accounts', 'odoo'] env_vars=13>
+[2026-02-25 19:14:23] INFO    ============================================================
+[2026-02-25 19:14:23] INFO    --- Gmail check ---
+[2026-02-25 19:14:30] INFO    --- Vault scan ---
+[2026-02-25 19:14:31] INFO    Vault: scanned=1157 triaged=0 planned=0 skipped=1157 errors=0
+[2026-02-25 19:14:31] INFO    --- Social queue check ---
+[2026-02-25 19:14:31] INFO    --- Odoo sync ---
+[2026-02-25 19:15:50] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-02-25 19:15:52] INFO      Ralph: processed=1155 completed=0 blocked=9 remaining=1164
+[2026-02-25 19:15:52] INFO    --- Recovery (retry failed tasks) ---
+[2026-02-25 19:15:52] INFO    --- Log rotation check ---
+[2026-02-25 19:15:52] INFO    Single cycle complete.
+[2026-02-25 19:15:52] INFO    Gold scheduler stopped.
+[2026-02-25 19:23:09] INFO    ============================================================
+[2026-02-25 19:23:09] INFO      Gold Tier Scheduler — Personal AI Employee
+[2026-02-25 19:23:09] INFO      Vault:    G:\Desktop\Hackathon_0\Bronze\AI_Employee_Vault\vault
+[2026-02-25 19:23:09] INFO      Mode:     once
+[2026-02-25 19:23:09] INFO      Config:   <Config sections=['scheduler', 'error_logging', 'briefing', 'social_accounts', 'odoo'] env_vars=13>
+[2026-02-25 19:23:09] INFO    ============================================================
+[2026-02-25 19:23:09] INFO    --- Gmail check ---
+[2026-02-25 19:23:23] INFO    --- Vault scan ---
+[2026-02-25 19:23:23] INFO      [PROCESSING] test_acme_invoice.md
+[2026-02-25 19:23:23] INFO    Vault: scanned=1158 triaged=1 planned=1 skipped=1157 errors=0
+[2026-02-25 19:23:24] INFO    --- Social queue check ---
+[2026-02-25 19:23:24] INFO    --- Odoo sync ---
+[2026-02-25 19:23:44] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-02-25 19:23:46] INFO      Ralph: processed=1156 completed=0 blocked=10 remaining=1166
+[2026-02-25 19:23:46] INFO    --- Recovery (retry failed tasks) ---
+[2026-02-25 19:23:46] INFO    --- Log rotation check ---
+[2026-02-25 19:23:47] INFO    Single cycle complete.
+[2026-02-25 19:23:47] INFO    Gold scheduler stopped.
+[2026-02-25 19:33:42] INFO    ============================================================
+[2026-02-25 19:33:42] INFO      Gold Tier Scheduler — Personal AI Employee
+[2026-02-25 19:33:42] INFO      Vault:    G:\Desktop\Hackathon_0\Bronze\AI_Employee_Vault\vault
+[2026-02-25 19:33:42] INFO      Mode:     daemon
+[2026-02-25 19:33:42] INFO      Interval: 5 minute(s)
+[2026-02-25 19:33:42] INFO      Config:   <Config sections=['scheduler', 'error_logging', 'briefing', 'social_accounts', 'odoo'] env_vars=13>
+[2026-02-25 19:33:42] INFO    ============================================================
+[2026-02-25 19:33:42] INFO    Daemon started. Ctrl+C to stop.
+
+[2026-02-25 19:33:42] INFO    ====== Cycle #11 ======
+[2026-02-25 19:33:42] INFO    --- Gmail check ---
+[2026-02-25 19:33:44] INFO    --- Vault scan ---
+[2026-02-25 19:33:45] INFO    Vault: scanned=1158 triaged=0 planned=0 skipped=1158 errors=0
+[2026-02-25 19:33:45] INFO    --- Social queue check ---
+[2026-02-25 19:33:45] INFO    --- Odoo sync ---
+[2026-02-25 19:33:50] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-02-25 19:33:51] INFO      Ralph: processed=1 completed=0 blocked=1165 remaining=1166
+[2026-02-25 19:33:51] INFO    --- Recovery (retry failed tasks) ---
+[2026-02-25 19:33:51] INFO    --- Log rotation check ---
+[2026-02-25 19:33:51] INFO    Cycle #11 done. Next in 5 min...
+
+[2026-02-26 14:28:03] INFO    ============================================================
+[2026-02-26 14:28:03] INFO      Gold Tier Scheduler — Personal AI Employee
+[2026-02-26 14:28:03] INFO      Vault:    G:\Desktop\Hackathon_0\Bronze\AI_Employee_Vault\vault
+[2026-02-26 14:28:03] INFO      Mode:     once
+[2026-02-26 14:28:03] INFO      Config:   <Config sections=['scheduler', 'error_logging', 'briefing', 'social_accounts', 'odoo'] env_vars=13>
+[2026-02-26 14:28:03] INFO    ============================================================
+[2026-02-26 14:28:05] WARNING Stale lock from PID 12272, overriding
+[2026-02-26 14:28:05] INFO    --- Gmail check ---
+[2026-02-26 14:29:24] INFO      Gmail: imported 1 new email(s)
+[2026-02-26 14:29:24] INFO    --- Vault scan ---
+[2026-02-26 14:29:28] INFO      [PROCESSING] gmail_Are_you_still_guessing_whats_wrong_with_your_site.md
+[2026-02-26 14:29:35] INFO    Vault: scanned=1159 triaged=1 planned=1 skipped=1158 errors=0
+[2026-02-26 14:29:35] INFO    --- Social queue check ---
+[2026-02-26 14:29:35] INFO    --- Odoo sync ---
+[2026-02-26 14:30:25] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-02-26 14:30:40] INFO      Ralph: processed=2 completed=1 blocked=1166 remaining=1167
+[2026-02-26 14:30:40] INFO    --- Recovery (retry failed tasks) ---
+[2026-02-26 14:30:40] INFO    --- Log rotation check ---
+[2026-02-26 14:30:40] INFO    Single cycle complete.
+[2026-02-26 14:30:40] INFO    Gold scheduler stopped.
+[2026-02-26 19:42:06] INFO    ============================================================
+[2026-02-26 19:42:06] INFO      Gold Tier Scheduler — Personal AI Employee
+[2026-02-26 19:42:06] INFO      Vault:    G:\Desktop\Hackathon_0\Bronze\AI_Employee_Vault\vault
+[2026-02-26 19:42:06] INFO      Mode:     once
+[2026-02-26 19:42:06] INFO      Config:   <Config sections=['scheduler', 'error_logging', 'briefing', 'social_accounts', 'odoo'] env_vars=13>
+[2026-02-26 19:42:06] INFO    ============================================================
+[2026-02-26 19:42:06] INFO    --- Gmail check ---
+[2026-02-26 19:42:38] INFO      Gmail: imported 1 new email(s)
+[2026-02-26 19:42:38] INFO    --- Vault scan ---
+[2026-02-26 19:42:38] INFO      [PROCESSING] gmail_You_appeared_in_5_searches.md
+[2026-02-26 19:42:38] INFO    Vault: scanned=1160 triaged=1 planned=1 skipped=1159 errors=0
+[2026-02-26 19:42:38] INFO    --- Social queue check ---
+[2026-02-26 19:42:39] INFO    --- Odoo sync ---
+[2026-02-26 19:42:52] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-02-26 19:43:03] INFO      Ralph: processed=2262 completed=1105 blocked=1168 remaining=2325
+[2026-02-26 19:43:03] INFO    --- Recovery (retry failed tasks) ---
+[2026-02-26 19:43:03] INFO    --- Log rotation check ---
+[2026-02-26 19:43:03] INFO    Single cycle complete.
+[2026-02-26 19:43:03] INFO    Gold scheduler stopped.
+[2026-03-03 13:32:04] INFO    ============================================================
+[2026-03-03 13:32:04] INFO      Gold Tier Scheduler — Personal AI Employee
+[2026-03-03 13:32:05] INFO      Vault:    G:\Desktop\Hackathon_0\Bronze\AI_Employee_Vault\vault
+[2026-03-03 13:32:05] INFO      Mode:     daemon
+[2026-03-03 13:32:05] INFO      Interval: 5 minute(s)
+[2026-03-03 13:32:05] INFO      Config:   <Config sections=['scheduler', 'error_logging', 'briefing', 'social_accounts', 'odoo'] env_vars=13>
+[2026-03-03 13:32:05] INFO    ============================================================
+[2026-03-03 13:32:05] INFO    Daemon started. Ctrl+C to stop.
+
+[2026-03-03 13:32:05] INFO    ====== Cycle #14 ======
+[2026-03-03 13:32:05] INFO    --- Gmail check ---
+[2026-03-03 13:32:16] INFO      Gmail: imported 20 new email(s)
+[2026-03-03 13:32:16] INFO    --- Vault scan ---
+[2026-03-03 13:32:17] INFO      [PROCESSING] gmail_48h_only_free_website_traffic_credits_1452.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1433.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1434.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1435.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1436.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1437.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1438.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1439.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1440.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1441.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1442.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1443.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1444.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1445.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1446.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1447.md
+[2026-03-03 13:32:18] INFO      [PROCESSING] gmail_Delivery_Status_Notification_Failure_1448.md
+[2026-03-03 13:32:19] INFO      [PROCESSING] gmail_Hiba_improve_your_profile_by_adding_skills.md
+[2026-03-03 13:32:19] INFO      [PROCESSING] gmail_rainbowwhispersasmr_catch_up_on_moments_youve_missed_1451.md
+[2026-03-03 13:32:22] INFO      [PROCESSING] gmail_You_appeared_in_5_searches_this_week.md
+[2026-03-03 13:32:23] INFO    Vault: scanned=1180 triaged=20 planned=20 skipped=1160 errors=0
+[2026-03-03 13:32:23] INFO    --- Social queue check ---
+[2026-03-03 13:32:23] INFO    --- Odoo sync ---
+[2026-03-03 13:32:29] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 13:32:30] INFO      Ralph: processed=46 completed=40 blocked=5 remaining=11
+[2026-03-03 13:32:30] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 13:32:30] INFO    --- Log rotation check ---
+[2026-03-03 13:32:30] INFO    Cycle #14 done. Next in 5 min...
+
+[2026-03-03 13:37:30] INFO    ====== Cycle #15 ======
+[2026-03-03 13:37:30] INFO    --- Gmail check ---
+[2026-03-03 13:37:31] INFO    --- Vault scan ---
+[2026-03-03 13:37:31] INFO    Vault: scanned=1180 triaged=0 planned=0 skipped=1180 errors=0
+[2026-03-03 13:37:31] INFO    --- Social queue check ---
+[2026-03-03 13:37:31] INFO    --- Odoo sync ---
+[2026-03-03 13:37:33] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 13:37:33] INFO      Ralph: processed=5 completed=0 blocked=6 remaining=11
+[2026-03-03 13:37:33] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 13:37:33] INFO    --- Log rotation check ---
+[2026-03-03 13:37:33] INFO    Cycle #15 done. Next in 5 min...
+
+[2026-03-03 13:42:33] INFO    ====== Cycle #16 ======
+[2026-03-03 13:42:33] INFO    --- Gmail check ---
+[2026-03-03 13:42:34] INFO    --- Vault scan ---
+[2026-03-03 13:42:35] INFO    Vault: scanned=1180 triaged=0 planned=0 skipped=1180 errors=0
+[2026-03-03 13:42:35] INFO    --- Social queue check ---
+[2026-03-03 13:42:35] INFO    --- Odoo sync ---
+[2026-03-03 13:42:36] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 13:42:37] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 13:42:37] INFO    --- Log rotation check ---
+[2026-03-03 13:42:37] INFO    Cycle #16 done. Next in 5 min...
+
+[2026-03-03 13:47:37] INFO    ====== Cycle #17 ======
+[2026-03-03 13:47:37] INFO    --- Gmail check ---
+[2026-03-03 13:47:38] INFO    --- Vault scan ---
+[2026-03-03 13:47:38] INFO    Vault: scanned=1180 triaged=0 planned=0 skipped=1180 errors=0
+[2026-03-03 13:47:38] INFO    --- Social queue check ---
+[2026-03-03 13:47:38] INFO    --- Odoo sync ---
+[2026-03-03 13:47:42] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 13:47:42] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 13:47:42] INFO    --- Log rotation check ---
+[2026-03-03 13:47:42] INFO    Cycle #17 done. Next in 5 min...
+
+[2026-03-03 13:52:42] INFO    ====== Cycle #18 ======
+[2026-03-03 13:52:42] INFO    --- Gmail check ---
+[2026-03-03 13:52:44] INFO    --- Vault scan ---
+[2026-03-03 13:52:44] INFO    Vault: scanned=1180 triaged=0 planned=0 skipped=1180 errors=0
+[2026-03-03 13:52:44] INFO    --- Social queue check ---
+[2026-03-03 13:52:44] INFO    --- Odoo sync ---
+[2026-03-03 13:52:47] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 13:52:47] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 13:52:47] INFO    --- Log rotation check ---
+[2026-03-03 13:52:47] INFO    Cycle #18 done. Next in 5 min...
+
+[2026-03-03 13:57:47] INFO    ====== Cycle #19 ======
+[2026-03-03 13:57:47] INFO    --- Gmail check ---
+[2026-03-03 13:57:52] INFO    --- Vault scan ---
+[2026-03-03 13:57:53] INFO    Vault: scanned=1180 triaged=0 planned=0 skipped=1180 errors=0
+[2026-03-03 13:57:53] INFO    --- Social queue check ---
+[2026-03-03 13:57:53] INFO    --- Odoo sync ---
+[2026-03-03 13:57:56] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 13:57:56] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 13:57:56] INFO    --- Log rotation check ---
+[2026-03-03 13:57:56] INFO    Cycle #19 done. Next in 5 min...
+
+[2026-03-03 14:02:56] INFO    ====== Cycle #20 ======
+[2026-03-03 14:02:56] INFO    --- Gmail check ---
+[2026-03-03 14:02:57] INFO    --- Vault scan ---
+[2026-03-03 14:02:58] INFO    Vault: scanned=1180 triaged=0 planned=0 skipped=1180 errors=0
+[2026-03-03 14:02:58] INFO    --- Social queue check ---
+[2026-03-03 14:02:58] INFO    --- Odoo sync ---
+[2026-03-03 14:02:59] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 14:02:59] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 14:02:59] INFO    --- Log rotation check ---
+[2026-03-03 14:02:59] INFO    Cycle #20 done. Next in 5 min...
+
+[2026-03-03 14:07:59] INFO    ====== Cycle #21 ======
+[2026-03-03 14:07:59] INFO    --- Gmail check ---
+[2026-03-03 14:08:01] INFO    --- Vault scan ---
+[2026-03-03 14:08:01] INFO    Vault: scanned=1180 triaged=0 planned=0 skipped=1180 errors=0
+[2026-03-03 14:08:01] INFO    --- Social queue check ---
+[2026-03-03 14:08:01] INFO    --- Odoo sync ---
+[2026-03-03 14:08:03] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 14:08:03] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 14:08:03] INFO    --- Log rotation check ---
+[2026-03-03 14:08:03] INFO    Cycle #21 done. Next in 5 min...
+
+[2026-03-03 14:13:03] INFO    ====== Cycle #22 ======
+[2026-03-03 14:13:03] INFO    --- Gmail check ---
+[2026-03-03 14:13:05] INFO    --- Vault scan ---
+[2026-03-03 14:13:05] INFO    Vault: scanned=1180 triaged=0 planned=0 skipped=1180 errors=0
+[2026-03-03 14:13:05] INFO    --- Social queue check ---
+[2026-03-03 14:13:05] INFO    --- Odoo sync ---
+[2026-03-03 14:13:09] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 14:13:10] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 14:13:10] INFO    --- Log rotation check ---
+[2026-03-03 14:13:10] INFO    Cycle #22 done. Next in 5 min...
+
+[2026-03-03 14:18:10] INFO    ====== Cycle #23 ======
+[2026-03-03 14:18:10] INFO    --- Gmail check ---
+[2026-03-03 14:18:12] INFO    --- Vault scan ---
+[2026-03-03 14:18:12] INFO    Vault: scanned=1180 triaged=0 planned=0 skipped=1180 errors=0
+[2026-03-03 14:18:12] INFO    --- Social queue check ---
+[2026-03-03 14:18:15] INFO    --- Odoo sync ---
+[2026-03-03 14:18:20] INFO    --- Ralph Wiggum (autonomous task loop) ---
+[2026-03-03 14:18:21] INFO    --- Recovery (retry failed tasks) ---
+[2026-03-03 14:18:21] INFO    --- Log rotation check ---
+[2026-03-03 14:18:21] INFO    Cycle #23 done. Next in 5 min...
+

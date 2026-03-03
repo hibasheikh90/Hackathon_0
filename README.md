@@ -334,11 +334,29 @@ Bronze/
 │   ├── daily_error_summary.py     # Daily error report
 │   └── data_collectors/           # Metric collection modules
 │
+├── skills/                        # Claude Agent Skills (all AI functionality)
+│   ├── file-triage/               # Inbox triage decision engine
+│   ├── reasoning-planner/         # Task planning and prioritization
+│   ├── task-planner/              # Plan file generation
+│   ├── gmail-watcher/             # Gmail IMAP polling
+│   ├── whatsapp-watcher/          # WhatsApp Web automation
+│   ├── approval-gate/             # Human-in-the-loop approval workflow
+│   ├── mcp-server/                # MCP server management
+│   ├── odoo-accounting/           # Odoo ERP: invoices, expenses, reports
+│   ├── twitter-post/              # X/Twitter API v2 posting
+│   ├── instagram-post/            # Instagram Playwright automation
+│   ├── facebook-post/             # Facebook Playwright automation
+│   ├── ralph-loop/                # Autonomous execution engine
+│   └── ceo-briefing/              # Weekly + daily executive reports
+│
 ├── vault/                         # Task vault (Obsidian-style)
 │   ├── Dashboard.md               # System status
 │   ├── Company_Handbook.md        # Reference docs
 │   ├── Inbox/                     # New tasks land here
 │   ├── Needs_Action/              # Tasks being processed
+│   ├── Pending_Approval/          # Awaiting human approval (HITL)
+│   ├── Approved/                  # Human-approved actions ready to execute
+│   ├── Rejected/                  # Human-rejected actions (archived)
 │   └── Done/                      # Completed work archive
 │
 ├── logs/                          # Logging & audit trail
@@ -583,6 +601,13 @@ The next weekly briefing includes:
 | MCP servers (vault, accounting, email, social, briefing) | Done |
 | Configuration validator | Done |
 | End-to-end test suite | Done |
+| HITL vault folders (Pending_Approval, Approved, Rejected) | Done |
+| Agent Skills — Odoo accounting | Done |
+| Agent Skills — Twitter/X post | Done |
+| Agent Skills — Instagram post | Done |
+| Agent Skills — Facebook post | Done |
+| Agent Skills — Ralph autonomous loop | Done |
+| Agent Skills — CEO briefing | Done |
 
 ---
 

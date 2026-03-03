@@ -23,7 +23,7 @@ if str(_PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(_PROJECT_ROOT))
 
 from core.error_logger import logger as error_logger
-from integrations.odoo.client import OdooClient
+from integrations.odoo.client import OdooClient, OdooConnectionError
 
 
 class FinancialReports:
@@ -96,12 +96,25 @@ class FinancialReports:
 
         Reads the balance of bank and cash type journals.
         """
-        # Get bank journals
-        journals = self.client.search_read(
-            "account.journal",
-            [("type", "in", ["bank", "cash"])],
-            fields=["name", "type", "default_account_id"],
-        )
+        empty = {
+            "total": 0.0,
+            "accounts": [],
+            "as_of": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        }
+
+        # Get bank journals — account.journal may not be accessible on all Odoo plans
+        try:
+            journals = self.client.search_read(
+                "account.journal",
+                [("type", "in", ["bank", "cash"])],
+                fields=["name", "type", "default_account_id"],
+            )
+        except OdooConnectionError:
+            error_logger.log_audit("odoo.reports.cash_position", "skipped", {
+                "reason": "account.journal not accessible — "
+                          "Accounting app may not be installed or configured"
+            })
+            return empty
 
         accounts = []
         total = 0.0

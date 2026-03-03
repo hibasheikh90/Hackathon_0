@@ -94,9 +94,10 @@ def login(page, email: str, password: str) -> None:
 def _find_editor(page):
     """Try to find the post editor on the current page."""
     editor_selectors = [
+        ".ql-editor[contenteditable='true']",
         "[role='textbox'][contenteditable='true']",
         "[contenteditable='true'][data-placeholder]",
-        ".ql-editor[contenteditable='true']",
+        "div.editor-content[contenteditable='true']",
         "div[contenteditable='true']",
     ]
     for sel in editor_selectors:
@@ -111,34 +112,79 @@ def _find_editor(page):
 
 def _try_open_composer(page) -> bool:
     """Attempt to open the post composer modal. Returns True if editor found."""
-    # Attempt 1: click button containing "Start a post"
+    # Attempt 1: LinkedIn's share-box trigger (class-based selectors)
+    for sel in [
+        ".share-box-feed-entry__trigger",
+        "[class*='share-box-feed-entry__trigger']",
+        "[data-control-name='share.sharebox_trigger']",
+        "button[aria-label*='Start a post' i]",
+        "div[aria-label*='Start a post' i]",
+    ]:
+        try:
+            loc = page.locator(sel).first
+            if loc.count() > 0:
+                print(f"[DEBUG] Found element with selector: {sel}")
+                loc.scroll_into_view_if_needed()
+                page.wait_for_timeout(500)
+                loc.click(force=True, timeout=5000)
+                page.wait_for_timeout(4000)
+                if _find_editor(page):
+                    return True
+        except Exception:
+            pass
+
+    # Attempt 2: JavaScript click — finds any element whose text is "Start a post"
     try:
-        btn = page.locator("button").filter(has_text="Start a post").first
-        if btn.count() > 0:
-            btn.click(force=True, timeout=5000)
-            page.wait_for_timeout(3000)
+        found = page.evaluate("""() => {
+            const candidates = Array.from(document.querySelectorAll('button, div[role="button"], [tabindex]'));
+            const el = candidates.find(e => e.textContent.trim().startsWith('Start a post'));
+            if (el) { el.click(); return true; }
+            return false;
+        }""")
+        if found:
+            print("[DEBUG] JS click on 'Start a post' element succeeded")
+            page.wait_for_timeout(4000)
             if _find_editor(page):
                 return True
     except Exception:
         pass
 
-    # Attempt 2: click by exact text
+    # Attempt 3: click button containing "Start a post" text
     try:
-        page.get_by_text("Start a post").first.click(force=True, timeout=5000)
-        page.wait_for_timeout(3000)
+        btn = page.locator("button").filter(has_text="Start a post").first
+        if btn.count() > 0:
+            print("[DEBUG] Found button with text 'Start a post'")
+            btn.click(force=True, timeout=5000)
+            page.wait_for_timeout(4000)
+            if _find_editor(page):
+                return True
+    except Exception:
+        pass
+
+    # Attempt 4: use keyboard shortcut
+    try:
+        page.keyboard.press("Tab")
+        page.wait_for_timeout(500)
+        page.keyboard.press("Enter")
+        page.wait_for_timeout(4000)
         if _find_editor(page):
             return True
     except Exception:
         pass
 
-    # Attempt 3: use keyboard shortcut / tab + enter
+    # Debug: print what buttons exist on the page
     try:
-        page.keyboard.press("Tab")
-        page.wait_for_timeout(500)
-        page.keyboard.press("Enter")
-        page.wait_for_timeout(3000)
-        if _find_editor(page):
-            return True
+        btns = page.evaluate("""() => {
+            return Array.from(document.querySelectorAll('button')).slice(0, 20).map(b => ({
+                text: b.textContent.trim().slice(0, 60),
+                cls: b.className.slice(0, 80),
+                aria: b.getAttribute('aria-label') || ''
+            }));
+        }""")
+        print("[DEBUG] Buttons on page:")
+        for b in btns:
+            if b['text'] or b['aria']:
+                print(f"  text={repr(b['text'])} aria={repr(b['aria'])} cls={b['cls']}")
     except Exception:
         pass
 
