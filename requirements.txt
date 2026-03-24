@@ -1,0 +1,42 @@
+# Core requirements for Platinum Tier AI Employee
+anthropic>=0.21.0
+mcp>=1.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+PyYAML>=6.0
+jinja2>=3.1.0
+docker>=7.0.0
+psutil>=5.9.0
+playwright>=1.40.0
+selenium>=4.15.0
+
+# For Bronze/Silver/Gold tier compatibility
+watchdog>=3.0.0
+openai>=1.0.0
+tiktoken>=0.5.0
+
+# For social media integration
+instagrapi>=2.0.0
+facebook-sdk>=3.1.0
+tweepy>=4.14.0
+linkedin-api-v2>=1.0.0
+
+# For email integration
+imap-tools>=1.4.0
+exchangelib>=5.0.0
+
+# For Odoo integration
+odoorpc>=0.10.0
+xmlrpc-client>=1.0.0
+
+# For vault synchronization
+GitPython>=3.1.0
+cryptography>=41.0.0
+
+# For scheduling
+schedule>=1.2.0
+APScheduler>=3.10.0
+
+# For testing
+pytest>=7.4.0
+pytest-asyncio>=0.23.0

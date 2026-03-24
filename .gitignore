@@ -1,6 +1,8 @@
-# Secrets & credentials
+# Secrets & credentials — NEVER commit these
 .env
 *.env
+.env.local
+.env.*.local
 *.pem
 *.key
 secrets/
@@ -25,9 +27,11 @@ logs/
 .gold_scheduler_state.json
 .gmail_watcher_state.json
 
-# Browser data (LinkedIn, etc.)
-Bronze/integrations/social/.linkedin_browser_data/
+# Browser profile data (contains session cookies — treat as secrets)
 **/.linkedin_browser_data/
+**/.instagram_browser_data/
+**/.facebook_browser_data/
+**/.browser_data/
 
 # Generated vault folders
 Bronze/AI_Employee_Vault/vault/Inbox/
